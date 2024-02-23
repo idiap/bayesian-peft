@@ -1,0 +1,1000 @@
+train-clean-360/3072/155948/3072_155948_000007_000011.wav|ʌv kˈoːɹs bˈɑːksɪŋ ʃˌʊd biː ɛŋkˈɜːɹɪdʒd ɪnðɪ ˈɑːɹmi ænd nˈeɪvi.|1037
+train-clean-360/1046/133225/1046_133225_000040_000000.wav|ðə pˈeɪɪŋ tˈɛlɚɹ əvə bˈæŋk, sˈɛz mˈɪstɚ wˈʊdz, mˈʌst kˈiːp hɪz ˈaɪz ˈoʊpən fɔːɹ nˈuː dˈeɪndʒɚz æz wˈɛl æz ˈoʊld wˌʌnz.|416
+train-clean-360/5660/101892/5660_101892_000007_000001.wav|æz fɔːɹ hˈɪlkɹɛstʃiː sˈɜːʔn̩li wʊd nˌɑːt stˈeɪ æt hˈɪlkɹɛst ˈɛnɪwˌeɪnˈaʊ.|635
+train-clean-360/6317/54487/6317_54487_000009_000004.wav|ɪn ɪfˈɛkt, ɐmˈɛɹɪkənz wɜː nˈaʊ lˈaɪsənst baɪ ɡɹˈeɪt bɹˈɪtən tə tɹˈeɪd ɪn sˈɜːʔn̩ kəmˈɑːdᵻɾiz ænd ɪn sˈɜːʔn̩ ɐmˈaʊnts wɪð nˈuːtɹəl kˈʌntɹiz.|459
+train-clean-360/1913/147989/1913_147989_000030_000003.wav|ɪt wʌz sˌoʊ sˈɔft ænd ˌʌnɛksˈaɪɾᵻd ænd ɐpɹˈiːʃiətˌɪvɡˈeɪv ɐ fˈeɪvɚɹəbəl ɪntˌɜːpɹɪtˈeɪʃən tʊ ˈɛvɹɪθˌɪŋ.|374
+train-clean-360/176/122025/176_122025_000052_000001.wav|bˌʌt duːnˌɑːt tɹˈʌbəl ɐbˈaʊt mˌiː.|405
+train-clean-360/454/134728/454_134728_000020_000000.wav|maɪ kənˈɛɹi bˈɜːd |898
+train-clean-360/3638/696/3638_696_000068_000012.wav|jˈɛt ðɛɹ hɐvbɪn ænd stˈɪl ɑːɹ dʒˌiːoʊmɪtɹˈɪʃənz ænd fɪlˈɑːsəfɚz, ænd ˈiːvən sˌʌm ʌvðə mˈoʊst dɪstˈɪŋɡwɪʃt, hˌuː dˈaʊt wˈɛðɚ ðə hˈoʊl jˈuːnɪvˌɜːs, ɔːɹ tə spˈiːk mˈoːɹ wˈaɪdli ðə hˈoʊl ʌv bˈiːɪŋ, wʌz ˈoʊnli kɹiːˈeɪɾᵻd ɪn jˈuːklɪdz dʒiˈɑːmətɹi; ðeɪ ˈiːvən dˈɛɹ tə dɹˈiːm ðæt tˈuː pˈæɹəlˌɛl lˈaɪnz, wˌɪtʃ ɐkˈoːɹdɪŋ tə jˈuːklɪd kæn nˈɛvɚ mˈiːt ˌɔn ˈɜːθ, mˈeɪ mˈiːt sˈʌmwɛɹ ɪn ɪnfˈɪnᵻɾi.|751
+train-clean-360/5717/61421/5717_61421_000043_000002.wav|wˈɛl, aɪv bˌɪn tə θɹˈiː ʌv ðoʊz ɪntˈɛlɪdʒəns ˈɑːfɪsᵻzðˌoʊ wˌaɪ ðeɪ kˈɔːl ðˌɛm ðæt aɪ kˈænt ɪmˈædʒɪn.|813
+train-clean-360/8011/280922/8011_280922_000001_000007.wav|ænd aɪ plˈʌndʒd ɹˈaɪt ˌɪntʊ ðə mˈɪdst ʌvðə bˈʊʃᵻz, ænd hˈɜːd ɐ pˈɛzənt plˈaʊɪŋ ɐlˈoʊn ɔnðə klˈɪɹɪŋ ɐbˌaʊt θˈɜːɾi pˈeɪsᵻz ɐwˈeɪ.|29
+train-clean-360/5190/87766/5190_87766_000015_000001.wav|ɐ mˈæn ɪz dˈaɪɪŋ ʌv kˈænsɚ, ænd dˈuː aɪ θˈɪŋk ɪt kæn biː kjˈʊɹd baɪ ɐ fˈæst?|120
+train-clean-360/5606/54667/5606_54667_000044_000000.wav|hiː kˈɔft ɹˈæðɚɹ ʌnˈiːzili; tˈɜːnd tə ðə tˈeɪbəl, ænd pˈoːɹd ˈaʊt ɐnˈʌðɚ ɡlˈæs ʌv ʃˈɛɹihɪz hˈænd tɹˈɛmblɪŋ ɐ lˈɪɾəl æz hiː dˈɪd sˈoʊ.|479
+train-clean-360/2156/17942/2156_17942_000022_000003.wav|wˈʌn θˈɪŋ ʃiː kʊd nˌɑːt kənsˈiːvðɪ ɪndˈɑːmɪɾəbəl spˈɪɹɪt ʌvðə mˈɛn.|90
+train-clean-360/2570/157243/2570_157243_000005_000000.wav|wˈɛl, ʌv kˈoːɹs, aɪ sˈiː juːv mˈɛndᵻd ɪt vˈɛɹi nˈaɪsli, ænd ðæt wʌz swˈiːt ʌv juː, dˈɪɹz.|921
+train-clean-360/1859/145701/1859_145701_000016_000000.wav|lˈɪɾəl ɡɹˈiːn tˈoʊd hˌuːz lˈɛɡ dʌθ twˈɪst, ɡˌoʊ tə ðə kˈɔːɹnɚ ʌvwˈɪtʃ juː wˈɪst, ænd bɹˈɪŋ tə mˌiː ðə lˈɑːɹdʒ ˈoʊld kˈɪst.|784
+train-clean-360/6215/62347/6215_62347_000005_000000.wav|"aɪ nˈoʊ," ʃiː sˈɛd; "aɪ nˈoʊ.|754
+train-clean-360/1365/134825/1365_134825_000017_000014.wav|bˌʌt, pˈɑːɹdən mˌiː, juː kænˈɑːt ˌʌndɚstˈænd wʌt aɪɐm sˈeɪɪŋ.|1086
+train-clean-360/3368/170951/3368_170951_000135_000000.wav|juː ɐɡɹˈiː wɪð mˌiː ðˈɛn, aɪ sˈɛd, ðæt ðɪs ɪz ðə sˈɛkənd tˈaɪp ɔːɹ fˈɔːɹm ɪnwˌɪtʃ wiː ʃˌʊd ɹˈaɪt ænd spˈiːk ɐbˌaʊt dᵻvˈaɪn θˈɪŋz.|1106
+train-clean-360/2056/143893/2056_143893_000072_000000.wav|"hiː ˈɔːt nˌɑːt tuː," sˈɛd ˈɪzəbˌɛl lˈɔftili.|196
+train-clean-360/64/73712/64_73712_000015_000013.wav|nˈoʊ! nˌɑːt mˈɪs tˈɛmpəl!|907
+train-clean-360/1806/2536/1806_2536_000012_000002.wav|wˈʌn bɹɪɡˈeɪd ɐsˈɛndᵻd ðə mˈoʊhɔːk ʌntˈɪl ɪt ɹˈiːtʃt ðə pˈɔɪnt nˌɪɹɪst tə ðə sˈoːɹsᵻz ʌvðə sˌʌskwɪhˈænə, wˈɛns ɪt kˈʌt ɐ lˈeɪn θɹuː ðə fˈɔːɹɪst tə ðə hˈɛd ʌvðɪ ɑːtsˈiːɡoʊ.|1105
+train-clean-360/1754/140639/1754_140639_000035_000000.wav|ˈɜːli kˈeɪm ðə |284
+train-clean-360/5400/3587/5400_3587_000136_000000.wav|"wˈɛl, aɪ wʌz sˈɛnt ˌʌp ˌɪntʊ vɜːmˈɔnt tə stˈeɪ æt ðɪ ˈoʊld plˈeɪs.|715
+train-clean-360/54/121079/54_121079_000062_000000.wav|"nˈʌθɪŋ nˈuː; juː hæv ɐn ˈaʊɚ; ɔːɹ tə mˈɑːɹoʊ."|251
+train-clean-360/1271/133279/1271_133279_000018_000005.wav|ðə nˈeɪʃənz ɐmˌʌŋst wˌɪtʃ ðɪs lˈɪbɚɾi ɛɡzˈɪsts ɑːɹ æz ˈæpt tə klˈɪŋ tə ðɛɹ əpˈɪniənz fɹʌm pɹˈaɪd æz fɹʌm kənvˈɪkʃən. ðeɪ tʃˈɛɹɪʃ ðˌɛm bɪkˈʌz ðeɪ hˈoʊld ðˌɛm təbi dʒˈʌst, ænd bɪkˈʌz ðeɪ ˈɛksɚsˌaɪzd ðɛɹ ˈoʊn fɹˈiː wɪl ɪn tʃˈuːzɪŋ ðˌɛm; ænd ðeɪ meɪntˈeɪn ðˌɛm nˌɑːt ˈoʊnli bɪkˈʌz ðeɪ ɑːɹ tɹˈuː, bˌʌt bɪkˈʌz ðeɪ ɑːɹ ðɛɹ ˈoʊn.|1028
+train-clean-360/4331/57179/4331_57179_000002_000007.wav|ɪt wʊd biː ɪmpˈɑːsᵻbəl ðæt hiː ʃˌʊd ˈiːvən sˈiːm tə fɚɡˈɛt ðˌɛm.|517
+train-clean-360/7939/120325/7939_120325_000061_000000.wav|"ænd wʌt kˈeɪm ʌv ɪt?"|804
+train-clean-360/16/122827/16_122827_000066_000002.wav|wiːl ʃˈʌt ɡɹˈiːn ɡˈeɪbəlz ˌʌp ænd spˈɛnd ðə hˈoʊl dˈeɪ æt ðə ʃˈoːɹ, dˈæfɪŋ ðə wˈɜːld ɐsˈaɪd."|66
+train-clean-360/6160/44912/6160_44912_000005_000000.wav|"æz tʊ ˈænsɚɹɪŋ," ʃiː jˈuːzd tə sˈeɪ, "aɪ dˈoʊnt ˈænsɚ vˈɛɹi ˈɔfən.|100
+train-clean-360/6406/89940/6406_89940_000001_000000.wav|tʃˈæptɚ θˈɜːtiːn.|216
+train-clean-360/7720/105168/7720_105168_000040_000001.wav|"nˈiːðɚɹ ʌv juː bᵻlˈɔŋ ɪnðə dʒˈʌŋɡəl." ɐ slˈaɪt smˈaɪl tˈʌtʃt hɪz lˈɪps æz hiː spˈoʊk.|308
+train-clean-360/5635/53458/5635_53458_000019_000000.wav|ʌv kˈoːɹs pəpˈoʊpoʊ wʌz ɪnvˈɪzᵻbəl tə mˈɔːɹɾəl ˈaɪz, sˌoʊ hiː stˈʊd baɪ ænd lˈɪsənd tə ðɛɹ kɑːnvɚsˈeɪʃən.|963
+train-clean-360/2517/135229/2517_135229_000041_000001.wav|ðə ʃˈɑːk ʌv ðɪs dɪskˈʌvɚɹi wʌz ˌoʊvɚpˈaʊɚɹɪŋ, ænd sˌʌm tˈaɪm ᵻlˈæpst bᵻfˌoːɹ aɪ kʊd ɹˈæli fɹʌm ɪt.|724
+train-clean-360/718/129597/718_129597_000032_000001.wav|ˌɪndˈiːd, aɪ mˈeɪ sˈeɪwɪðˌaʊt vˈænᵻɾi, aɪ hˈoʊpðæt aɪ hˈɛld sˈʌmθɪŋ lˈaɪk pɹˈiː ˈɛmɪnəns ɐmˈʌŋ ðˌɛm. wˈʌn ɔːɹ tˈuː, hˈuːm ɪn ɐ ɹˈɛɹ ˈæksɛs ʌv hˈaɪ spˈɪɹɪts aɪ hæd skˈɑːɹd ɹˈæðɚ bˈædli, bˈoːɹ mˌiː ɐ ɡɹˈʌdʒ; bˌʌt ɪt vˈɛntᵻd ɪtsˈɛlf tʃˈiːfli bᵻhˌaɪnd maɪ bˈæk, ænd æɾə sˈeɪf dˈɪstəns fɹʌm maɪ mˈɪsəlz, ɪn ɡɹˈɪmɪsᵻz.|955
+train-clean-360/2074/149033/2074_149033_000022_000000.wav|pˈʊɹ mˈɪstɚ sˈɔltiːnə.|503
+train-clean-360/329/862/329_862_000003_000000.wav|"ˈɔːl ɪz lˈɔst," sˌɜː dʒˈɑːn ɛksklˈeɪmd; "lˈɛt ˌʌs fˈɔːl bˈæk tə ðə kˈæsəl ænd dˈaɪ fˈaɪɾɪŋ ðˈɛɹ."|556
+train-clean-360/8498/287357/8498_287357_000063_000003.wav|wɪl juː ɡˈoʊ, tˈɑːm swˈɪft?"|795
+train-clean-360/4425/14497/4425_14497_000037_000000.wav|lˈɪɾəl dˈoːɹɡləmz, wiː ˌɑːɹnt æɾ ˈɔːl wˈɛl.|1048
+train-clean-360/1050/134121/1050_134121_000038_000001.wav|ɐ kˈɑːɹpəntɚ!" ɛksklˈeɪmd ðə ɹˈɛst.|603
+train-clean-360/1705/142318/1705_142318_000015_000002.wav|bˌʌt wˌɛɹ ɑːɹ ðɪ ˈʌðɚz?|450
+train-clean-360/2230/132101/2230_132101_000068_000000.wav|"maɪ dˈɪɹ, juː ɑːɹ ˌoʊvɚdˈuːɪŋ ɪt sˈædli," hiː sˈɛd, æz kˈeɪɾi ˈoʊpənd hɜː bˈʊk ænd pɹɪpˈɛɹd tʊ ɛksplˈeɪn hɜː vjˈuːz; "aɪɐm ɡlˈæd tə hæv ðə tʃˈɪldɹən ˈiːt sˈɪmpəl fˈuːdbˌʌt ɹˈiəli, bˈɔɪld ɹˈaɪs fˈaɪv tˈaɪmz ɪn ɐ wˈiːk ɪz tˈuː mʌtʃ."|831
+train-clean-360/4490/16003/4490_16003_000014_000001.wav|ɐ ɹˌɛvəlˈuːʃən ɪz ɐ ɹᵻtˈɜːn fɹʌmðə fɪktˈɪʃəs tə ðə ɹˈiːəl.|889
+train-clean-360/7825/258978/7825_258978_000028_000000.wav|ðə dʒˈɛnɚɹəl, ɔːɹ ˈævɹɪdʒ, ɡˈeɪn ɪz nˌɑːt təbi dʒˈʌdʒd baɪ kəmpˈɛɹɪŋ ðə kəndˈɪʃənz ʌvðə lˈoʊɪst ɡɹˈeɪd ʌv səsˈaɪəɾi wɪð ðoʊz ʌv fˈɪfti jˈɪɹz ɐɡˈoʊ, fɔːɹ wˌaɪl ðæt ɡɹˈeɪd mˌeɪhɐv bˌɪn bˈɛɾɚd ˈoʊnli ɐ lˈɪɾəl, ɪt hɐzbɪn pˈɑːsᵻbəl fɔːɹ lˈɑːɹdʒ nˈʌmbɚz tə ɹˈaɪz tə hˈaɪɚ ɡɹˈeɪdz bɪkˈʌz ʌvðə jˈuːs ʌv məʃˈiːnɚɹi.|377
+train-clean-360/6694/70837/6694_70837_000062_000002.wav|ɐ smˈɔːl bˈɔɪ hæd klˈaɪmd ˌʌp ðə sˈaɪd ʌvðə θˈɪŋ ænd wʌz lˈʊkɪŋ dˌaʊn ðə bˈæɹəl əvə məʃˈiːn ɡˈʌn.|1130
+train-clean-360/836/131106/836_131106_000016_000015.wav|tɹˈɛmblɪŋ wɪð fˈɪɹ, ðə ɡˈɑːd tʃˈɪɹd mˌiː.|927
+train-clean-360/7313/91072/7313_91072_000026_000002.wav|æt ðɪs tˈaɪm hiː wʌz ˈɔːlsoʊ pɹˈɑːmɪnəntli ɪnðə lˈɛktʃɚ fˈiːld, spˈiːkɪŋ twˈaɪs ɐ wˈiːk tə lˈɑːɹdʒ ˈɔːdiənsᵻz ˈɔːl ˌoʊvɚ ðə kˈʌntɹi.|64
+train-clean-360/225/131259/225_131259_000011_000001.wav|"ɪn tˈaʊn maɪ mˈɔːɹnɪŋz ɑːɹ sˈoʊ mˌʌtʃ ˈɑːkjʊpˌaɪd ðæt aɪ fˈaɪnd ɪt mˈoːɹ kənvˈiːnɪənt tə ɹˈiːd ðə nˈuːzpeɪpɚz ˈæftɚ lˈʌntʃən."|944
+train-clean-360/4278/13269/4278_13269_000004_000000.wav|dˈɑːktɚ bɹˈuːs lˈʊkt ˌoʊvɚɹ æt ðə bˈɪʃəp ænd ʃˈʊk hɪz hˈɛd.|957
+train-clean-360/1777/142750/1777_142750_000001_000012.wav|ɪn ðɪs tʃˈæptɚ wiː ɑːɹ nˌɑːt ˈæskɪŋ hˌaʊ wiː kæn nˈoʊ wˈɛðɚɹ ɐ bᵻlˈiːf ɪz tɹˈuː ɔːɹ fˈɔls: wiː ɑːɹ ˈæskɪŋ wʌt ɪz mˈɛnt baɪ ðə kwˈɛstʃən wˈɛðɚɹ ɐ bᵻlˈiːf ɪz tɹˈuː ɔːɹ fˈɔls.|789
+train-clean-360/4731/95875/4731_95875_000013_000002.wav|ɪn ˈeɪtiːn sˈɛvənti θɹˈiː, haʊˈɛvɚ, ɐ nˈuː sˈɛkʃən, sˈɛd tə hɐvbɪn dɹˈæftᵻd baɪ kəmstˈɑːk hɪmsˈɛlf, wʌz sˈʌbstɪtˌuːɾᵻd fɚðə wˈʌn ɛnˈæktᵻd ɪn ˈeɪtiːn sˈɛvənti tˈuː, ænd ðæt sˈɛkʃən ɪz ᵻsˈɛnʃəli ðə sˈʌbstəns ʌvðə pɹˈɛzənt lˈɔː.|615
+train-clean-360/9023/296468/9023_296468_000017_000003.wav|ɪɾ ɪz ɐ hˈæf bɹˈɛd pˈɜːʒən kˈæt, ænd ɪts ˈaɪz ɑːɹ pˈɜːfɛktli blˈuː, wɪð ɹˈaʊnd pjˈuːpəlz, nˌɑːt ˈiːlˌɑːŋɡeɪɾᵻd, æz ðoʊz ʌv kˈæts jˈuːʒuːəli ɑːɹ.|76
+train-clean-360/6014/32904/6014_32904_000007_000002.wav|ɪz ɪt mˈɑːɹtɪn ʌvðə tʃˈaɪnə kˈɪlnz, ɔːɹ mˈɑːɹtɪn ʌvðə bˈæŋk?|490
+train-clean-360/4629/19366/4629_19366_000008_000005.wav|ɪf ðə spɹˈɛdɪŋ ˈaʊt dᵻpˈɛndᵻd ɔnðə pɹˈɪzəm ˈoʊnli ɪt ʃˌʊd spɹˈɛd ˈaʊt dʒˈʌst æz mˈʌtʃ æz bᵻfˈoːɹ, bˌʌt ɪf ɪt dᵻpˈɛndᵻd ɔnðə kˈɑːmplɛks kˈæɹɪktɚɹ ʌv wˈaɪt lˈaɪt, ðɪs ˈaɪsəlˌeɪɾᵻd sˈɪmpəl kənstˈɪtʃuːənt ʃˌʊd biː ˈeɪbəl tə spɹˈɛd ˈaʊt nˈoʊmˌoːɹ.|96
+train-clean-360/7229/80665/7229_80665_000009_000000.wav|"aɪ kˈænt sˈiː ɪt, tˈɑːm," dᵻklˈɛɹd nˈæn, wɪð hɜːɹ ˈaɪz tˈaɪtli klˈoʊzd.|952
+train-clean-360/7318/96151/7318_96151_000039_000000.wav|wˌʌt ˌɔn ˈɜːθ ɪz ðə mˈæɾɚ?hiː sˈɛd tə mˌiː.|868
+train-clean-360/224/129790/224_129790_000027_000001.wav|hiː kəmpˈoʊzd hɪmsˈɛlf.|554
+train-clean-360/3003/14274/3003_14274_000058_000002.wav|bˌʌt aɪ ɡɑːt θɹuː ðə dˈeɪ vˈɛɹi wˈɛl, kənsˈɪdɚɹɪŋ ðə vˈɛɹi ʃˈɔːɹt tˈaɪm aɪ hɐvbɪn ɹˈaɪdɪŋðæt ˈɪz, ɹˈiəli ɹˈaɪdɪŋ.|482
+train-clean-360/7285/72200/7285_72200_000026_000000.wav|"ɪz ðæt mˌɔːɹɾɪfɪkˈeɪʃən?" ˈæskt ðə sˈʌfɚɹɚ, lˈʊkɪŋ ɹˈuːfəli æt ðə blˈæk, swˈoʊlən hˈænd ænd fˈɔːɹ ˈɑːɹm, ænd wˈɪnsɪŋ ˌʌndɚ ðə dˈɑːktɚz tˈʌtʃ æz hiː tˈʊk ˌʌp ðɪ ˈɑːɹɾɚɹi ænd tˈaɪd ɪt.|1120
+train-clean-360/5189/37999/5189_37999_000019_000001.wav|tˈeɪk sˈʌbweɪ tə bɹˈʊklɪn. flˈætbʊʃ.ðˈɛn ˈæsk ðə sˈʌbweɪ ɡˈɑːɹd wˌɛɹ tə ɡˈoʊ; hiː wɪl tˈɛl juː.|57
+train-clean-360/1079/128631/1079_128631_000011_000000.wav|kˈʌt ðə fˈɪʃ ˌɪntʊ kˈʌtlɪts, dɹˈɛdʒ wɪð flˈaʊɚ, dˈɪp ˌɪntʊ ˈɛɡ ænd kɹˈʌmz, ænd sˈɔːɾeɪ ɪn ɐ fɹˈaɪɪŋ pˈæn.|461
+train-clean-360/4434/73957/4434_73957_000014_000001.wav|ðeɪ ɑːɹ ɪn θɹˈiː dɪstˈɪŋkt kˈʌlɚɹɪŋzfˈʊl ɹˈɪtʃ kɹˈɪmsən, kɹˈɪmsən ɹˈoʊz, ænd pˈeɪl pˈɪŋk tʃˈeɪndʒɪŋ tə dˈʌl wˈaɪt.|3
+train-clean-360/2531/156724/2531_156724_000040_000000.wav|"maɪ bˈɔɪ," sˈɛd ðə fˈiːnɪks, "aɪ hæv hæd ɐ wˈaɪd, ænd sˈʌmtaɪmz pˈeɪnfəl, ɛkspˈiəɹɪəns wɪð tɹˈæps; sˌoʊ juː mˈeɪ bᵻlˈiːv mˌiː wɛn aɪ sˈeɪ ðæt ðiːz ɑːɹ ɐmˌʌŋ ðə bˈɛst aɪ hæv sˈiːn.|854
+train-clean-360/5570/73846/5570_73846_000012_000000.wav|aɪɐm vˈɛɹi sˈɑːɹi, ʃˈiːlə, təbi sˌoʊ tʃˈaɪldɪʃ.|699
+train-clean-360/335/125951/335_125951_000039_000001.wav|"jʊɹ mˌeɪkɪŋ maɪ hˈɛd ˈeɪk."|763
+train-clean-360/1382/130516/1382_130516_000072_000000.wav|ɪts nˌɑːɾə mˈæɾɚɹ ʌv vˈæst ɪmpˈoːɹtəns |832
+train-clean-360/176/123270/176_123270_000012_000000.wav|maɪ ˈʌŋkəl ɛmplˈɔɪd ɐ vˈɛɹi sˈɪmpəl ɛkspˈiːdiənt tʊ ˈɑːbvɪˌeɪt ðɪs dˈɪfɪkˌʌlti. hiː ʌŋkˈɔɪld ɐ kˈoːɹd ʌvðə θˈɪknəs əvə fˈɪŋɡɚ, ænd fˈoːɹ hˈʌndɹɪd fˈiːt lˈɔŋ; fˈɜːst hiː dɹˈɑːpt hˈæf ʌv ɪt dˈaʊn, ðˈɛn hiː pˈæst ɪt ɹˈaʊnd ɐ lˈɑːvə blˈɑːk ðæt pɹədʒˈɛktᵻd kənvˈiːnɪəntli, ænd θɹˈuː ðɪ ˈʌðɚ hˈæf dˌaʊn ðə tʃˈɪmni.|405
+train-clean-360/8742/245708/8742_245708_000046_000006.wav|bˌʌt ðiːz duːnˌɑːt ʌv ðɛmsˈɛlvz bᵻlˈɔŋ tə ðə nˈeɪtʃɚɹ ʌvðə dᵻvˈaɪn ˈɪmɪdʒ ɪn mˈæn, ʌnlˈɛs wiː pɹˌiːsəpˈoʊz ðə fˈɜːst lˈaɪknəs, wˌɪtʃ ɪz ɪnðɪ ˌɪntəlˈɛktʃuːəl nˈeɪtʃɚ; ˈʌðɚwˌaɪz ˈiːvən bɹˈuːt ˈænɪməlz wʊd biː tə ɡˈɑːdz ˈɪmɪdʒ.|471
+train-clean-360/6865/95969/6865_95969_000038_000000.wav|"hˌɪm hˌuː ɪz spˈoʊkən ʌv baɪ hɪz kˈɪnzmɛn æz ɐ dˈuːɾifəl sˈʌn, ænd hˈuːm ðə fˈoʊks ʌv hɪz nˈeɪbɚhˌʊd kˈɔːl ɡˈʊd bɹˈʌðɚ."|625
+train-clean-360/4837/285896/4837_285896_000022_000004.wav|hiː wˈoːɹ nˈoʊ kˈɑːlɚ, ænd ðɛɹwˌʌz ɐ ɡɹˈeɪt ɹˈɛnt ɪn hɪz ʃˈæbi ʃˈuːɾɪŋ kˈoʊt.|967
+train-clean-360/5985/300225/5985_300225_000021_000002.wav|plˈɑːɾoʊ lˈɛd ðə wˈeɪ baɪ ðə ɹˈoʊd θɹuː ðə wˈʊdz tʊ ɐ pˈɔɪnt wˈɛɹ, ɐmˈɪd sˈʌmwʌt θˈɪk ˌʌndɚbɹˈʌʃ, ɐnˈʌðɚ pˈæθ ˌɪntɚsˈɛktᵻd ðə ɹˈoʊd ðeɪ wɜː fˈɑːloʊɪŋ.|1066
+train-clean-360/6643/67858/6643_67858_000011_000002.wav|ɪnðə dˈɪstəns ðeɪ kʊd sˈiː ðə spˈaɪɚɹ ʌv sˈeɪnt fˈɪlɪps, wˈʌn ʌvðə hɪstˈɔːɹɪk tʃˈɜːtʃᵻz ʌv tʃˈɑːɹlstən, ænd ˈɛvɹɪwˌɛɹ flˈʌɾɚd ðə pɑːmˈɛɾoʊ flˈæɡ.|289
+train-clean-360/8699/291107/8699_291107_000035_000001.wav|juː ˈælkɪmˌɪsts ɑːɹ kˈeɪpəbəl ʌvðɪ ˈʌɾɚɹɪst ɐbstɹˈækʃən, ˈɑːɹnt juː?|430
+train-clean-360/2156/25563/2156_25563_000021_000001.wav|aɪl ɡˈɪv juː wˈʌn tʃˈænsɡɛt ɐwˈeɪ fɹʌm hˈɪɹ æz kwˈɪkli æz juː kˈæn."|90
+train-clean-360/7705/101580/7705_101580_000017_000000.wav|"juː dˈɪdnt kˈoʊp wɪððə sˌɪtʃuːˈeɪʃən,ˈæftɚɹ ˈɔːl," hiː ɹᵻmˈɑːɹkt wˌaɪl ʃiː wʌz sˈɛɾəlɪŋ hɜːsˈɛlf fˈɜːmli ɪnðə sˈædəl.|174
+train-clean-360/1052/139307/1052_139307_000070_000002.wav|jʊɹ ɐwˈeɪkənɪŋnˈoʊwˈʌn ɛkspˈɛktᵻd jʊɹ ɐwˈeɪkənɪŋ.|501
+train-clean-360/500/125123/500_125123_000037_000002.wav|splˈɛndɪd kˈeɪk, kˈʌvɚd wɪð kjˈuːpɪdz, sˈɪlvɚ, ænd tɹˈuː lˈʌvɚz nˈɑːts.|82
+train-clean-360/3224/167024/3224_167024_000006_000000.wav|"dᵻlˈaɪɾᵻd, mˈɪs kwˈɪntən," blˈaʊnt sˈɛd.|610
+train-clean-360/2512/157242/2512_157242_000009_000000.wav|sˈɪɹəl mˈuːvd ðə tˈeɪbəl ˈɔf ðə kˈɑːɹpɪt æz hiː spˈoʊk, ænd ɪts lˈɛɡ kˈɔːt ɪn wˈʌn ʌv ˈænθiəz dˈɑːɹnz ænd ɹˈɪpt ɐwˈeɪ mˈoʊst əv ɪt, æz wˈɛl æz ɐ lˈɑːɹdʒ slˈɪt ɪnðə kˈɑːɹpɪt.|362
+train-clean-360/7145/87280/7145_87280_000063_000000.wav|"jˈɛs, aɪ nˈoʊ ˈɔːl ðˈæt; bˌʌt aɪɐm nˈɑːt.|477
+train-clean-360/7705/101578/7705_101578_000020_000006.wav|hiː ɪz ɐ stˈɜːdi, sˈɛlf ɹᵻlˈaɪənt lˈɪɾəl ɹˈæskəl, ɪz ðə ɹˈeɪndʒ bɹˈɛd kˈæf.|174
+train-clean-360/353/128309/353_128309_000030_000002.wav|ɪɾ ɪz ɪnðə pɹˈɛzənt mˈoʊd.|279
+train-clean-360/5914/52088/5914_52088_000026_000000.wav|tə flˈoʊt kˈɑːɹkeɪsᵻz ʌv ɡˈeɪm əkɹˌɑːs ɐ ɹˈɪvɚ.sˌɜːɹ ˈɛs bˈeɪkɚ ɹˌɛkəmˈɛndz stɹˈɪpɪŋ ˈɔf ðə skˈɪn ʌvðɪ ˈænɪməl, æz ðˌoʊ ɪt wɜːɹ ɪntˈɛndᵻd tə mˌeɪk ɐ wˈɔːɾɚ skˈɪn ʌv ɪt: pˈʊɾɪŋ ɐ stˈoʊn ˌʌp ðə nˈɛk ˈɛnd ʌvðə skˈɪn; ðˈʌs fˈɔːɹmɪŋ ɐ wˈɔːɾɚ tˈaɪt sˈæk, ˈoʊpən æt wˈʌn ˈɛnd ˈoʊnli.|126
+train-clean-360/7495/252342/7495_252342_000004_000002.wav|juː ɑːɹ ɐwˈɛɹ ðˈæt, ðˌoʊ wˈɔːɹm, ðə wˈɛðɚ hˈɪɹ hɐz sˌʌm ɛksˈaɪɾɪŋ pɹˈɑːpɚɾi, sˌʌm ɛksˈɛs ɔːɹ ˈʌðɚɹ əvə pɪkjˈuːlɪɹ ɡˈæs ɪnðɪ ˈætməsfˌɪɹ, pɹˌɛdʒuːdˈɪʃəl tə sˈɜːʔn̩ tˈɛmpɹəmənts.|193
+train-clean-360/7460/92002/7460_92002_000028_000002.wav|wˌɛn ʃiː wʌz ɡˈɪvɪŋ ðˌɛm ðɛɹ bɹˈɛkfəst ðæt mˈɔːɹnɪŋ hɜː mˈaɪnd wʌz fˈʊli mˌeɪd ˈʌp.|917
+train-clean-360/6643/67858/6643_67858_000024_000000.wav|"aɪl kˈɔːl hɜː," sˈɛd sˈɪlviə, ænd ɹˈæn ˈaʊt ɔnðə vəɹˈændə.|289
+train-clean-360/7478/98645/7478_98645_000011_000009.wav|ɐ fjˈuː mˌeɪhɐv sˈækɹᵻfˌaɪst ðɛmsˈɛlvz fɹˈiːli bˌʌt ɹᵻlˈʌktəntli fɔːɹ ðoʊz hˈuːm ðeɪ lˈʌv, ænd baɪ ðɛɹ ɹᵻvˈoʊltɪŋ slˈeɪvɚɹi mˈeɪ biː ˈɜːnɪŋ ðə mˈiːnz tə kˈiːp ðɛɹ dˈɪɹ wˈʌnz fɹʌm stɑːɹvˈeɪʃən ɔːɹ dɪsɡɹˈeɪs.|480
+train-clean-360/3645/77173/3645_77173_000010_000000.wav|hiː hæd sˈɛd ɐ lˈɪɾəl pɹˈɛɹ fɔːɹ ˈɛvɹɪbˌɑːdi ænd hæd fˈɔːlən ɐslˈiːp ðɛɹ ɔnðə flˈaʊɚ dˈɛkt bˈælkəni.|734
+train-clean-360/6341/64956/6341_64956_000043_000002.wav|dˈoʊnt dˈuː ɪɾ ɐɡˈɛn."|509
+train-clean-360/8008/271812/8008_271812_000017_000001.wav|pɚhˈæps juː wɪl bɹˈɪŋ ˌʌs sˌʌm fɹˈɛʃ wˈɔːɾɚ fɹʌmðə ɹˈɪvɚ."|95
+train-clean-360/3615/14677/3615_14677_000038_000004.wav|lˈɛt bˈeɪk ɪn ɐ hˈɑːt ˈʌvən ʌntˈɪl bɹˈaʊn ˌɔn tˈɑːp.|228
+train-clean-360/3008/164328/3008_164328_000003_000000.wav|ðə dˈɑːndʒɑːn ˈɪn wʌz ʌv nˈoʊ ɪmpˈoʊzɪŋ ɐpˈɪɹəns; bˌʌt aɪ lˈaɪk ðiːz bˈɪldɪŋz wɪð ðɛɹ ɹˈæftɚz blˈækənd wɪð ˈeɪdʒ ænd ðə smˈoʊk ʌv ðɛɹ hˈɑːɹθsðiːz ˈɪnz ʌvðə kˈoʊtʃɪŋ dˈeɪz, kɹˈʌmblɪŋ ɪɹˈɛkʃənz ðæt wɪl sˈuːn ɛɡzˈɪst ɪnðə mˈɛmɚɹi ˈoʊnli.|1011
+train-clean-360/258/130878/258_130878_000009_000004.wav|hɪz fˈeɪs lˈʊkt ɛɡzˈɔːstᵻd; hɪz ɹˈɛdənd ˈaɪz hˈædənt bˌɪn ɹᵻfɹˈɛʃt baɪ slˈiːp; hɪz fˈeɪʃəl fˈiːtʃɚz ɛkspɹˈɛst pɹəfˈaʊnd sˈædnəs, ɹˈiːəl ʃɐɡɹˈɪn.|939
+train-clean-360/7995/276907/7995_276907_000009_000000.wav|bˈuːθ wʌzɐ lˈɪɾəl stˈæɡɚd æt ðɪs dᵻfˈɛns.|604
+train-clean-360/100/121669/100_121669_000036_000000.wav|"aɪ fˈaʊnd ɪt," sˈɛd nˈɔːɾi tˈɑːm, bɪɡˈɪnɪŋ təbi fɹˈaɪʔn̩d.|1079
+train-clean-360/4973/44575/4973_44575_000020_000003.wav|aɪ nˈoʊ aɪʃˌɐl fˈeɪl." ðɛɹ pɹɑːfˈɛɾɪk sˈoʊlz ɑːɹ ʃˈʊɹ təbi ɹˈaɪt.|357
+train-clean-360/4427/20028/4427_20028_000003_000013.wav|ðɪ ˈoʊldfˈæʃənd blˈæŋkɪt, ɪnwˌɪtʃ ðə bˈeɪbi wʌz dˈʌn ˌʌp hˈɛd ænd ˈɔːl, lˈaɪk ɐ bˈʌndəl, ɪz θɹˈoʊn ɐsˈaɪd.|91
+train-clean-360/3584/74477/3584_74477_000037_000000.wav|kˈɪɾi wʌz tˈuː fˈɑːɹ ɡɔn tə mˌeɪk ˌɛni vˈɛɹi sˈɪɹiəs stɹˈʌɡəl.|590
+train-clean-360/5583/41919/5583_41919_000012_000001.wav|bˌʌt lˈæzɚɹəs hˈɜːd ʌv ðɪs skˈiːm, ænd wɛn ðɪ ˈiːvnɪŋ kˈeɪm, hiː tˈʊk ɐ lˈɔɡ ʌv wˈʊd, kˈʌvɚd ɪt wɪð hɪz klˈoʊk, lˈeɪd ɪɾ ɪnðə plˈeɪs wˌɛɹ hiː jˈuːʒuːəli slˈɛpt, ænd ðˈɛn hˈɪd hɪmsˈɛlf.|1092
+train-clean-360/225/131276/225_131276_000045_000000.wav|ðeɪ mˌeɪhɐv stˈʊd ɪn ðæt wˈeɪ fɚɹə lˈɔŋ tˈaɪm, ɔːɹ ˈoʊnli fɚɹə fjˈuː mˈoʊmənts; bˌʌt ɪt wʌz lˈɔŋ ɪnˈʌf fɔːɹ hɜː sˈaɪləns tə kəmjˈuːnᵻkˌeɪt ˈɔːl ʃiː hædtə sˈeɪ, ænd fɔːɹ hˌɪm tə fˈiːl ðæt ˈoʊnli wˈʌn θˈɪŋ mˈæɾɚd.|944
+train-clean-360/3927/6557/3927_6557_000024_000005.wav|wiː dˈoʊnt nˈoʊ ˌaʊɚ dˈɪstəns fɹʌmðə dˈiːpoʊ, bˌʌt ɪmˈædʒɪn ɐbˌaʊt twˈɛnti mˈaɪlz.|1069
+train-clean-360/3370/163384/3370_163384_000068_000008.wav|aɪ lˈaɪkt ˈɔːl ðæt fˈæmɪli, dˈɛd wˈʌnz ænd ˈɔːl, ænd wˈɔːɹənt ɡˌoʊɪŋ tə lˈɛt ˈɛnɪθˌɪŋ kˈʌm bᵻtwˈiːn ˌʌs.|372
+train-clean-360/2577/157236/2577_157236_000164_000001.wav|wiː hæv kwˈaɪt twˈɛlv ʃˈɪlɪŋz bᵻtwˈiːn ˌʌs, ænd |1101
+train-clean-360/5809/51163/5809_51163_000046_000001.wav|hˈɪɹ, ɪn ɐ sˈʌbɜːb ʌvðə sˈɪɾi, fˈɑːðɚ də smˈɛt dᵻsˈaɪdᵻd tə dˈɑːk fɚðə nˈaɪt.|311
+train-clean-360/4243/14929/4243_14929_000014_000004.wav|ˈaɪzɐ dˈɑːɹk bɹˈaʊn ɔːɹ hˈeɪzəl kˈʌlɚ; smˈɔːl, pˈɪɹsɪŋ, vˈɛɹi bɹˈaɪt ænd ɹˈæðɚ sˈʌŋkən. ˈɪɹzvˈɛɹi smˈɔːl, pɹˈɪk ɔːɹ hˈæf pɹˈɪk ðə fˈɔːɹmɚɹ ɪz pɹɪfˈɜːɹəbəl, bˌʌt nˈɛvɚ dɹˈɑːp.|588
+train-clean-360/7752/110526/7752_110526_000026_000000.wav|bˌʌt zˈɛli wʌz æz ɡˈʊd æz ʃiː wʌz bjˈuːɾifəl, ænd sˈɛd tə hˌɪm:|577
+train-clean-360/8791/291101/8791_291101_000056_000001.wav|ðə skˈaɪ wʌz ɪnˈoːɹməs; hiː wʌz ˈoʊnli ɐ spˈɛk ɔnðə vˈæst flˈoːɹ.|773
+train-clean-360/6956/76046/6956_76046_000019_000001.wav|"bˌʌt ðɪ ˈɪmpʌls wʌz lˈuːzɪŋ ɪts fˈoːɹs."|70
+train-clean-360/7481/101276/7481_101276_000107_000001.wav|ʌv kˈoːɹs, dʒˈɛm kʊd nˌɑːt sˈeɪ hiː hɐdbɪn tˈɜːnd ˌɪntʊ ɐ skwˈɜːl, bˌʌt hiː sˈɛd hiː wʌz wɪðˌaʊt pˈɛɹənts ænd hɐdbɪn tˈɔːt kˈʊkɪŋ baɪ ɐn ˈoʊld wˈʊmən.|20
+train-clean-360/1112/128136/1112_128136_000013_000000.wav|mˈɪstɚ hˈeɪz stˈeɪts ðə pɹˈɑːbləm ʌv lˈaɪf ɛkstɹˈiːmli wˈɛl, bˌʌt hɪz səlˈuːʃən ɪz sˈædli ɪnˈædɪkwət bˈoʊθ fɹʌm ɐ saɪkəlˈɑːdʒɪkəl ænd fɹʌm ɐ dɹəmˈæɾɪk pˈɔɪnt ʌv vjˈuː.|649
+train-clean-360/1849/138063/1849_138063_000037_000003.wav|ˈɔːl ðæt juː hæv sˈiːn tə nˈaɪt hɐzbɪn mˌeɪk bᵻlˈiːv; aɪm nˌɑːt ðə wˈʊmən tə lˈɛt ðə blˈæk ʌv maɪ nˈeɪl sˈʌfɚ fɔːɹ sˈʌtʃ ɐ kˈæməl, mˈʌtʃ lˈɛs dˈaɪ!"|1147
+train-clean-360/4733/6398/4733_6398_000022_000003.wav|aɪɐm sˌoʊ ɡlˈæd pˈʊɹ fˈɑːðɚ dˈɪd ɡɛt ðæt hˈaʊs.|559
+train-clean-360/2010/147045/2010_147045_000041_000000.wav|mˈɪstɚ mˈɪlbɜːɡ bɪɡˈæn tə bɹˈiːð hˈɛvili.|435
+train-clean-360/8008/271812/8008_271812_000010_000000.wav|"kˈoːɹs nˈɑːt," sˈɛd tˈɑːt.|95
+train-clean-360/5712/48848/5712_48848_000004_000003.wav|ʃiː ɛksplˈeɪnd ˈɔːlsoʊ, ðætðə bˈɪznəs ʌv mˈuːvɪŋ wʌz ɪn hˈænd, ænd ðˈæt, ðˈɛɹfoːɹ, ʃiː kʊd nˌɑːt hɜːsˈɛlf ɐksˈɛpt ðɪ ɪnvɪtˈeɪʃən.|539
+train-clean-360/2404/141242/2404_141242_000003_000001.wav|æz hiː sˈæt dˌaʊn ænd ɹˈiːtʃt fɔːɹ ðˌɛm hiː wʌz kˈɑːnʃəs əvən ˈɑːɹktɪk kˈoʊldnəs ɪnðɪ ˈɛɹ, ɐ fɹˈɪdʒɪd blˈæst.|811
+train-clean-360/2256/137628/2256_137628_000005_000010.wav|ænd ɪf aɪ hæd slˈeɪn ðˌɛm baɪ tɹˈiːzən ɔːɹ tɹˈɛtʃɚɹi aɪ hɐdbɪn wˈɜːði tə hæv dˈaɪd.|352
+train-clean-360/5154/26558/5154_26558_000010_000000.wav|ðə mˈʌŋki ɡˈeɪv ðɪ ˈɪmɪdʒ ɐ hˈɑːɹd, hˈɑːɹd blˈoʊ wɪð hɪz ˈʌðɚ hˈænd.|836
+train-clean-360/922/132291/922_132291_000033_000002.wav|ˈoʊnli ɐ mˈɪɹəkəl hæd sˈeɪvd hˌɪm fɹʌm ˈɪnstənt dˈɛθ.|1003
+train-clean-360/5635/44582/5635_44582_000014_000001.wav|ɪf juː kˈɑːnsəntɹˌeɪt jʊɹ θˈɔːt ˌɔn ɐ pˈeɪn wˌɪtʃ mˈeɪ biː ɐflˈɪktɪŋ juː, ðæt pˈeɪn wɪl ɡɹˈoʊ mˈoːɹ ɪntˈɛns.|963
+train-clean-360/5319/64075/5319_64075_000017_000005.wav|mˈɪstɚ tɹˈæpɚ, plˈiːz duːnˌɑːt pɚswˈeɪd joːɹsˈɛlf tə bᵻlˈiːv ðætðɪ ɪntˈɛlɪdʒənt dˈɑːɡ kænˈɑːt ˌʌndɚstˈænd ɪf juː ɡˌoʊ ɐbˌaʊt ɪt ɹˈaɪt.|236
+train-clean-360/1054/143005/1054_143005_000073_000003.wav|vˈɛɹi lˈaɪkli ðɪ ˈænɪməl mˌaɪt ɡˈeɪn kˈɑːnfɪdəns ænd ʃˈoʊ ɪtsˈɛlf.|1143
+train-clean-360/3584/178748/3584_178748_000039_000008.wav|wˈɛl, aɪ mˈʌst tˈɜːn ɐbˌaʊt ænd lˈuːz nˈoʊ tˈaɪm. kˈʌm, dʒˈɪp, ɡɛt ˈʌp, dʒˈɪp, ɡˈʊd hˈɔːɹs; wɪɹ ɡˌoʊɪŋ hˈoʊm."|590
+train-clean-360/1638/84447/1638_84447_000025_000000.wav|"aɪ dˈoʊnt mˈaɪnd ɡˌoʊɪŋ ɪf ɐ lˈʌntʃ ɪz pɹəvˈaɪdᵻd," əbzˈɜːvd ðə dʒˈɛntəlmən wɪððɪ ɛkskɹˈɛsəns ˌɔn hɪz nˈoʊz.|696
+train-clean-360/8119/115686/8119_115686_000019_000004.wav|wɪɹ nˌɑːt dɪskˈʌvɚd jˈɛt.|943
+train-clean-360/4598/2503/4598_2503_000026_000001.wav|"aɪ sˈiː ɪt hˈɪɹ.|46
+train-clean-360/70/121130/70_121130_000022_000003.wav|dˈʊɹɹɪŋ ðə sˈiːn ʌv tˈuːmʌlt, ˈændɹiə hæd tˈɜːnd hɪz smˈaɪlɪŋ fˈeɪs təwˈɔːɹdz ðɪ ɐsˈɛmbli; ðˈɛn, lˈiːnɪŋ wɪð wˈʌn hˈænd ɔnðɪ ˈoʊkən ɹˈeɪl ʌvðə dˈɑːk, ɪnðə mˈoʊst ɡɹˈeɪsfəl ˈæɾɪtˌuːd pˈɑːsᵻbəl, hiː sˈɛd: "dʒˈɛntəlmən, aɪ əʃˈʊɹ juː aɪ hæd nˈoʊ aɪdˈiə ʌv ɪnsˈʌltɪŋ ðə kˈoːɹt, ɔːɹ ʌv mˌeɪkɪŋ ɐ jˈuːsləs dɪstˈɜːbəns ɪnðə pɹˈɛzəns ʌv ðɪs ˈɑːnɚɹəbəl ɐsˈɛmbli.|1061
+train-clean-360/1923/161972/1923_161972_000021_000001.wav|ðˈɛn hiː pˈʊʃt bˈæk hɪz tʃˈɛɹ.|786
+train-clean-360/6189/21305/6189_21305_000087_000002.wav|ðæt ʃiː hæd nˈɛvɚ ɹᵻspˈɑːndᵻd wɪð ˈɛnɪθˌɪŋ wˈɔːɹmɚ ðɐn lˈaɪkɪŋ ænd kˈɑːmɹædʃˌɪp hiː nˈuː; ænd hɪz ˈænə nˈaʊ pəzˈɛst hˌɪm hˈoʊli.|180
+train-clean-360/5519/39478/5519_39478_000005_000001.wav|ðˈɛn ʃiː ɹˈæn hˈɪðɚ ænd ðˈɪðɚɹ ɐ stˈɑːɹk nˈeɪkᵻd vˈɪksən, ænd wɪðˌaʊt ɡˈɪvɪŋ ɐ ɡlˈæns tə hɜː pˈʊɹ hˈʌsbənd hˌuː stˈʊd sˈaɪləntli nˈaʊ əpˌɑːn ðə bˈæŋk, wɪð dᵻspˈɛɹ ænd tˈɛɹɚ sˈɛɾəld ɪn hɪz mˈaɪnd.|828
+train-clean-360/1265/135636/1265_135636_000079_000001.wav|dˈɪɹ mˈɪstɚ pˈɪkwɪk, hiː mˈʌst ˈoʊnli nˈoʊ ɪt fɹʌm juːfɹʌm jʊɹ lˈɪps ɐlˈoʊn.|948
+train-clean-360/920/681/920_681_000035_000005.wav|ɐ wˈiːk lˈeɪɾɚ hiː hæd hɪz fˈɜːst ɐtˈæk ʌvðə dɪzˈiːz tʊ wˌɪtʃ hiː wʌz sˈʌbdʒɛkt ˈɔːl ðə ɹˈɛst ʌv hɪz lˈaɪfˈɛpɪlˌɛpsi.|198
+train-clean-360/716/129582/716_129582_000017_000001.wav|hˈɪðɚtˌuː wiːvhˌæd ɐ sˈɜːʔn̩ lˈæk ʌv mˈiːt hˈɪɹ."|842
+train-clean-360/8848/293957/8848_293957_000061_000004.wav|ðeɪ wɜːɹ æz fˈɑːloʊz:|873
+train-clean-360/8300/275128/8300_275128_000007_000001.wav|"nˈaʊ," ðə spˈɔɪld tʃˈaɪld dᵻklˈɛɹd, ɐdɹˈɛsɪŋ ðə kˈʌmpəni pɹˈɛzənt, "aɪm ɡˌoʊɪŋ tə plˈeɪ."|755
+train-clean-360/203/132069/203_132069_000015_000000.wav|nˈɛvɚ dˈʊɹɹɪŋ ðɛɹ tˈuː jˈɪɹz ʌv mˈætɹɪməni hæd hiː ænd kˈeɪɾi bˌɪn sˈɛpɚɹˌeɪɾᵻd fɚɹə nˈaɪt.|1056
+train-clean-360/2592/5341/2592_5341_000069_000003.wav|ɔnðə wˈʌn hˈænd aɪ θˈɪŋk ʃiː mˌaɪt sˈeɪv juː ðə wˈʌɹi ʌv hˈaʊshoʊld mˈænɪdʒmənt; ɔnðɪ ˈʌðɚ, aɪ fˈænsi wiːʃˌɐl biː hˈæpɪɚ baɪ aʊɚsˈɛlvz."|290
+train-clean-360/5304/55856/5304_55856_000059_000006.wav|ɐ ɹˈæpɪd fˈaɪɚɹ ɪmpɹˈɛʃən əvə ɡlˈʌv fˈaɪt, ɐ spˈaɪn ʃˈeɪkɪŋ wˈɜːd pˈɪktʃɚɹ əvɚ ɹˈeɪlweɪ smˈæʃ, ɔːɹ sˈʌmθɪŋ ˌɔn ðoʊz lˈaɪnz, wʊd biː wˈɛlkʌmd.|408
+train-clean-360/4110/11528/4110_11528_000019_000000.wav|fɹˈæŋkli aɪ kʊd θˈɪŋk ʌv nˈʌθɪŋ.|80
+train-clean-360/7739/8592/7739_8592_000080_000003.wav|hˌaʊ ðˈɛn kʊd ɪt hæv lˈɪvd?"|379
+train-clean-360/8050/110238/8050_110238_000034_000000.wav|"ɪf ˌɛni pˈɑːsᵻbəl dˈaʊt ɹᵻmˈeɪnd ɪɾ ɪz sˈɛɾəld baɪ ðə fˈækt ðæt kˈiːp ɐwˈeɪ ænd fɹʌmðə ɑːɹ kˈʌt ˈaʊt ɪn wˈʌn pˈiːs."|524
+train-clean-360/667/158816/667_158816_000050_000004.wav|juː ɑːɹ pɹˈɪɾi, juː nˈoʊ,ʌŋkˈɑːmənli pɹˈɪɾi."|35
+train-clean-360/6206/14958/6206_14958_000040_000001.wav|ʃiː lˈʊkt æt hɜːɹ ˈæŋɡɹili.|805
+train-clean-360/4837/302000/4837_302000_000016_000002.wav|ʃiː hæd mˌeɪd ðə ɡɹˈænd tˈʊɹ ɪn jˈʊɹɹəp, ðeɪ dɪskˈʌvɚd, ænd ɛndʒˈɔɪd ɐ sˈiːzən ɪn wˈɑːʃɪŋtən.|967
+train-clean-360/5809/51163/5809_51163_000051_000004.wav|"ænd nˈiːðɚ dˈɪd ðə kˈaɪzɚ ɡɛt ɐ tˈoʊst fɹʌm mˌiː!|311
+train-clean-360/7959/109176/7959_109176_000051_000000.wav|ðˈɛn hiː ˈoʊpənz hɪz wˈɔlɪt, tˈeɪks ˈaʊt ðə bˈɑːɾəl kəntˈeɪnɪŋ klˈɪɹ lˈɪkwɪd, ænd tˈeɪks ɐ nˈɪp.|998
+train-clean-360/948/132710/948_132710_000013_000003.wav|hiː wɪl biː tˈɔːt tə sˈeɪ "ˈaɪ" ænd tə bˈɛɹ ðə pɹˈaɪd ʌv ɪt.|815
+train-clean-360/3922/715/3922_715_000006_000006.wav|ɡɹˈʌʃɛŋkə sˈɛɾəld hɜːsˈɛlf dʒˈʌst æt ðə dˈoːɹ.|144
+train-clean-360/2194/150469/2194_150469_000007_000001.wav|ˌælɪɡzˈændɚ lˈɪsənd ɐtˈɛntɪvli tə wʌt wʌz sˈɛd tə hˌɪm ænd, bˈɛndɪŋ hɪz hˈɛd, smˈaɪld plˈɛzəntli.|231
+train-clean-360/359/128761/359_128761_000012_000001.wav|bˌʌt wʌtˈɛvɚ ðeɪ hæd kwˈɔːɹəld ɐbˌaʊt ɪnðə pˈæstaɪ səspˈɛkt ɪt wʌzɐ lˈeɪdi, ðˌoʊ aɪ nˈɛvɚɹ ˈæsktɪt wʌz ˈɛvɪdəntli fɚɡˈɑːʔn̩ nˈaʊ.|272
+train-clean-360/7938/109180/7938_109180_000041_000001.wav|ʃiː blˈɪŋks hɜː kˈʌnɪŋ ˈaɪz, ænd ðɛɹ blˈuː blˈæk pjˈuːpəlz bɪkˌʌm lˈɑːɹdʒ ænd ɹˈaʊnd.|18
+train-clean-360/7525/92915/7525_92915_000042_000000.wav|ðɪs wʌz kənsˈɪdɚd baɪ moʊhˈæmɪd æz ɐ ɡɹˈeɪt tɹˈaɪʌmf fɔːɹ hɪz kˈɔːz. dɪtˈɜːmɪnd nˈaʊ tə spɹˈɛd hɪz fˈeɪθ tə ðɪ ˈʌɾɚmˌoʊst ˈɛndz ʌvðɪ ˈɜːθ, hiː sˈɛnt mˈɛsɪndʒɚz tə ðə ɹˈuːlɚz ʌv ˈɔːl ðə sˈɪvəlˌaɪzd kˈɪŋdəmz ðæt hiː nˈuː.|1140
+train-clean-360/8771/294523/8771_294523_000022_000002.wav|ʃˈɔːɹtli ˈæftɚ ɡɹˈiːn bɹˈiːks wʌz ɪnðə hˈɑːspɪɾəl, hɪz hˈɛd bˈændɪdʒd, bˌʌt ˈʌðɚwˌaɪz lˈɪɾəl ðə wˈɜːs fɔːɹ hɪz mˈɪshæp.|964
+train-clean-360/7982/110054/7982_110054_000034_000000.wav|ɐ lˈeɪdi ˈɔːt tə hæv ɐ mˈɑːdɪst ænd mˈɛʒɚd ɡˈeɪt; tˈuː ɡɹˈeɪt hˈɜːɹi ˈɪndʒɚz ðə ɡɹˈeɪs wˌɪtʃ ˈɔːt tə kˈæɹɪktɚɹˌaɪz hɜː.|1075
+train-clean-360/7833/102238/7833_102238_000015_000005.wav|ðə wˈeɪ ɪnwˌɪtʃ ðə kˈɑːntɛst wʌz dᵻsˈaɪdᵻd ɐfˈoːɹdz ɐ kjˈʊɹɹiəs ˌɪləstɹˈeɪʃən ʌvðə mˈɔːɹəl sˈɛns ʌvðɪ ˈædvəkˌeɪts ʌv slˈeɪvɚɹi.|630
+train-clean-360/5635/44582/5635_44582_000011_000000.wav|maɪ wˈɜːdz flˈaɪ ˈʌp, maɪ θˈɔːts ɹᵻmˈeɪn bᵻlˈoʊ: wˈɜːdz wɪðˌaʊt θˈɔːts nˈɛvɚ tə hˈɛvən ɡˈoʊ.|963
+train-clean-360/112/123216/112_123216_000008_000002.wav|aɪv stˈʌdid ænd mˈʌld ˌoʊvɚ nˈoʊtbʊks ʌntˈɪl aɪm ɪŋkˈeɪpəbəl ʌv fˈɔːɹmɪŋ ɐn əpˈɪniən ʌv ˈɛnɪθˌɪŋ.|328
+train-clean-360/8404/282926/8404_282926_000061_000000.wav|"dˈuː juː lˈʌv mˌiː dʒˈʌst ðə sˈeɪm, ˈoʊld ɡˈɜːl?" ˈæskt ðə kˈɪd, hˈʌntɪŋ fɔːɹ hɪz sˌɪɡɚɹˈɛt pˈeɪpɚz.|448
+train-clean-360/8758/291170/8758_291170_000008_000002.wav|ðə bˈæɾəl wʌz wˈɪtnəst baɪ ɡɹˈeɪsiz ˈoʊnɚz, ænd lˈæstᵻd ðə ɡɹˈeɪɾɚ pˈɑːɹt ʌvðɪ ˌæftɚnˈuːn, ænd ˈɛndᵻd tɹaɪˈʌmfəntli fɔːɹ pˈʊsi, ɪnðə dᵻfˈiːt ænd dˈɛθ ʌvðə wˈiːzəl.|260
+train-clean-360/968/122545/968_122545_000068_000002.wav|nˈaʊ lˈɛt ˌʌs ɡˌoʊ ˈɔn ...|115
+train-clean-360/2053/138888/2053_138888_000023_000000.wav|ɡɹˈeɪ wʌzɐ mˈæn tɹˈæŋkwɪl ɪn tˈɛmpɹəmənt, vˈɛɹi lˈɪɾəl pɹˈoʊn tə kwˈɔːɹəlɪŋ, wɪð pɚhˈæps ɐn ɛɡzˈædʒɚɹˌeɪɾᵻd aɪdˈiə ʌvðɪ ˈiːvəl ɹɪzˈʌlts əvɚ ɹˈoʊ,ɐ mˈæn hˌuː wʊd tˈeɪk ˈɪnfɪnət tɹˈʌbəl tʊ ɐvˈɔɪd ˌɛni sˈʌtʃ sˈiːn æz ðæt wˌɪtʃ nˈaʊ sˈiːmd təbi ˈɪmɪnənt; bˌʌt hiː wʌzɐ mˈæn hˌuːz kˈɜːɹɪdʒ wʌz kwˈaɪt æz hˈaɪ æz ðæt ʌv hɪz əpˈoʊnənt.|1039
+train-clean-360/8718/295197/8718_295197_000043_000001.wav|"ðætsˈɪt, ɪz ɪt?|1132
+train-clean-360/2156/82458/2156_82458_000032_000000.wav|ˌɔn hˈɪɹɪŋ ðə ʃˈɑːt, bˈɑːb ˈɑːlɪŋɡɚ ænd ðə fˈaɪv ˈɑːɹmd pɹˈɪzənɚz, ɡɑːt ˌʌp fɹʌmðə sˈʌpɚ tˈeɪbəl ænd ɹˈæn tə ðə stɹˈiːt.|90
+train-clean-360/4152/5710/4152_5710_000003_000000.wav|ðə mˈoʊst ɪmˈiːdɪət ænd ʌnᵻkwˈɪvəkəl ɛkspɹˈɛʃən ʌv ðæt ɑːɹkˈeɪɪk hjˈuːmən nˈeɪtʃɚ wˌɪtʃ kˈæɹɪktɚɹˌaɪzᵻz mˈæn ɪnðə pɹˈɛdətˌoːɹi stˈeɪdʒ ɪz ðə fˈaɪɾɪŋ pɹəpˈɛnsᵻɾi pɹˈɑːpɚ.|150
+train-clean-360/2638/10172/2638_10172_000066_000002.wav|ʃiː lˈʊkt hˌɪm stˈɛdili ɪnðə fˈeɪs; ænd ˈɔːl ʃiː sˈɛd, wˌɛn hiː hæd nˈiːtli ɹˈaʊndᵻd hɪz lˈæst sˈɛntəns, wʌz"ɡˌoʊ ˈɔn."|871
+train-clean-360/3615/14672/3615_14672_000031_000002.wav|ˈæd wˈʌn pˈaɪnt ʌv stˈɑːk ænd lˈɛt sˈɪmɚ hˈæf ɐn ˈaʊɚɹ ʌntˈɪl tˈɛndɚ.|228
+train-clean-360/1160/139336/1160_139336_000011_000003.wav|ænd æz ðɪs fɹˈiːkwənt ˌɪntɚtʃˈeɪndʒ wɪl ɪstˈæblɪʃ ɐ kˈɑːmən ˈɪntɹɛst wɪð ˈɛvɹi pˈɑːɹt ʌvðə kəmjˈuːnᵻɾi, ðeɪ wɪl mjˈuːtʃuːəli ænd nˈætʃɚɹəli səpˈoːɹt ˈiːtʃ ˈʌðɚ, ænd ˌɔn ðɪs nˌɑːt ɔnðɪ ʌnmˈiːnɪŋ nˈeɪm ʌv kˈɪŋ dᵻpˈɛndz ðə stɹˈɛŋθ ʌv ɡˈʌvɚnmənt, ænd ðə hˈæpɪnəs ʌvðə ɡˈʌvɚnd.|301
+train-clean-360/4744/31668/4744_31668_000011_000004.wav|aɪ kænˈɑːt ɛksplˈeɪn ɪt bˈɛɾɚ ðɐn ðˈæt." hiː lˈʊkt ˌʌp stˈɛdili ˌɪntʊ hɜː fˈeɪs əkɹˌɑːs ðə tˈeɪbəl sˌoʊ ðæt ʃiː sˈɔː ðə ɡɹˈævᵻɾi ʌv hɪz ɛkspɹˈɛʃən ænd ðə ʃˈaɪnɪŋ ʌv hɪz stˈɛdi ˈaɪz.|560
+train-clean-360/6701/71404/6701_71404_000024_000001.wav|ðə kənˈɛɹi aɪ klˌoːɹoʊfˈɔːɹmd wɛn aɪ əbtˈeɪnd ðə dɹˈʌɡ."|335
+train-clean-360/7051/259009/7051_259009_000018_000008.wav|sˈʌtʃ ɐ tʃˈiːpənɪŋ ænd dᵻfjˈuːʒən ʌv pˈaʊɚ wʊd pˌʊt ɐ nˈuː fˈeɪs ˌɔn mˈɛnɪəv ðə pɹˈɑːbləmz ʌv ˈɪndʌstɹi.|540
+train-clean-360/3380/6175/3380_6175_000013_000001.wav|bˌʌt ðeɪ sˈuːn ɐsˈɜːɾᵻd ðɛmsˈɛlvz æz fˈækts, fɔːɹ hˈɪɹ ðeɪ wɜː!nˈʌθɪŋ tə sˈiː bˌʌt ɐ kˈoʊld blˈuː lˈaɪt, ænd nˈʌθɪŋ tə dˈuː bˌʌt sˈiː ɪt.|538
+train-clean-360/3046/148993/3046_148993_000053_000001.wav|hiː sˈɔː hɜː stˈændɪŋ baɪ ðə piˈænoʊ nˈaʊ, ˈaɪdli tˈɜːnɪŋ ˌoʊvɚ mjˈuːzɪk æz ʃiː tˈɔːkt wɪð sˈɛvɹəl dʒˈɛntəlmən.|449
+train-clean-360/4425/14497/4425_14497_000049_000002.wav|aɪ θˈɪŋk aɪ sˈiː maɪ wˈeɪ tʊ ɪt nˈaʊ.|1048
+train-clean-360/5386/4145/5386_4145_000009_000000.wav|ðə jˈʌŋ kɹˈɪstʃən hæd ˌɪndˈiːd ɐkˈɑːmplɪʃt ɐ nˈoʊbəl wˈɜːk; ænd wˈɛðɚɹ ɪt wʌz ɐdmˈɪɾᵻd baɪ ðə fˈɑːðɚ, ɔːɹ nˈɑːt, ʃiː wʌz hɪz suːpˈiəɹɪɚ ænd hɪz tˈiːtʃɚ.|851
+train-clean-360/1079/128631/1079_128631_000023_000009.wav|θˈɪkən wɪð bˈʌɾɚ ænd flˈaʊɚ kˈʊkt təɡˈɛðɚ, stɹˈeɪn, ænd sˈɜːv wɪððə fˈɪʃ.|461
+train-clean-360/2481/12731/2481_12731_000016_000003.wav|ðə səksˈiːdɪŋ dˈeɪ, sˈɛpɹət ɪt fɹʌmðə lˈaɪ, ænd hˈiːt ɪɾ ˌoʊvɚɹ ɐ slˈoʊ fˈaɪɚ.|465
+train-clean-360/176/122025/176_122025_000056_000000.wav|ɪf aɪ θˈɔːt ðˈæt, ɹˈæɾi,mˈɜːmɚd tˈoʊd, mˈoːɹ fˈiːbli ðɐn ˈɛvɚ, ðˈɛn aɪ wʊd bˈɛɡ juːfɚðə lˈæst tˈaɪm, pɹˈɑːbəbliɾə stˈɛp ɹˈaʊnd tə ðə vˈɪlɪdʒ æz kwˈɪkli æz pˈɑːsᵻbəlˈiːvən nˈaʊ ɪt mˈeɪ biː tˈuː lˈeɪtænd fˈɛtʃ ðə dˈɑːktɚ.|405
+train-clean-360/5154/26558/5154_26558_000003_000001.wav|ðˈɛn ʃiː plˈeɪst ɐ lˈɑːɹdʒ flˈæt bˈæskɪt ɔnðə tˈɑːp ʌvðɪ ˈɪmɪdʒz hˈɛd ænd ɪnðə bˈæskɪt ʃiː plˈeɪst ðə bˈɛst ɹˈaɪp bɐnˈænəz ʃiː kʊd fˈaɪnd.|836
+train-clean-360/1944/159228/1944_159228_000010_000000.wav|"ðæt ɪz bˈæd, bˌʌt ɪt mˌaɪthɐv bˌɪn wˈɜːs.|1145
+train-clean-360/188/141613/188_141613_000015_000003.wav|bˌʌt ɪf ðeɪ kʊd nˈoʊ ˈiːtʃ ˈʌðɚ, sˌoʊ ðætðə ɹˈɪtʃ pˈiːpəl kʊd ɡˈɪv ðə pˈʊɹ pˈiːpəl pˈɑːɹt ʌv ðɛɹ mˈʌni"|44
+train-clean-360/6215/62347/6215_62347_000018_000001.wav|wˌʌt hiː?" sˈɛd mˈɪsɪz pɹˈaɪm.|754
+train-clean-360/3380/64298/3380_64298_000006_000006.wav|bˌʌt ʃiː ɹˈæn ˌɔn ɐɡˈɛn.|538
+train-clean-360/1472/285314/1472_285314_000021_000000.wav|"θˈæŋk juː vˈɛɹi mˈʌtʃ, sˌɜː!" ɛksklˈeɪmd ˈʌŋkəl dʒˈɑːn.|152
+train-clean-360/6727/10344/6727_10344_000019_000000.wav|wˈɛðɚ lˈaɪt ɪz ɐ bˈɑːdi?|464
+train-clean-360/3717/178149/3717_178149_000001_000007.wav|ðə spˈɑːɹks dˌɪsɐpˈɪɹd ˌɪntʊ ɪts dˈɑːɹk mˈɔː.|1139
+train-clean-360/3717/178149/3717_178149_000025_000005.wav|ˈɔːlsoʊ, ɐ dˈʌzən bɹˈɑːnz. mˈeɪbiː mˈoːɹ, bˌʌt nˌɑːt mˈɛni.|1139
+train-clean-360/7933/112597/7933_112597_000011_000002.wav|ˌɔn mˈɛnɪəv ðə ɡɹˈeɪt stˈoʊn kɹˈɔsᵻz ɑːɹ skˈʌlptʃɚd hˈɑːɹp plˈeɪɚz ænd pˈaɪp plˈeɪɚz, fɹʌm wˈɪtʃ wiː lˈɜːn ɐ ɡɹˈeɪt dˈiːl ɐbˌaʊt ðə ʃˈeɪps ænd sˈaɪzᵻz ʌvðə sˈɛvɹəl ˈɪnstɹəmənts.|819
+train-clean-360/56/1732/56_1732_000026_000000.wav|"wˈʌn mˈʌst lˈɛt juː dɹˈɪŋk jʊɹ kˈɔfi ɪn pˈiːs, æt lˈiːst," sˈɛd mˈætveɪ, ɪnðɪ ɐfˈɛkʃənətli ɡɹˈʌf tˈoʊn wɪð wˌɪtʃ ɪt wʌz ɪmpˈɑːsᵻbəl təbi ˈæŋɡɹi.|960
+train-clean-360/2589/22574/2589_22574_000050_000003.wav|ðɪ ˈɔːɹdɚd ʃˈɑːks əpˌɑːn twˈɛnti fˈiːldz sˈɛnt ðɛɹ lˈɔŋ pˈɜːpəl ʃˈædoʊz əkɹˌɑːs ðə flˈʌʃ; ænd ðɪ ˈiːvnɪŋ wˈɪnd, lˈaɪk ðə sˈaɪɪŋ ðæt fˈɑːloʊz dᵻpˈɑːɹɾᵻd tˈɪɹz, wʌz ʃˈeɪkɪŋ ðə dʒˈuːəlz fɹʌm ðɛɹ fˈɛðɚɹi tˈɑːps.|742
+train-clean-360/7416/103126/7416_103126_000052_000004.wav|mˈoːɹ kˈʌts ænd bɹˈuːzᵻz, mˈoːɹ vˈeɪn ʃˈɑːts, ænd ˈɔːl ðə ɹᵻwˈɔːɹd ʌv hɪz ˈiːɡɚ stɹˈʌɡəlz wʌzɐ sˈɪŋɡəl fˈɛðɚ ðæt flˈoʊɾᵻd dˌaʊn æz ðə ɡɹˈeɪt bˈɜːd sˈoːɹd sɚɹˈiːnli ɐwˈeɪ, lˈiːvɪŋ ðə bˈɔɪ ɛɡzˈɔːstᵻd ænd dˌɪsɐpˈɔɪntᵻd ɪn ɐ wˈɪldɚnəs ʌv ɡɹˈænɪt bˈoʊldɚz, wɪð nˈoʊ sˈaɪn əvə pˈæθ tə ʃˈoʊ ðə wˈeɪ ˈaʊt.|548
+train-clean-360/5684/46243/5684_46243_000020_000000.wav|sˌʌm fˈækts, haʊˈɛvɚ, ɑːɹ əpˈoʊzd tə ðə bᵻlˈiːf ðæt fˈiːmeɪl bˈʌɾɚflˌaɪz pɹɪfˈɜː ðə mˈoːɹ bjˈuːɾifəl mˈeɪlz; ðˈʌs, æz aɪ hɐvbɪn əʃˈʊɹd baɪ sˈɛvɹəl kəlˈɛktɚz, fɹˈɛʃ fˈiːmeɪlz mˈeɪ fɹˈiːkwəntli biː sˈiːn pˈɛɹd wɪð bˈæɾɚd, fˈeɪdᵻd, ɔːɹ dˈɪndʒi mˈeɪlz; bˌʌt ðɪs ɪz ɐ sˈɜːkəmstˌæns wˌɪtʃ kʊd hˈɑːɹdli fˈeɪl ˈɔfən tə fˈɑːloʊ fɹʌmðə mˈeɪlz ɪmˈɜːdʒɪŋ fɹʌm ðɛɹ kəkˈuːnz ˈɜːlɪɚ ðɐn ðə fˈiːmeɪlz.|643
+train-clean-360/497/129325/497_129325_000005_000001.wav|wˌʌt ɐ lˈeɪzɪbˌoʊnz jɚɹ ɑːɹ, ʃˈɑːɹlət.|366
+train-clean-360/1018/133447/1018_133447_000054_000002.wav|juːv bˈoʊθ ɡɑːt mˈʌnidˈuː tə juː wɛn jʊɹ ʌv ˈeɪdʒ.|822
+train-clean-360/816/2301/816_2301_000031_000002.wav|bˌʌt juː wˌɜːnt bˈaɪndɪŋ bˈʊks."|428
+train-clean-360/6927/86043/6927_86043_000011_000001.wav|ɡɹˈeɪt wʌzðə pɚplˈɛksᵻɾi ʌvðə ɡˈʊd mˈæn tə fˈaɪnd ɐ kˈæməl lˈoʊd ʌv sˈɪlks tˈʌmbəld æt hɪz dˈoːɹ!|585
+train-clean-360/8388/275212/8388_275212_000051_000001.wav|wiː kˈænt dˈuː wɪð mˈoːɹ ðɐn wˌʌn."|288
+train-clean-360/7825/258978/7825_258978_000015_000009.wav|ðɪ ɪŋkɹˈiːst dᵻmˈænd ɹɪzˈʌltɪŋ fɹʌmðə tʃˈiːpənɪŋ əvə pɹˈɑːdʌkt mˈeɪ kˈɔːl fɔːɹ mˈoːɹ wˈɜːkɚz ðɐn wɜːɹ ɛmplˈɔɪd bᵻfˌoːɹ ðə nˈuː məʃˈiːnɚɹi kˈeɪm ˈɪn, ænd jˈɛt sˌʌm ʌvðə fˈɔːɹmɚ wˈɜːkmɛn mˈeɪ biː θɹˈoʊn ˌaʊɾəv ɛmplˈɔɪmənt.|377
+train-clean-360/2397/162238/2397_162238_000012_000001.wav|"bˌʌt aɪv fˈaʊnd sˈʌmθɪŋ," mˈʌɾɚd hiː tə hɪmsˈɛlf, bᵻtwˌiːn hɪz sˈɛt tˈiːθ, ænd wɪðˌɪn fˈaɪv mˈɪnɪts mˈoːɹ wʌz ɐɡˈɛn klˈɑːzɪɾᵻd wɪððə pˈoʊst kəmˈændɚ.|72
+train-clean-360/8401/280380/8401_280380_000013_000001.wav|bˌʌt ðə hˈeɪtɹɪd ʌv dʒˈuːnoʊ ˈɔːlweɪz pɚsˈuːd hˌɪm.|794
+train-clean-360/2060/150843/2060_150843_000022_000013.wav|ænd ðeɪ dˈɪd ˈɛvɹɪθˌɪŋ wɪð ˈiːzwˈʌn mˌaɪt ˈɔːlmoʊst sˈeɪ wɪð nˌɑːnʃəlˈɑːns, sˌoʊ ðætðə bˈɔɪz nˈoʊɾɪst nˈʌθɪŋ, ænd ɹᵻsˈiːvd ˌɛdʒuːkˈeɪʃən, ˈɔfən fɚðə fˈɜːst tˈaɪm ɪn ðɛɹ lˈaɪvz.|418
+train-clean-360/6865/95963/6865_95963_000028_000001.wav|"hæd ðeɪ ˌɛni fˈiːlɪŋz ʌv ɹᵻzˈɛntmənt?" wʌzðə nˈɛkst kwˈɛstʃən.|625
+train-clean-360/8742/245708/8742_245708_000053_000001.wav|ðˈɛɹfoːɹ ˈɔːl mˈɛn hɐvnˌɑːt ðə kənfˈoːɹmᵻɾi ʌv ˈɪmɪdʒ.|471
+train-clean-360/2598/4662/2598_4662_000028_000016.wav|bˌʌt wˈɪljəm hæd dɪskɹˈiːtli ɹᵻtˈaɪɚd.|294
+train-clean-360/597/133239/597_133239_000039_000000.wav|"ðə stˈɑːɹz," ðˌoʊ ɐpˈɪɹɪŋ smˈɔːl tʊ ˌʌs bɪkˈʌz ʌv ðɛɹ ɪmˈɛns dˈɪstəns, ɑːɹ ɪn ɹɪˈælᵻɾi ɡɹˈeɪt ænd ʃˈaɪnɪŋ sˈʌnz.|474
+train-clean-360/1789/142896/1789_142896_000054_000004.wav|ðɪs dˈɑːɡᵻd hɪz θˈɔːts lˈaɪk ɐ mˈɜːdɚɹɚz dˈiːd, tˈɛɹᵻbəl ɪnðə wˈɑːtʃᵻz ʌvðə nˈaɪt. mˈæɹi hɜː, ænd ðˈɛn tˈɛl hɜː.|1117
+train-clean-360/3389/13248/3389_13248_000031_000001.wav|bˌʌt wʌt hɐz ðæt tə dˈuː wɪð ˌʌs?|261
+train-clean-360/7825/258970/7825_258970_000009_000004.wav|bˌʌt pɹəɡɹˈɛsɪŋ sˌɪvɪlᵻzˈeɪʃən ɹᵻkwˈaɪɚd mˈoːɹ wˈɔːɾɚ fɔːɹ sˈɪɾiz, fɔːɹ mˈaɪnɪŋ, ænd fɔːɹ ˌɪɹɪɡˈeɪʃən, ænd nˈaʊ stˈeɪts ænd kˌɔːɹpɚɹˈeɪʃənz ɑːɹ ɡˌoʊɪŋ tə lˈɔː ˌoʊvɚ ðiːz fˈɔːɹmɚli ʌndᵻmˈɪnɪʃt fɹˈiː ɡˈʊdz.|377
+train-clean-360/3922/723/3922_723_000043_000000.wav|"juː kæn spˈiːk," nˈɪkəlˌeɪ pɑːɹfˈɛnəvˌɪtʃ ɐsˈɛntᵻd.|144
+train-clean-360/1121/132777/1121_132777_000004_000014.wav|ðɪs ɪz ðɪ ʌndˈaʊɾᵻd ɹˈuːl ˈiːvən wɛn ðə hˈʌsbənd ɪz ɪnðə ɹˈɔŋ; ænd tə mˈɛɹi ðɪ ˈɛntɚpɹˌaɪz wˌɪtʃ wˈɪljəm mˈɛdᵻtˌeɪɾᵻd ɐpˈɪɹd nˌɑːt ˈoʊnli dʒˈʌst, bˌʌt hˈoʊli.|229
+train-clean-360/8097/114971/8097_114971_000018_000002.wav|dˈɛθ ænd pˈɪɾi wɜː hɪz klˈoʊsɪst fɹˈɛndz.|706
+train-clean-360/3483/174132/3483_174132_000023_000000.wav|slˈoʊli, ðə dˈɪstənt ɹˈɛdnəs bɪkˌeɪm plˈeɪnɚ ænd lˈɑːɹdʒɚ; ʌntˈɪl, æz aɪ dɹˈuː nˈɪɹɚ, ɪt spɹˈɛd ˈaʊt ˌɪntʊ ɐ ɡɹˈeɪt, sˈɑːmɚ ɡlˈɛɹdˈʌl ænd tɹəmˈɛndəs. stˈɪl, aɪ flˈɛd ˈɑːnwɚd, ænd, pɹˈɛzəntli, aɪ hæd kˈʌm sˌoʊ klˈoʊs, ðˌɐɾɪt sˈiːmd tə stɹˈɛtʃ bᵻnˈiːθ mˌiː, lˈaɪk ɐ ɡɹˈeɪt ˈoʊʃən ʌv sˈɑːmɚ ɹˈɛd.|576
+train-clean-360/4116/3582/4116_3582_000011_000000.wav|"wˈɛl," sˈɛd mˈɪsɪz wˈɪtni, sˈɔftli, "lˈɛts θˈɪŋk wʌt wiː kæn dˈuː fɔːɹ pˈɑːli; ɪt mˌeɪks mˌiː fˈiːl vˈɛɹi bˈædli tə sˈiː hɜː sˈæd lˈɪɾəl fˈeɪs."|729
+train-clean-360/8848/293957/8848_293957_000018_000001.wav|"aɪɐm sˌoʊ plˈiːzd, sˌoʊ ɡlˈæd.|873
+train-clean-360/1060/134451/1060_134451_000006_000003.wav|hiː wˈɔntᵻd tə tˈɛl hɜːɹ ʌvðə nˈuː ˈɪmpʌlsᵻz ðæt hæd kˈʌm tə hˌɪm.|530
+train-clean-360/8152/258993/8152_258993_000032_000006.wav|ðə wˈɜːkmənz fˈuːd ɪz tə ɡɹˈæɾᵻfˌaɪ hɪz hˈʌŋɡɚ, pɹaɪmˈɛɹᵻli; nˌɑːt mˈɪɹli tə mˌeɪk hˌɪm ɐ bˈɛɾɚ wˈɜːkɪŋ məʃˈiːn.|860
+train-clean-360/3540/163612/3540_163612_000034_000006.wav|dˈoʊnt tɹˈaɪ tə pɹˈɛs ɪɾ ˈoʊpən, bˌʌt ˈɔɪl ðə hˈɪndʒᵻz wɪð ðˈɪs,ænd ðɪ ˈoʊld mˈæn ɡˈeɪv hˌɪm ɐ smˈɔːl bˈɑːɾəl.|176
+train-clean-360/7395/89882/7395_89882_000016_000002.wav|ɡˈɑːd pɹɪzˈɜːv juː ɪn sˈeɪfti, mˈoʊst dˈɪɹ bɹˈʌðɚ!|660
+train-clean-360/8545/287671/8545_287671_000019_000028.wav|ˈæftɚɹ ɐwˈaɪl maɪ mˈæstɚ dˈaɪd; ɪf ðeɪ hæd ɡɔn ɐkˈoːɹdɪŋ tə lˈɔː aɪ wʊdhɐv bˌɪn hˈaɪɚd ˈaʊt ɔːɹ sˈoʊld, bˌʌt maɪ mˈɪstɹəs wˈɔntᵻd tə kˈiːp mˌiː tə kˈæɹi ɔnðə plˈeɪs fɔːɹ hɜː səpˈoːɹt.|167
+train-clean-360/4238/12895/4238_12895_000022_000005.wav|aɪ hˈoʊpt ðæt nˈʌθɪŋ wʊd kˈʌm ʌv ɪt, bˌʌt aɪ mˌaɪthɐv nˈoʊn bˈɛɾɚ.|68
+train-clean-360/8066/114256/8066_114256_000017_000003.wav|bˈæniən kʊd nˌɑːt ɹˈiːəlaɪz ðæt nˈaʊ, jˈʌŋ ðˌoʊ hiː wʌz, hiː wʌzɐ ɹˈɪtʃ mˈæn.|28
+train-clean-360/7732/107517/7732_107517_000013_000005.wav|ðə stˈeɪt ᵻlˈɛkʃənz wˌɪtʃ fˈɑːloʊd ɹɪzˈʌltᵻd ɪn dᵻfˈiːt fɚðə fˈɛdɚɹəlˌɪsts ɪnðɪ ᵻlˈɛkʃən ʌvðə ɡˈʌvɚnɚ, bˌʌt ðeɪ kˈæɹid ðə lˈɛdʒɪslətʃɚ ænd ᵻlˈɛktᵻd tˈuː sˈɛnəɾɚz,dʒˈɛnɚɹəl ʃˈaɪlɚ ænd ɹˈuːfəs kˈɪŋ.|1058
+train-clean-360/6330/66016/6330_66016_000011_000004.wav|"hiː dˈʌzənt sˈiːm tə hæv ðə pɹˈɑːpɚ tˈʌtʃ," ʃiː ɛksplˈeɪnd.|1136
+train-clean-360/3546/9321/3546_9321_000022_000001.wav|"aɪd lˈaɪk tə nˈoʊ hˌuː ɡɑːt ˌʌp ðɪs θˈɪŋ ɪnðə fˈɜːst plˈeɪs," hiː sˈɛd.|766
+train-clean-360/6038/56778/6038_56778_000024_000003.wav|ðeɪ ɑːɹ, lˈaɪkwaɪz, dɪstˈɪŋɡwɪʃt baɪ ɚɹˌɪdʒɪnˈælᵻɾi ʌv tɹˈiːtmənt, kəmplˈiːt mˈæstɚɹi ʌvðə mətˈɪɹiəl jˈuːzd, æz wˈɛl æz baɪ dʒˈɛnjuːɪn bjˈuːɾi ʌv ɹˈaɪm ænd ɹˈɪðəm.|318
+train-clean-360/835/130876/835_130876_000026_000000.wav|"wˌʌt sˈɔːɹt ʌv bˈaɪpɛdz?"|642
+train-clean-360/922/132291/922_132291_000020_000000.wav|ɪt tˈʊk ɐ wˈɜːldwˈaɪd plˈeɪɡ tə tˈɜːn ðə tˈaɪd.|1003
+train-clean-360/7478/98645/7478_98645_000016_000013.wav|ɐ ɹˈuːf ʌv mˈæɾɪŋ ʃˈiːldz ˈiːtʃ ɡɹˈuːp fɹʌmðə sˈʌn baɪ dˈeɪ, ænd ɐ slˈaɪt spɹˈɪŋklɪŋ ˈɛvɹi nˈaɪt sˈɜːvz tə kˈiːp ðə plˈænts fɹˈɛʃ fɔːɹ nˌɪɹli ɐ mˈʌnθ, ænd ðə flˈaʊɚz kəntˈɪnjuː ðɛɹ blˈuːmɪŋ dˈʊɹɹɪŋ ðæt tˈaɪm, æz kˈɑːmli æz ɪf ɪn pˈɜːfɛktli nˈætʃɚɹəl pəzˈɪʃənz.|480
+train-clean-360/8183/282977/8183_282977_000021_000000.wav|ɪn noʊvˈɛmbɚ, pɹˈiːviəs tə wˈɪljəmz ɛskˈeɪp, hɜː lˈɔŋ lˈʊkt fɔːɹ dˌɪsəlˈuːʃən tˈʊk plˈeɪs.|620
+train-clean-360/534/127538/534_127538_000032_000000.wav|"ɪt dˈoʊnt mˌeɪk mˈʌtʃ ˈɑːdz, dˈuː ɪt, nˈaʊ?" ˈæskt dˈɪk.|675
+train-clean-360/1349/135891/1349_135891_000030_000001.wav|ðə kˈeɪlɪf hæɹˈuːn ˈæl ɹˈʌʃiːd wʌz fɹˈiːkwəntli ɪnðə hˈæbɪt ʌv wˈɔːkɪŋ ɐbɹˈɔːd ɪn dɪsɡˈaɪz baɪ nˈaɪt, ðæt hiː mˌaɪt dɪskˈʌvɚ ɪf ˈɛvɹi θˈɪŋ wʌz kwˈaɪət ɪnðə sˈɪɾi, ænd sˈiː ðæt nˈoʊ dɪsˈoːɹdɚz wɜː kəmˈɪɾᵻd.|975
+train-clean-360/2294/161714/2294_161714_000007_000000.wav|"wˌʌt!" aɪ ɹˈoːɹd, "hˈɛɹuː tˈeɪkən fɹʌmðə pˈælɪs baɪ ɐ hˈændfəl ʌv mˈɛn ænd nˈʌn ʌv juː ɪnfˈɜːnəl ɹˈæskəlznˈʌn ʌv juː wˈaɪt lˈɪvɚd ɐbˈɔːɹʃənz lˈɪftᵻd ɐ hˈænd tə sˈeɪv hɜːkˈɜːs ˌɔn juː ɐ θˈaʊzənd tˈaɪmz.|523
+train-clean-360/224/129790/224_129790_000020_000001.wav|ðɪs ʃˈɪp, lˈaɪk ðɪs hˈændsʌm sˈuːt ʌv klˈoʊðz, ɪz mˈaɪn baɪ ɹˈaɪt ʌv kˈɑːŋkwɛst.|554
+train-clean-360/205/123882/205_123882_000010_000000.wav|bˌʌt ɪf juː hæv hˈæf fɚɡˈɑːʔn̩ mˌæɹɪpˈoʊsə, ænd lˈɔŋ sˈɪns lˈɔst ðə wˈeɪ tʊ ɪt, juː ɑːɹ ˈoʊnli lˈaɪk ðə ɡɹˈeɪɾɚ pˈɑːɹt ʌvðə mˈɛn hˈɪɹ ɪn ðɪs mˌɔːsəlˈiːəm klˈʌb ɪnðə sˈɪɾi.|456
+train-clean-360/8742/245708/8742_245708_000066_000002.wav|wˈɛɹfoːɹ ɪɾ ɪz mˈænɪfˌɛst ðætðə dɪstˈɪŋkʃən ʌvðə dᵻvˈaɪn pˈɜːsənz ɪz sˈuːɾəbəl tə ðə dᵻvˈaɪn nˈeɪtʃɚ; ænd ðˈɛɹfoːɹ təbi tə ðɪ ˈɪmɪdʒ ʌv ɡˈɑːd baɪ ˌɪmɪtˈeɪʃən ʌvðə dᵻvˈaɪn nˈeɪtʃɚ dʌznˌɑːt ɛksklˈuːd bˌiːɪŋ tə ðə sˈeɪm ˈɪmɪdʒ baɪ ðə ɹˌɛpɹᵻzˈɛntˈeɪʃən ʌvðə dᵻvˈaɪn pˈɜːsənz: bˌʌt ɹˈæðɚ wˈʌn fˈɑːloʊz fɹʌmðɪ ˈʌðɚ.|471
+train-clean-360/8474/281188/8474_281188_000001_000001.wav|hiː hɪmsˈɛlf sˈɛt ðˌɛm ðɪ ɛɡzˈæmpəl, ænd ðeɪ ˈɔːl ɹᵻtˈɜːnd æz ðeɪ hæd kˈʌm.|380
+train-clean-360/101/126860/101_126860_000045_000002.wav|wˌɛn ðeɪ bɪɡˈæn tə sˈɛɾəl ɔnðə sˈændz, ɐlˈɔŋ ðə ɹˈoʊps ʌvðə ʃˈɪpˈɛnɪwˌɛɹ ænd ˈɛvɹɪwˌɛɹ ɛksˈɛpt ðə tɹˈiːzðə dˈɑːktɚ kʊd sˈiː ðæt ðeɪ hæd blˈuː wˈɪŋz ænd wˈaɪt bɹˈɛsts ænd vˈɛɹi ʃˈɔːɹt, fˈɛðɚd lˈɛɡz.|406
+train-clean-360/7314/93277/7314_93277_000006_000000.wav|"aɪ ɡˈɛs sˈoʊ," ɐsˈɛntᵻd tˈɑːm.|215
+train-clean-360/4110/11535/4110_11535_000017_000001.wav|pˈiːpəl dɹˈɛst ɪnðə klˈoʊðɪŋ ʌv ðɪs dʒˈɛnz ɔːɹ ðˈæt, wˈɛɹɪŋ ˈiːtʃ ðɪ ɪnsˈɪɡniə ʌvðə hˈaʊs ʌv hɪz spˈoʊksmən.|80
+train-clean-360/2368/157054/2368_157054_000002_000000.wav|stɹˈeɪndʒ sˈaʊndz.ɐ nˈaɪt ɐtˈæk.kˈɛnədi ænd dʒˈoʊ ɪnðə tɹˈiː.tˈuː ʃˈɑːts."hˈɛlp! hˈɛlp!"ɹᵻplˈaɪ ɪn fɹˈɛntʃ.ðə mˈɔːɹnɪŋ.ðə mˈɪʃənˌɛɹi.ðə plˈæn ʌv ɹˈɛskjuː.|1051
+train-clean-360/6865/95969/6865_95969_000005_000000.wav|"bˌʌt," hiː ˈæskt, "hˌaʊ æm aɪ tə nˈoʊ ðə səɡˈeɪʃəs ænd tˈæləntᵻd, bᵻfˌoːɹ pɹəmˈoʊɾɪŋ ðˌɛm?"|625
+train-clean-360/7245/104890/7245_104890_000121_000000.wav|wˈʌn nˈiːd nˌɑːt biː ɐ tʃˈeɪmbɚ təbi hˈɔːntᵻd, wˈʌn nˈiːd nˌɑːt biː ɐ hˈaʊs; ðə bɹˈeɪn hɐz kˈɔɹɪdˌoːɹz sɚpˈæsɪŋ mətˈɪɹiəl plˈeɪs.|189
+train-clean-360/7994/258959/7994_258959_000017_000003.wav|æz tˈɛmpɹɪtʃɚ mˈʌst biː ɐdʒˈʌstᵻd tə mˈænz nˈiːd, klˈaɪmət sˈæɾɪsfˌaɪz wˈɔnts dᵻɹˈɛktli.|234
+train-clean-360/3368/170952/3368_170952_000087_000000.wav|ðeɪ ɑːɹ ˈɪl spˈoʊkən.|1106
+train-clean-360/4222/12898/4222_12898_000023_000001.wav|hiː ɹᵻtˈɜːnd ɪn hˈæf ɐn ˈaʊɚ.|381
+train-clean-360/6509/67147/6509_67147_000025_000007.wav|aɪ wˈɑːtʃt ðə ɡɹˈeɪt fɹˈɛntʃ klˈɑːk.|905
+train-clean-360/6104/58845/6104_58845_000058_000001.wav|ðæt fˈɪɹsli bˌʌt ˈækjʊɹətli spˈɛd mˈɪsəl nˈɑːkt ðə hˈæf dɹˈɔːn pˈɪstəl fɹʌm nˈuːmənz hˈænd ænd sˈɛnt hɪz bˈɑːdi kɹˈæʃɪŋ tə ðə flˈoːɹ, wˌɛɹ dᵻstˈɑːnz sˈɛkənd bˈʊlɪt mˌeɪd ɪt sˈɜːʔn̩ ðæt hiː wʊd nˌɑːt ɹᵻkˈʌvɚ kˈɑːnʃəsnəs.|30
+train-clean-360/984/137141/984_137141_000023_000005.wav|ɪɾ ɪz æz ˈiːzi æz lˈaɪɪŋ; bɪkˈʌz ɪɾ ɪz lˈaɪɪŋ. ðə tɹˈuːθ ɪz, ʌv kˈoːɹs, ðæt mˈɪstɚ ʃˈɔː ɪz kɹˈuːəli hˈæmpɚd baɪ ðə fˈækt ðæt hiː kænˈɑːt tˈɛl ˌɛni lˈaɪ ʌnlˈɛs hiː θˈɪŋks ɪɾ ɪz ðə tɹˈuːθ. aɪ fˈaɪnd maɪsˈɛlf ˌʌndɚ ðə sˈeɪm ɪntˈɑːlɚɹəbəl bˈɑːndɪdʒ.|1082
+train-clean-360/1060/134451/1060_134451_000011_000000.wav|ðə kənfjˈuːzd bˈɔɪ pˌʊt hɪz hˈænd ɔnðə ɡˈɜːlz ˈɑːɹm.|530
+train-clean-360/3989/182389/3989_182389_000015_000001.wav|ˈoʊld kˈɪŋ bˈɛɹ pˌʊt ˌɔn hɪz blˈækɪst kˈoʊt.|183
+train-clean-360/543/137106/543_137106_000008_000010.wav|hiː lˈʌvd ðə bjˈuːɾifəl ænd wʌz wɪð kˈʌlɚ, fˈɔːɹm ænd mjˈuːzɪk tˈʌtʃt tə tˈɪɹz.|676
+train-clean-360/1348/135826/1348_135826_000023_000000.wav|"ɪɾ ɪz lˈɑːɹdʒli bɪkˈʌz ʌv ɹˈɑːbɚ ðə ɹˈæt ænd nˈɪblɚ ðæt mˈɛn kˈiːp ðə kˈæts juː ˈɔːl hˈeɪt sˈoʊ.|457
+train-clean-360/7460/92002/7460_92002_000019_000000.wav|tʃˈæptɚ fˈɪftiːn.|917
+train-clean-360/6505/231837/6505_231837_000017_000000.wav|"ˌæbsəlˈuːtli nˈʌn; ˈiːvən ðə wˈɛpən wɪð wˌɪtʃ ðə kɹˈaɪm wʌz kəmˈɪɾᵻd kænˈɑːt biː fˈaʊnd."|315
+train-clean-360/5189/59288/5189_59288_000004_000000.wav|æz ðɪ ˈaɪsəlˌeɪɾᵻd ˈoʊk ðæt spɹˈɛdz hɪz ʌmbɹˈeɪdʒəs tˈɑːp ɪnðə mˈɛdoʊ sɚpˈæsᵻz hɪz spˈɪndlɪŋ kəndʒˈɛnɚɹ ʌvðə fˈɔːɹɪst, sˌoʊ dˈʌz ðə kˈʌntɹi dʒˈɛntəlmən, ɐlˈoʊn ɪnðə mˈɪdst ʌv hɪz bɹˈɔːd ᵻstˈeɪt, aʊtɡɹˈoʊ ðə mˈæn ʌv kɹˈaʊdz ænd kənvˌɛnʃənˈælᵻɾiz ɪn ˌaʊɚ sˈɪɾiz.|57
+train-clean-360/6696/73296/6696_73296_000006_000000.wav|"mˈɪstɚ wˈɪŋfiːld mˈoʊst stɹˈɛnjuːəsli ɹˌɛkəmˈɛndᵻd ɪt, sˌɜː, ɔːɹ wiː ʃˌʊd nˌɑːɾɐv ɡˈɔn.|36
+train-clean-360/8396/240992/8396_240992_000020_000001.wav|ɪɾ ɪz tə mˌiː ɐ mˈæɾɚɹ ʌv pˈɑːzᵻtˌɪvli nˈoʊ ˈɪntɹɛst wˈɛðɚ ɔːɹ nˈɑːt, ɪn ˌɛni sˈɛns, ðə mˈæɾɚɹ ʌv ˌaʊɚ bˈɑːdiz ʃˌæl biː ɹˈeɪzd fɹʌmðɪ ˈɜːθ.|458
+train-clean-360/14/212/14_212_000052_000001.wav|aɪ θˈɪŋk lˈaɪk juː ðˈɛɹ.|1119
+train-clean-360/2582/155972/2582_155972_000007_000002.wav|bˌʌt ðə bˈʊks hæv ˌoʊvɚflˈoʊd ˌɪntʊ ˈɔːl ðɪ ˈʌðɚ ɹˈuːmz tˈuː.|79
+train-clean-360/4098/11547/4098_11547_000017_000000.wav|hiː sˈæt baɪ hɜː sˈaɪd ʌntˈɪl ðə kˈɜːtən fˈɛl; bˌʌt hɪz sˈaɪlənt mˈuːd sˈiːmd tə hæv kˈʌm əpˌɑːn hˌɪm ɐɡˈɛn.|918
+train-clean-360/7460/92002/7460_92002_000027_000003.wav|bˌʌt hiː wʌz ʌnˈeɪbəl tʊ ɐdˈɑːpt ðæt sˈeɪf ænd ɡˈoʊldən mˈiːn, wˌɪtʃ hɪz wˈaɪf ɹˌɛkəmˈɛndᵻd.|917
+train-clean-360/1806/2536/1806_2536_000000_000002.wav|fɔːɹ mˈoːɹ ˌɪnfɚmˈeɪʃən, ɔːɹ tə vˌɑːləntˈɪɹ, plˈiːz vˈɪzɪt lˈaɪbɹɪvˌɑːks dˈɑːt ˈɔːɹɡ.|1105
+train-clean-360/4733/6398/4733_6398_000027_000010.wav|sˈʌtʃ wɜː ðəpɹˈɑːpɚli spˈiːkɪŋɪmˈoʊʃənz ʌv tʃˈɑːɹlz ɡˈʊd.|559
+train-clean-360/70/121127/70_121127_000042_000000.wav|"wˌʌt dˈuː juː wˈɪʃ mˌiː tə sˈeɪ?"|1061
+train-clean-360/6904/262291/6904_262291_000029_000002.wav|aɪ mˌaɪthɐv lˈɜːnd tə lˈaɪk ɪt baɪ ðɪs tˈaɪm."|496
+train-clean-360/5246/30101/5246_30101_000055_000000.wav|ðɪ ˈeɪdʒənt wʌz θˈʌɹoʊli ɐʃˈeɪmd ʌv hɪmsˈɛlf.|376
+train-clean-360/1825/135580/1825_135580_000030_000000.wav|"wˈɛlθi, ˌɪndˈiːd!" ɹᵻplˈaɪd ðɪ ɪntˈɛndənt.|116
+train-clean-360/318/124224/318_124224_000098_000006.wav|lˈɛt ˌʌs, æz juː sˈeɪ, skˈʌd fˈɔːɹθ.|217
+train-clean-360/716/129582/716_129582_000006_000005.wav|hiː hæd ɐ lˈɑːɹdʒ, ˈɔːlmoʊst lˈɪpləs, mˈaʊθ, ɛkstɹˈoːɹdɪnˌɛɹi lˈæŋk ˈɑːɹmz, lˈɔŋ θˈɪn fˈiːt, ænd bˈoʊ lˈɛɡz, ænd stˈʊd wɪð hɪz hˈɛvi fˈeɪs θɹˈʌst fˈɔːɹwɚd stˈɛɹɪŋ æɾ ˌʌs. hiː wʌz dɹˈɛst lˈaɪk mɑːntɡˈɑːmɚɹi ænd hɪz wˈaɪt hˈɛɹd kəmpˈæniən, ɪn dʒˈækɪt ænd tɹˈaʊsɚz ʌv blˈuː sˈɜːdʒ.|842
+train-clean-360/1053/132821/1053_132821_000008_000001.wav|ðˈɛn hiː kˈeɪm bˈæk, hɪz fˈeɪs wˈaɪt ænd stˈɜːn.|885
+train-clean-360/2592/5341/2592_5341_000056_000005.wav|ɪt wʌzðə pɹˈɛzəns ʌv ðæt ɡɹˈɪm mˈɪs kˈɔːɹni wˌɪtʃ pˌʊt hɜːɹ ˈaʊt.|290
+train-clean-360/7139/75362/7139_75362_000005_000001.wav|wˌɛn ɐ θˈɔːt kənvˈeɪd ɔːɹ ɐ wˈɜːk dˈʌn ˈɛntɚz ɐlˈoʊn ˌɪntʊ ðɪ əbzˈɜːvɚz ɛkspˈiəɹɪəns, nˈoʊ fɹˈɛndʃɪp ɪz pˈɑːsᵻbəl.|1008
+train-clean-360/7145/87280/7145_87280_000084_000006.wav|kwˈɪkli." ænd ʃiː wʌz ɐlˈaɪv wɪð ɛnθˌuːziˈæstɪk ˈɪntɹɛst.|477
+train-clean-360/8605/292138/8605_292138_000013_000000.wav|juː mˈeɪ ɪmˈædʒɪn ɪt dɪdnˌɑːt tˈeɪk ˈiːdɪθ lˈɔŋ tə pˌʊt ɐwˈeɪ hɜː bˈʊks; ðˈɛn ɡˈɪvɪŋ hɜː ɡˈʊdnˈeɪtʃɚd ɡˈʌvɚnˌɛs ɐ hˈʌɡ ʃiː skˈɪpt ˈɔf fɔːɹ hɜː hˈæt ænd kˈoʊt.|772
+train-clean-360/7720/105167/7720_105167_000020_000000.wav|juːzˈæŋɡə pɹˈɑːmɪst ðætðə ɡˈɜːl wʊd biː ɪn ˈɛvɪdəns əpˌɑːn ðɛɹ ɹᵻtˈɜːn, ænd tˈʊk ɪmˈiːdɪət stˈɛps tʊ ɪmpɹˈɛs əpˌɑːn hɪz wˈɔːɹɪɚz ðæt ˌʌndɚ pˈɛnəlɾi ʌv dˈɛθ ðeɪ mˈʌst nˌɑːt hˈɑːɹm hɜː.|308
+train-clean-360/6877/79973/6877_79973_000076_000000.wav|ðɪs ɪz ˈɔːl ɹˈaɪt!hiː sˈɛd; tˈuː ʌv ðˌɛm ɑːɹ dˈʌn fɔːɹ.|186
+train-clean-360/8347/258283/8347_258283_000003_000003.wav|sˈʌtʃ wʌz hɜː kˈeɪs; bˌʌt æz ɹᵻɡˈɑːɹdz ˈɑːɹdɐʃˌɪɹ, hiː wʌz ɐlˈoʊn wɪð hɪz fˈɑːðɚ ðæt nˈaɪt ænd ðə ɡɹˈeɪt kˈɪŋ kwˈɛstʃənd hˌɪm ʌv hɪz kˈeɪs, wˈɛɹəpˌɑːn hiː tˈoʊld hˌɪm ˈɔːl ðæt hæd bᵻfˈɔːlən hˌɪm, fˈɜːst ænd lˈæst.|419
+train-clean-360/1222/133834/1222_133834_000036_000002.wav|hiː hæd kˈʌm stɹˈeɪt ɐwˈeɪ fɹʌm hɪz wˈɜːk, ˌɔn bˌiːɪŋ ɹˈɪʔn̩ tuː, ænd hæd wˈɔːkt ðə hˈoʊl dʒˈɜːni; ænd wʌz ˌɔn hɪz wˈeɪ tə mˈɪstɚ bˈaʊndɚbiz kˈʌntɹi hˈaʊs ˈæftɚ dˈɑːɹk, wˌɛn hiː fˈɛl.|219
+train-clean-360/4145/34497/4145_34497_000010_000005.wav|wˌaɪ dˈɪd ʃiː fˈɪks ˌɔn ðɪs plˈeɪs tə mˈiːt mˌiː, ænd wˌaɪ dˈʌz ʃiː ɹˈaɪt ɪn bˈɛtsiz lˈɛɾɚ?" hiː θˈɔːt, wˈʌndɚɹɪŋ nˈaʊ fɚðə fˈɜːst tˈaɪm ˈæɾɪt.|322
+train-clean-360/8075/279229/8075_279229_000021_000000.wav|ðə lˈɪɾəl wˈɜːkɚz, ɹˈiːtʃɪŋ ðə ɡˈoʊl wɪð ðɛɹ pɹˈɛʃəs fɹˈeɪt, ɑːɹ nˈaʊ ɡˈɪvɪŋ ɪɾ ˌoʊvɚ tə ðə mˈæstɚ pˈʊʃɚz, hˌuː hɐvbɪn wˈeɪɾɪŋ fɔːɹ ðˌɛm ɪnðə sˈʌn ˈɔːl ðɪs wˈaɪl.|101
+train-clean-360/8142/3967/8142_3967_000018_000001.wav|ðə vˈɪzɪɾɚ, ðˈɛɹfoːɹ, hˈɜːɹid dʒˈɪdʒɪˌuː tə ɡɛt ɹˈɛdi, sˈeɪɪŋ ðæt ðeɪ mˈʌst lˈiːv bᵻfˌoːɹ ðə dˈʌsk.|1052
+train-clean-360/5293/82020/5293_82020_000050_000000.wav|kˈɑːɹl spɹˈæŋ tə hɪz fˈiːt.|113
+train-clean-360/8786/276735/8786_276735_000008_000000.wav|nˈʌθɪŋ kʊd biː mˈoːɹ ɛɹˈoʊniəs ðɐn sˈʌtʃ vjˈuːz.|880
+train-clean-360/6006/60489/6006_60489_000005_000001.wav|fɹʌm ɐ dˈiː fˈoːɹtiːn fˈoːɹtiːn ˌʌp tʊ ˈeɪtiːn θˈɜːɾi tˈuː nˈoʊ fjˈuːɚ ðɐn nˈaɪntiːn wˈaɪdspɹɛd ˈaʊtbɹeɪks ʌv ðɪs kˈaɪnd hɐvbɪn ɹᵻkˈoːɹdᵻd.|949
+train-clean-360/1264/129805/1264_129805_000073_000000.wav|"aɪ wɪl kənsˈʌlt maɪ ˈɑːfɪsɚz," hiː sˈɛd; ænd hiː sˈɛnt fɔːɹ ðˌɛm.|557
+train-clean-360/1061/146197/1061_146197_000033_000000.wav|"wˌʌt!" sˈɛd mˈɪstɚ bˈɜːd, kˈʌmɪŋ ɪn sˈɔftli ænd klˈoʊzɪŋ ðə dˈoːɹ bᵻhˈaɪnd hˌɪm.|934
+train-clean-360/6189/21305/6189_21305_000086_000001.wav|hiː ɹˈiəli hæd ɐ kəntˈɛmpt fɔːɹ wʌt ɐ hˈændsʌm hˈæf tˈɔːt ɡˈɜːl ʌv twˈɛnti θɹˈiː mˌaɪt θˈɪŋk.|180
+train-clean-360/920/681/920_681_000020_000003.wav|ɔnðə wˈɔːlz, kˈʌvɚd wɪð wˈaɪt pˈeɪpɚ, wˌɪtʃ wʌz tˈɔːɹn ɪn mˈɛni plˈeɪsᵻz, ðɛɹ hˈʌŋ tˈuː lˈɑːɹdʒ pˈoːɹtɹɪtswˈʌn ʌv sˌʌm pɹˈɪns hˌuː hɐdbɪn ɡˈʌvɚnɚɹ ʌvðə dˈɪstɹɪkt θˈɜːɾi jˈɪɹz bᵻfˈoːɹ, ænd ðɪ ˈʌðɚɹ ʌv sˌʌm bˈɪʃəp, ˈɔːlsoʊ lˈɔŋ sˈɪns dˈɛd. ɪnðə kˈɔːɹnɚɹ ˈɑːpəzˌɪt ðə dˈoːɹ ðɛɹwˌɜː sˈɛvɹəl ˈaɪkənz, bᵻfˌoːɹ wˌɪtʃ ɐ lˈæmp wʌz lˈaɪɾᵻd æt nˈaɪtfɔːl ... nˌɑːt sˈoʊ mˌʌtʃ fɔːɹ dɪvˈoʊʃənəl pˈɜːpəsᵻz æz tə lˈaɪt ðə ɹˈuːm.|198
+train-clean-360/1748/1562/1748_1562_000004_000003.wav|ɐ wˈʊmən sˈæt bᵻsˈaɪd ɪt, pɹɪpˈɛɹɪŋ sˌʌm vˈɛdʒɪɾəbəlz fɔːɹ dˈɪnɚ.|716
+train-clean-360/93/126209/93_126209_000022_000000.wav|"ˈoʊ, ˈæni, hˌaʊ kˈæn juː!" sˈɛd ðə θˈɜːd.|983
+train-clean-360/2240/148522/2240_148522_000006_000001.wav|pɹˈaɪd mˈʌst biː dɪsˈɛmbəld; dɪsdˈeɪn dˈɛɹz nˌɑːt bɹˈeɪk ˈaʊt; ˈɛɡətˌɪzəm fˈɪɹz ɪts ˈoʊn sˈɛlf. ˌʌndɚɹ ɐ fɹˈiː ɡˈʌvɚnmənt, æz mˈoʊst pˈʌblɪk ˈɑːfɪsᵻz ɑːɹ ᵻlˈɛktɪv, ðə mˈɛn hˌuːz ˈɛlɪvˌeɪɾᵻd mˈaɪndz ɔːɹ ɐspˈaɪɚɹɪŋ hˈoʊps ɑːɹ tˈuː klˈoʊsli sˈɜːkəmskɹˌaɪbd ɪn pɹˈaɪvət lˈaɪf, kˈɑːnstəntli fˈiːl ðæt ðeɪ kænˈɑːt dˈuː wɪðˌaʊt ðə pˌɑːpjʊlˈeɪʃən wˌɪtʃ sɚɹˈaʊndz ðˌɛm.|616
+train-clean-360/2230/148550/2230_148550_000015_000000.wav|"aɪ θˈɪŋk hiːl dˈuː juː kˈæpɪɾəlijuː mˈʌst lˈɛt mˌiː kˈʌm ænd sˈiː sˌʌm dˈeɪ sˈuːn." mˈɑːɹvɛlz tˈoʊn wʌz ˈɔːlweɪz sˌoʊ lˈaɪt, sˌoʊ ʌnˈɛmfɐsˌaɪzd, ðæt ʃiː kʊd nˌɑːt biː ʃˈʊɹ ʌv ɪts bˌiːɪŋ æz ɪndˈɪfɹənt æz ɪt sˈaʊndᵻd.|831
+train-clean-360/8848/293957/8848_293957_000014_000001.wav|"ænd wɛn wɪl ðæt bˈiː?"|873
+train-clean-360/5656/44577/5656_44577_000057_000004.wav|hˈɪɹ jʊɹ ˈoʊn ɪntˈɛlɪdʒəns mˈʌst ɡˈaɪdænd ɡɹˈeɪtli tə jʊɹ pɹˈɑːfɪt.|1149
+train-clean-360/2775/160958/2775_160958_000022_000000.wav|ɪnðə mˈiːntaɪm ðə mˈɜːtʃənt wɛnt hɪz wˈeɪ tə ðə sˈɪɾi, fˈʊl ʌv hˈoʊp ænd ɡɹˈeɪt plˈænz æz tə wʌt hiː wʊd dˈuː wɪð hɪz mˈʌni.|572
+train-clean-360/816/2301/816_2301_000005_000004.wav|ðɪ ˈæbsəns ʌv hɪz ɐkˈʌstəmd wˈɜːk sˈiːmd tə lˈiːv sˈʌmθɪŋ ˌaʊɾəv hɪz lˈaɪf.|428
+train-clean-360/1028/133393/1028_133393_000039_000000.wav|pˈʊɹ lˈɪɾəl ˈɑːɾoʊ hæd nˈɛvɚ dɹˈiːmd ðæt sˈʌtʃ kɹˈuːəlti ænd wˈɪkᵻdnəs kʊd bˈiː.|327
+train-clean-360/8545/287671/8545_287671_000019_000017.wav|aɪ nˈɛvɚ nˈoʊd ˈɛnɪθˌɪŋ ɐbˌaʊt maɪ mˈʌðɚ ɔːɹ fˈɑːðɚ, bˌʌt aɪ hæv ˈɔːlweɪz bᵻlˈiːvd ðæt maɪ mˈʌðɚ wʌzɐ wˈaɪt wˈʊmən, ænd ðæt aɪ wʌz pˌʊt ɐwˈeɪ tə sˈeɪv hɜː kˈæɹɪktɚ; aɪ hæv ˈɔːlweɪz θˈɔːt ðˈɪs.|167
+train-clean-360/1987/144135/1987_144135_000015_000012.wav|bˌʌt tʃˈɪtʃɪkˌɑːv nˈɛvɚɹ ˈiːvən nˈoʊɾɪst hˌɪm; hiː sˈɔː ɪnðə dˈɪstəns ˈoʊnli ðə ɡˈoʊldən hˈɛɹd bjˈuːɾi.|469
+train-clean-360/7188/82904/7188_82904_000068_000002.wav|aɪm sˈɑːɹi aɪ fˈoːɹst maɪ pɹˈɛzəns əpˌɑːn juː, ænd aɪ pɹˈɑːmɪs juː ɪt woʊnt əkˈɜːɹ ɐɡˈɛn." ʃiː hˈɛzᵻtˌeɪɾᵻd, ænd ðˈɛn fˈaɪɚd ɐ pˈɑːɹɾɪŋ ʃˈɑːt wˌɪtʃ sˈɜːʔn̩li wʌz spˈaɪtfəl ɪnðɪ ɛkstɹˈiːm. "ðɛɹz wˈʌn ɡˈʊd θˈɪŋ ɐbˈaʊt ɪt," ʃiː smˈaɪld, tˈɑːɹtli, "aɪʃˌɐl hæv sˈʌmθɪŋ ˈɪntɹɛstɪŋ tə ɹˈaɪt tə dˈɑːktɚ sˈɛsəl."|599
+train-clean-360/2427/154673/2427_154673_000004_000006.wav|aɪ kəmˈɪt hɜː tə ðə pɹətˈɛkʃən ʌv jʊɹ lˈeɪdiʃˌɪp, ænd ˈoʊnli hˈoʊp ʃiː mˈeɪ biː fˈaʊnd wˈɜːði hˈæf ðə ɡˈʊdnəs aɪɐm sˈæɾɪsfˌaɪd ʃiː wɪl mˈiːt wɪð æt jʊɹ hɑːspˈɪɾəbəl mˈænʃən.|424
+train-clean-360/8028/233382/8028_233382_000019_000005.wav|æz sˈʌtʃ, ænd ˈɔːl ðə mˈoːɹ bɪkˈʌz ɪɾ ɪz sˈʌtʃ, ɪt dɪzˈɜːvz təbi mˈoːɹ θˈʌɹoʊli ɪnvˈɛstᵻɡˌeɪɾᵻd ænd mˈoːɹ ɹˈiːzənəbli tɹˈiːɾᵻd.|861
+train-clean-360/2299/6524/2299_6524_000058_000000.wav|mˈɪɹz ænd aɪ wɜːɹ ˈeɪbəl tə klˈæmbɚɹ ˌoʊvɚ ðə snˈoʊ tə sˌʌm ɛkstˈɛnt ænd tʊ ɛɡzˈæmɪn ðə nˈiːt pˈaɪl ʌv kˈeɪsᵻz ɪnðə mˈɪdəl, bˌʌt ðeɪ wɪl tˈeɪk mˈʌtʃ dˈɪɡɪŋ ˈaʊt.|304
+train-clean-360/5007/31603/5007_31603_000008_000005.wav|ðə nˈɜːsᵻz fˈɔːɹtʃənətli ɛskˈeɪpt hˈɑːɹm, bˌʌt sˈɛvɹəl ʌvðə sˈoʊldʒɚz wɜː hˈɜːt, ænd hædtə biː tˈeɪkən wɪððɪ ˈʌðɚ pˈeɪʃənts tə ðɪ ˌaʊɾəv dˈoːɹz pɹɪsˈɪdɪˌoʊ hˈɑːspɪɾəl.|396
+train-clean-360/205/123882/205_123882_000015_000001.wav|ðæt mˈæn wɪððə tˈuː dˈɑːlɚ pˈænəmˌɑː ænd ðə ɡlˈɛɹɪŋ spˈɛktəkəlz ɪz wˈʌn ʌvðə ɡɹˈeɪɾɪst dʒˈʌdʒᵻz ðæt ˈɛvɚɹ ɐdˈɔːɹnd ðə bˈɛntʃ ʌv mˌɪsɪnˈɑːbə kˈaʊnti.|456
+train-clean-360/3180/138043/3180_138043_000009_000000.wav|ænd ɐkˈoːɹdɪŋ tə ðætðə dʒˈɛntəlmən hɐz ɡˈʊd ɹˈiːzən tə sˈeɪ hiː wʊd ɹˈæðɚ biː ɐ lˈeɪbɚɹɪŋ mˈæn ðˌænə kˈɪŋ, ɪf vˈɜːmɪn ɑːɹ tʊ ˈiːt hˌɪm."|26
+train-clean-360/7933/113273/7933_113273_000031_000002.wav|sˈeɪ ðæt juː hæd ɐ bɹˈʌðɚ, lˈɔŋ fɚɡˈɑːʔn̩, hˌuː nˈaʊ æt lˈæst kˈeɪm bˈæk tə juː təbi wʌt juː wɜː ðˈɛn tə hˌɪm.|819
+train-clean-360/8605/291172/8605_291172_000019_000006.wav|ˈɔf ɡoʊz pˈʊs tə ðɪs nˈeɪbɚz hˈaʊs, ænd hˌævɪŋ θɹˈæʃt ðə mˈʌðɚ tə bɪɡˈɪn wɪð, ʃiː kˈɪdnæpt ænd kˈæɹid hˈoʊm wˈʌn ʌv hɜː fˈæmɪli.|772
+train-clean-360/188/135249/188_135249_000024_000005.wav|aɪ ˌʌndɚstˈænd ðæt ðɛɹwˌʌz sˌʌm ɹoʊmˈæntɪk stˈoːɹi kənˈɛktᵻd wɪð ɪts bˈɪldɪŋ, bˌʌt ðə mˈæn aɪ ɹˈɛntᵻd ɪt fɹʌm dˈɪdnt nˈoʊ ɪt."|44
+train-clean-360/2598/4662/2598_4662_000025_000001.wav|"sˈeɪ dˈeɪ ˈæftɚ tə mˈɑːɹoʊ."|294
+train-clean-360/3368/170951/3368_170951_000121_000001.wav|kæn wiː səpˈoʊz ðæt hiː ɪz ˈɪɡnɚɹənt ʌv æntˈɪkwᵻɾi, ænd ðˈɛɹfoːɹ hɐz ɹᵻkˈoːɹs tʊ ɪnvˈɛnʃən?|1106
+train-clean-360/1638/84447/1638_84447_000057_000002.wav|ɐ sˈiːl ɔːɹ tˈuː, ɐ pˈɛnsəl kˈeɪs, ɐ pˈɛɹ ʌv slˈiːv bˈʌʔn̩z, ænd ɐ bɹˈoʊtʃ ʌv nˈoʊ ɡɹˈeɪt vˈæljuː, wɜːɹ ˈɔːl.|696
+train-clean-360/7777/106366/7777_106366_000022_000005.wav|lˈɔŋ ɪn tɹˈuːθ wiː ɛndˈʊɹd ɪt, ɪf hˈæpli ɐɡˈɛn, ðˌoʊ lˈeɪt, ðeɪ mˌaɪt tʃˈeɪndʒ ðɛɹ pˈɜːpəs, bˌʌt ˈɛvɚ ðə bˈɪɾɚ wˈoʊ ɡɹˈuː, tˈuːfoʊld.|1029
+train-clean-360/3157/68361/3157_68361_000021_000002.wav|ɪt wʌz fɹʌm ðɪs ˈɪnlənd lˈeɪk ʌv ˈæsfɔlt ðætðə mətˈɪɹiəl wʌz pɹəkjˈʊɹd tə pɹətˈɛkt ðə nˈuː jˈɔːɹk sˈʌbweɪ tˈʌnəlz fɹʌm mˈɔɪstʃɚ, sˌoʊ ɪɾ ɪz sˈɛd.|862
+train-clean-360/1382/130492/1382_130492_000069_000000.wav|ʃiː wˈoːɹ ɐn ˈɛɹ ʌv wˈɪstfəl kwˈɛstʃənɪŋ |832
+train-clean-360/4837/285896/4837_285896_000015_000002.wav|nˌɑːɾə sˈɪŋɡəl mˈæn ˈɔːl ðɪ ˌæftɚnˈuːn.|967
+train-clean-360/3482/170452/3482_170452_000021_000000.wav|mˌeɪkɪŋ ɪnðə hˈoʊl twˈɛnti tˈuː vˈɑːljuːmz.|218
+train-clean-360/2688/144986/2688_144986_000082_000000.wav|ðə kˈɪlɪŋ ʌv ˈɔːl tɹˈiː skwˈɜːlz ænd tʃˈɪpmʌŋks ʃˌʊd sˈiːs.|354
+train-clean-360/5935/55927/5935_55927_000006_000001.wav|ðə lˈæɾɚ mˈiːnz ʌv pɹəpˈʌlʃən kˈɔːzd ʃˈɑːk ænd vˌaɪbɹˈeɪʃən nˌɑːt ˈoʊnli ˈoʊɪŋ tə ðə θɹˈʌsts ʌvðə pˈɪstən ɹˈɑːd fɹʌmðə stˈiːm ˈɛndʒɪn ɪtsˈɛlf, bˌʌt ˈɔːlsoʊ fɹʌmðɪ ˈɪmpækt ʌvðə pˈædəlz əpˌɑːn ðə wˈɔːɾɚ wˈʌn ˈæftɚ ðɪ ˈʌðɚ.|34
+train-clean-360/1323/138617/1323_138617_000009_000000.wav|ɪn sˈʌtʃ ɐ tʃˈeɪn, tˈuː, ɔːɹ səksˈɛʃən ʌv ˈɑːbdʒɛkts, ˈiːtʃ pˈɑːɹt ɪz kˈɔːzd baɪ ðæt wˌɪtʃ pɹɪsˈiːdᵻd ɪt, ænd kˈɔːzᵻz ðæt wˌɪtʃ səksˈiːdz ɪt.|875
+train-clean-360/4592/22179/4592_22179_000036_000001.wav|ðˌoʊ pɹˈɪnsɛs mˈɛɹi ænd nɐtˈæʃə wɜːɹ ˈɛvɪdəntli ɡlˈæd tə sˈiː ðɛɹ vˈɪzɪɾɚ ænd ðˌoʊ ˈɔːl pɪˈɛɹz ˈɪntɹɛst wʌz nˈaʊ sˈɛntɚd ɪn ðæt hˈaʊs, baɪ ðɪ ˈiːvnɪŋ ðeɪ hæd tˈɔːkt ˌoʊvɚɹ ˈɛvɹɪθˌɪŋ ænd ðə kɑːnvɚsˈeɪʃən pˈæst fɹʌm wˈʌn tɹˈɪvɪəl tˈɑːpɪk tʊ ɐnˈʌðɚ ænd ɹᵻpˈiːɾᵻdli bɹˈoʊk ˈɔf.|41
+train-clean-360/1054/143005/1054_143005_000022_000002.wav|ˈeɪdɹiən wʌz sˈɪɾɪŋ ɹˈiːdɪŋ ɪn bˈɛd, ðə fˈɔːɹfɪŋɡɚɹ ʌv hɪz lˈɛft hˈænd tɹˈeɪsɪŋ ðə bɹˈeɪl kˈæɹɪktɚz, wˌɛn hɪz nˈɛfjuː nˈoʊɾɪst ðˌæɾə pˈɛnsəl ðɪ ˈoʊld mˈæn hˈɛld ɪn hɪz ɹˈaɪt hˈænd wʌz mˈuːvɪŋ slˈoʊli ɐlˈɔŋ ðɪ ˈɑːpəzˌɪt pˈeɪdʒ.|1143
+train-clean-360/8699/291107/8699_291107_000199_000000.wav|ðˈɛn hiː hɐz pˌʊt hɜːɹ ˌɔn ɐ lˈoʊɚɹ ˌɪntəlˈɛktʃuːəl plˈeɪn; hiː hɐz wɪðhˈɛld fɹʌm hɜː, æz hiː mˌaɪt fɹʌm ɐ tʃˈaɪld.|430
+train-clean-360/4945/29091/4945_29091_000003_000000.wav|ðə ɡˈɑːsɪps wɜː sˈuːn æt wˈɜːk.|159
+train-clean-360/3549/9203/3549_9203_000005_000001.wav|ɪf ɪnðə pɹˈɛzəns ʌv sˈʌtʃ ˈɑːbstɪnəsi aɪ wʌz fˈoːɹst tə pɚmˈɪt, wɪð dˈiːp ɹᵻɡɹˈɛt, ðə jˈuːs ʌv ɡɹˈeɪt səvˈɛɹᵻɾi, maɪ tˈæsk ʌv fɹɐtˈɜːnəl kɚɹˈɛkʃən hɐz ɪts lˈɪmɪts.|486
+train-clean-360/7789/103120/7789_103120_000014_000001.wav|ɹˈuːbən hˈɪd hɪz fˈɪɹz bˈɛɾɚ, ænd ɹᵻzˈɑːlvd tə wˈɑːtʃ wˌaɪl ˈʌðɚz slˈɛpt; bˌʌt wʌz ˈɔf æz sˈuːn æz hɪz kˈɜːli hˈɛd tˈʌtʃt ðə pˈɪloʊ, ænd dɹˈiːmd ʌv tˈɑːmɐhˌɔːks ænd wˈɔːɹ wˈuːps tˈɪl mˈɔːɹnɪŋ.|833
+train-clean-360/2688/144987/2688_144987_000099_000000.wav|nˈuː dʒˈɜːsi ɛndʒˈɔɪz ðə dɪstˈɪŋkʃən ʌv bˌiːɪŋ ðə sˈɛkənd stˈeɪt tə bɹˈeɪk ðə stɹˈæŋɡəl hˈoʊld ʌvðə ɡˈʌn mˈeɪkɚz ʌv hˈɑːɹtfɚd ænd ˈɪliən, ænd kˈæst ˈaʊt ðɪ ˈoʊdiəs ˌɔːɾəmˈæɾɪk ænd pˈʌmp ɡˈʌnz.|354
+train-clean-360/3914/10089/3914_10089_000026_000002.wav|"aɪ hˈævənt fɔːɹsˈeɪkən juː."|343
+train-clean-360/3483/119637/3483_119637_000024_000001.wav|dɪdnˌɑːt ðə hɪstˈoːɹiənz, ðə fɪlˈɑːsəfɚz ʌv ˈeɪntʃənt ɡɹˈiːs ænd ɹˈoʊm ʃˈoʊ ðɛmsˈɛlvz təbi ðə sˈeɪm ʃɹˈuːd əbzˈɜːvɚz æz ðoʊz ʌv səksˈiːdɪŋ sˈɛntʃɚɹiz, ðə sˈeɪm mˈæstɚz ʌvðə lˈɑːdʒɪkəl ænd slˈeɪvz ʌvðɪ ɪlˈɑːdʒɪkəl?|576
+train-clean-360/8176/115047/8176_115047_000071_000000.wav|"tˈɛl ðˌɛm tə hˈɜːɹi," bˈɛɡd ðə ɹˈɪtʃ jˈɑːt ˈoʊnɚ.|492
+train-clean-360/3118/5912/3118_5912_000011_000005.wav|tə ɡˈɪv ɐ tʃˈaɪld ɐn aɪdˈiə ʌv skˈɑːɹlɪt ɔːɹ ˈɔɹɪndʒ, ʌv swˈiːt ɔːɹ bˈɪɾɚ, aɪ pɹɪzˈɛnt ðɪ ˈɑːbdʒɛkts, ɔːɹ ɪn ˈʌðɚ wˈɜːdz, kənvˈeɪ tə hˌɪm ðiːz ɪmpɹˈɛʃənz; bˌʌt pɹəsˈiːd nˌɑːt sˌoʊ ɐbsˈɜːdli, æz tʊ ɛndˈɛvɚ tə pɹədˈuːs ðɪ ɪmpɹˈɛʃənz baɪ ɛksˈaɪɾɪŋ ðɪ aɪdˈiəz.|843
+train-clean-360/731/366/731_366_000003_000000.wav|aɪ sˈæt wˈʌn ˈiːvnɪŋ ɪn maɪ lˈæbɹətˌɔːɹi; ðə sˈʌn hæd sˈɛt, ænd ðə mˈuːn wʌz dʒˈʌst ɹˈaɪzɪŋ fɹʌmðə sˈiː; aɪ hæd nˌɑːt səfˈɪʃənt lˈaɪt fɔːɹ maɪ ɛmplˈɔɪmənt, ænd aɪ ɹᵻmˈeɪnd ˈaɪdəl, ɪn ɐ pˈɔːz ʌv kənsˌɪdɚɹˈeɪʃən ʌv wˈɛðɚɹ aɪ ʃˌʊd lˈiːv maɪ lˈeɪbɚ fɚðə nˈaɪt ɔːɹ hˈeɪsən ɪts kəŋklˈuːʒən baɪ ɐn ˌʌnɹiːmˈɪɾɪŋ ɐtˈɛnʃən tʊ ɪt.|141
+train-clean-360/8699/291107/8699_291107_000265_000005.wav|ˈoʊ, bˈɛki, ðɪ ɛksplˈoʊʒən lˈæst nˈaɪt tˈʊk ɐwˈeɪ maɪ sˈaɪt, mˌeɪd mˌiː ɐ jˈuːsləs blˈaɪnd mˈæn, bˌʌt ɪɾ ˈoʊpənd maɪ ˈaɪz tˈuː!|430
+train-clean-360/7240/92200/7240_92200_000003_000005.wav|ðˈɛn ɪt wʌz nˌɑːt sˌoʊ nˈaɪs!|1038
+train-clean-360/4434/73957/4434_73957_000002_000001.wav|ˌɛni ʌv ðˌɛm mˈeɪ biː plˈæntᵻd ɪn kˈʌmpəni, fɔːɹ ˈɔːl ðɛɹ kˈʌlɚz hˈɑːɹmənˌaɪz.|3
+train-clean-360/6927/86043/6927_86043_000010_000002.wav|wɪð ðiːz hiː sˈɛt ˈaʊt ˌɔn hɪz dʒˈɜːni.|585
+train-clean-360/1607/149245/1607_149245_000004_000006.wav|wˈaɪt vˈɪləz pˈiːp fɹʌmðə bˈɜːtʃ fˈɔːɹɪst; ænd, ˌɔn ɐ fˈaɪn sˈʌmɚ dˈeɪ, ðɛɹ ɪz skˈɛɹsli ɐ tˈɜːn ʌvðə pˈæs æt wˌɪtʃ mˈeɪ nˌɑːt biː sˈiːn sˌʌm ˈæŋɡlɚ kˈæstɪŋ hɪz flˈaɪ ɔnðə fˈoʊm ʌvðə ɹˈɪvɚ, sˌʌm ˈɑːɹɾɪst skˈɛtʃɪŋ ɐ pˈɪnəkəl ʌv ɹˈɑːk, ɔːɹ sˌʌm pˈɑːɹɾi ʌv plˈɛʒɚ bˈæŋkwɪɾɪŋ ɔnðə tˈɜːf ɪnðə fɹˈɛtwɜːk ʌv ʃˈeɪd ænd sˈʌnʃaɪn.|799
+train-clean-360/8118/114469/8118_114469_000023_000007.wav|ðə jˈuːniən ænd ɪts fˈeɪt, dʒaɪɡˈæntɪk æz ðeɪ wɜː, slˈɪpt ɐwˈeɪ fɹʌm hɪz mˈaɪnd, ænd ɪt tˈʊk ɐn ˈɛfɚt ʌvðə wˈɪltə bɹˈɪŋ ðˌɛm bˈæk.|566
+train-clean-360/4848/101836/4848_101836_000016_000001.wav|hiː stˈɑːɹɾᵻd tə ðə vˈɪlɪdʒ tə ɡˈɪv ðɪ ɐlˈɑːɹm, bˌʌt ðə snˈeɪk ʃˈaʊɾᵻd: "kˈʌm bˈæk, sˈʌn ʌv ˈædəm; dˈoʊnt kˈɔːl ðə pˈiːpəl fɹʌmðə vˈɪlɪdʒ tə kˈʌm ænd kˈɪl mˌiː.|157
+train-clean-360/4358/20034/4358_20034_000007_000009.wav|hˌaʊ wʊd ɪt sˈiːm?|382
+train-clean-360/8097/282406/8097_282406_000007_000002.wav|sˌoʊ hiː lˈoʊdᵻd hɪz slˈɪŋ wɪð stˈoʊnz ænd kˈɪld sˈɛvɹəl ʌvðə kɹˈeɪnz.|706
+train-clean-360/7949/39970/7949_39970_000030_000017.wav|ðə vˈɛɹi wˈɜːd ˈɑːɹt mˈeɪ bɪkˌʌm ɐsˈoʊsɪˌeɪɾᵻd nˌɑːt wɪð spəsˈɪfɪk tɹænsfoːɹmˈeɪʃən ʌv θˈɪŋz, mˌeɪkɪŋ ðˌɛm mˈoːɹ sɪɡnˈɪfɪkənt fɔːɹ mˈaɪnd, bˌʌt wɪð stˌɪmjʊlˈeɪʃənz ʌv ɛksˈɛntɹɪk fˈænsi ænd wɪð ɪmˈoʊʃənəl ɪndˈʌldʒənsᵻz.|629
+train-clean-360/2790/142824/2790_142824_000058_000002.wav|ðɪ ˈæpəl, ʌŋkˈʊkt, ɪz lˈɛs daɪdʒˈɛstᵻbəl ðɐn ðə pˈɛɹ; ðə dᵻɡɹˈiː ʌv daɪdʒˌɛstəbˈɪlᵻɾi vˈɛɹiɪŋ ɐkˈoːɹdɪŋ tə ðə fˈɜːmnəs ʌv ɪts tˈɛkstʃɚ ænd flˈeɪvɚ.|961
+train-clean-360/3171/68344/3171_68344_000011_000001.wav|ðə sˈɪɾi kəntˈeɪnz ɐn ˈɛɹiə ʌv mˈoːɹ ðɐn fˈɪftiːn skwˈɛɹ mˈaɪlz ænd ɪz mˈoːɹ dˈɛnsli pˈɑːpjʊlˌeɪɾᵻd pɜː mˈaɪl ʌv stɹˈiːt ðɐn nˈuː jˈɔːɹk.|713
+train-clean-360/2971/4275/2971_4275_000021_000000.wav|pɹəfˈɛsɚ lˈuːsɪfɚ slˈæpt hɪz hˈænd twˈaɪs əpˌɑːn ðə sˈɜːfɪs ʌvðə ɡɹˈeɪt ˈɔːɹb æz ɪf hiː wɜː kɚɹˈɛsɪŋ sˌʌm ɪnˈoːɹməs ˈænɪməl.|1073
+train-clean-360/5133/30591/5133_30591_000011_000002.wav|ʃiː stˈʌdid ðə mˈænz pɹˈoʊfaɪl fˈɜːɾɪvli.|1031
+train-clean-360/380/129064/380_129064_000008_000001.wav|bˌʌt pɹˈɑːpɚ pɹˈaɪd ænd ðɪs pˈʊɹ lˈeɪdi hæd nˈɛvɚ hæd mˈʌtʃ ɐkwˈeɪntəns təɡˈɛðɚ.|575
+train-clean-360/816/2301/816_2301_000017_000004.wav|aɪaɪjuː hævhæv mˌeɪd mˌiː vˈɛɹi hˈæpi."|428
+train-clean-360/1093/132891/1093_132891_000072_000002.wav|bˈɔɪ, ɡˌoʊ dˌaʊn tə ðə bˈeɪkɚɹi ænd tˈɛl ðˌɛm juː ɑːɹ jˈʌŋ ɡˈɜːt ʃwˈæŋkfɛldɚ ðɐt wˈʌz.|88
+train-clean-360/5337/37090/5337_37090_000018_000002.wav|ðɛɹˌɑːɹ mˈɛni mˈoʊɾɪvz, bˌʌt ðeɪ ɑːɹ ˈɔːl vˈeɪɡ.|1050
+train-clean-360/3483/115968/3483_115968_000019_000001.wav|ɐ dˈʌzən sˌækɹəmˈɛntoʊz hæd kˈɔːt ðə hˈeɪzi ˈaʊtlaɪnz ʌv ɪts ɹˈɛp ɹˈeɪz ɐpɹˈoʊtʃɪŋ ðˌɛm, hˈɛd ˈɔn, ɪnðə twˈaɪlaɪt, lˈaɪk ɡˈoʊstli pˈɪlɚz ɹˈiːtʃɪŋ ˌɪntʊ ðə skˈaɪ.|576
+train-clean-360/1271/133279/1271_133279_000000_000006.wav|ɪf juː ɪstˈæblɪʃ ɐ sˈɛnsɚʃˌɪp ʌvðə pɹˈɛs, ðə tˈʌŋ ʌvðə pˈʌblɪk spˈiːkɚ wɪl stˈɪl mˌeɪk ɪtsˈɛlf hˈɜːd, ænd juː hæv ˈoʊnli ɪŋkɹˈiːst ðə mˈɪstʃɪf.|1028
+train-clean-360/7909/106370/7909_106370_000013_000003.wav|ðə tˈeɪl ɡoʊz ðæt tˈɪfiz sˈʌn ʌv hˈæɡniəz dˈaɪd; nˈɔːɹ wʌz ɪt hɪz dˈɛstɪni ðɛɹˈæftɚ tə sˈeɪl ˌɛni fˈɜːðɚ.|325
+train-clean-360/6104/58845/6104_58845_000013_000001.wav|"juː wˈɪn, nˈuːmən, ðə wˈeɪ ðə kˈɑːɹdz lˈeɪ.|30
+train-clean-360/8396/120282/8396_120282_000012_000000.wav|"hˈuː ɑːɹ juː, ɪf juː plˈiːz?" ˈæskt ðə ɹˈæbɪt dʒˈɛntəlmən.|458
+train-clean-360/7316/10642/7316_10642_000023_000005.wav|ðɪs bˈæleɪd ɪz ðə kəmpˈæniən ʌvðə fˈænteɪsi pˌɑːlənˈeɪz, bˌʌt æz ɐ bˈæleɪd "fˈʊli wˈɜːði ʌv ɪts sˈɪstɚz," tə kwˈoʊt nˈaɪks.|909
+train-clean-360/1165/135216/1165_135216_000043_000003.wav|aɪ nˈɛvɚ sˈɔː ˈɛnɪθˌɪŋ lˈaɪk ɪt bᵻfˈoːɹ.|650
+train-clean-360/954/130627/954_130627_000031_000007.wav|θˈɔːtləs fɹˈɛndz dʒˈɪɹ ˈæɾɪt, ænd ˈiːvən maɪ lˈændleɪdi hɜːsˈɛlf hɐz nˈoʊ ˌædmɚɹˈeɪʃən fɔːɹ ɪt, ænd ɛkskjˈuːsᵻz ɪts pɹˈɛzəns baɪ ðə sˈɜːkəmstˌæns ðæt hɜːɹ ˈænt ɡˈeɪv ɪt tə hɜː.|476
+train-clean-360/581/126955/581_126955_000003_000001.wav|ðə wˈɪntɚ fˈɑːloʊɪŋ, ðə plˈeɪɡ ɐ sˈɛkənd tˈaɪm ɐtˈækt ðɪ æθˈiːniənz; fɔːɹ ɔːlðˈoʊ ɪt hæd nˈɛvɚɹ ɛntˈaɪɚli lˈɛft ðˌɛm, stˈɪl ðɛɹ hɐdbɪn ɐ nˈoʊɾəbəl ɐbˈeɪtmənt ɪn ɪts ɹˈævɪdʒᵻz.|806
+train-clean-360/7314/93276/7314_93276_000052_000001.wav|"ðɛɹz bˌɪn ɐn ɛksplˈoʊʒən.|215
+train-clean-360/7120/76055/7120_76055_000014_000001.wav|ˌaʊɚ jˌuːnɪvˈɜːsəl kɹˈɛdɪɾɚ ɡˈeɪv ðɪs pɚtˈɪkjʊlɚ dˈɛɾɚ ɡɹˈeɪs tə ðə vˈɛɹi lˈæst mˈiːɾɪŋ.|930
+train-clean-360/8138/287657/8138_287657_000008_000001.wav|hiː sˈɛd ðæt hiː kˈeɪm fɹʌm ɹˈɪtʃmənd, ænd lˈɛft bɪkˈʌz hiː wʌz ɔnðə pˈɔɪnt ʌv bˌiːɪŋ sˈoʊld baɪ dʒˈɑːn ɐ smˈɪθ, hˌuː ˈoʊnd hˌɪm.|986
+train-clean-360/3003/14274/3003_14274_000052_000002.wav|bˌʌt hiː wʊd nˌɑːt ɡˌoʊ bˈæk wˈʌn stˈɛp, əʃˈʊɹɹɪŋ mˌiː ðæt maɪ hˈɔːɹs wʌzɐ tɹˈeɪnd hˈʌntɚ ænd ɐkˈʌstəmd tə sˈʌtʃ sˈaɪts.|482
+train-clean-360/4145/104606/4145_104606_000042_000007.wav|ænd wˈɛɹɐbˌaʊts mˈeɪ klˈoʊvɚ kˈɑːɾɪdʒ bˈiː?ˌɔn wˈɔndswɜːθ kˈɑːmən.wˌɛn hiː sˈɛd ðˈæt, æz kˈɑːmli æz ɪf hiː wɜːɹ ˈæskɪŋ mˌiː tə pˈæs ðə sˈɔlt, aɪ kəlˈæpst.|322
+train-clean-360/1046/133225/1046_133225_000033_000001.wav|ðæt ɪz wʌt ðeɪ ɛɡzˈɪst fɔːɹ.|416
+train-clean-360/6643/67857/6643_67857_000043_000000.wav|sˈɪlviə wɛnt ˌʌp ðə flˈaɪt ʌv stˈoʊn stˈɛps wˌɪtʃ lˈɛd tə mˈɪstɚ wˈeɪts dˈoːɹ ɐ lˈɪɾəl fˈɪɹfəli.|289
+train-clean-360/3922/715/3922_715_000111_000001.wav|"ɪt mˈʌst biː ˈɑːnɚɹəbəl ... ɪt ʃˌæl biː ˈɑːnɚɹəbəl fɚðə fjˈuːtʃɚ ... ænd lˈɛt ˌʌs biː ˈɑːnɪst, lˈɛt ˌʌs biː ɡˈʊd, nˌɑːt bɹˈuːts, bˌʌt ɡˈʊd ... tˈeɪk mˌiː ɐwˈeɪ, tˈeɪk mˌiː fˈɑːɹ ɐwˈeɪ, dˈuː juː hˈɪɹ?|144
+train-clean-360/5588/68188/5588_68188_000105_000000.wav|ɹˈoʊsə fˈɛlt hɜː hˈɑːɹt sˈɪŋk wɪðˈɪn hɜː, ænd hɜːɹ ˈaɪz wɜː fˈɪlɪŋ wɪð tˈɪɹz.|283
+train-clean-360/369/125882/369_125882_000020_000001.wav|ðə sˈeɪlɚz wɜːɹ ˈɔːl sˈeɪvd, bˌʌt ðə ʃˈɪp wɛnt ɹˈaɪt tə ðə bˈɑːɾəm ʌvðə sˈiː, ænd ðə sˈeɪm tˈɛɹᵻbəl ʃˈɑːɹk ðæt swˈɔloʊd mˌiː, swˈɔloʊd mˈoʊst əv ɪt."|858
+train-clean-360/8824/279153/8824_279153_000011_000000.wav|ðɪs ɪz ðə vjˈuː ʌv wˈɪljəm dʒˈeɪmz, pɹəfˈɛsɚ dˈuːi, ænd ðɪ ɐmˈɛɹɪkən ɹˈiːəlɪsts.|388
+train-clean-360/7832/258250/7832_258250_000015_000012.wav|ænd ɪt wʌz ðˈʌs.|265
+train-clean-360/8855/283228/8855_283228_000005_000001.wav|"aɪ hˈævənt hæd ɐ tʃˈæns ʌv kˈʌmɪŋ tə sˈiː juː bᵻfˈoːɹ; ðˌoʊ wiːv ˈɔːlweɪz mˈænɪdʒdaɪ mˈiːn ˈænti ænd aɪɾə hˈɪɹ ɐbˈaʊt juː.|978
+train-clean-360/2785/163322/2785_163322_000024_000000.wav|ɪts ɐ pˈʊɹ sˈɔːɹt ʌv mˈɛmɚɹi ðæt ˈoʊnli wˈɜːks bˈækwɚdz,ðə kwˈiːn ɹᵻmˈɑːɹkt.|356
+train-clean-360/8605/276939/8605_276939_000016_000000.wav|ɪɾ ɪz pˈɑːsᵻbəl sˌʌm ɹˈiːdɚz mˈeɪ biː nˈoʊ lˈɛs sɚpɹˈaɪzd æt ðə bᵻhˈeɪvjɚɹ ʌv mˈɪsɪz dʒˈeɪmz ðɐn wʌz ɐmˈiːliə hɜːsˈɛlf, sˈɪns ðeɪ mˌeɪhɐv pɚhˈæps ɹᵻsˈiːvd sˌoʊ fˈeɪvɚɹəbəl ɐn ɪmpɹˈɛʃən ʌv ðæt lˈeɪdi fɹʌmðɪ ɐkˈaʊnt ɡˈɪvən ʌv hɜː baɪ mˈɪstɚ bˈuːθ, ðæt hɜː pɹˈɛzənt dᵻmˈiːnɚ mˈeɪ sˈiːm ʌnnˈætʃɚɹəl ænd ɪŋkənsˈɪstənt wɪð hɜː fˈɔːɹmɚ kˈæɹɪktɚ.|772
+train-clean-360/1448/135894/1448_135894_000018_000002.wav|ɪnðə mˈiːntaɪm aɪ ɡɑːt ˌɔn bˈoːɹd, ænd lˈeɪɪŋ hˈoʊld əvɚ ɹˈoʊp, dʒˈʌmpt əpˌɑːn ðə dˈɛk, bˌʌt hˌævɪŋ lˈɔst maɪ spˈiːtʃ aɪ fˈaʊnd maɪsˈɛlf ɪn ɡɹˈeɪt pɚplˈɛksᵻɾi: ænd ˌɪndˈiːd ðə ɹˈɪsk aɪ ɹˈæn wʌz nˌɑːt lˈɛs ðɐn wɛn aɪ wʌz æt ðə mˈɜːsi ʌvðə dʒˈiːni.|1007
+train-clean-360/4039/184264/4039_184264_000050_000000.wav|bˌʌt ðə pɹˈɪnsɪpəl fˈeɪlɪŋ əkˈɜːd ɪnðə sˈeɪlɪŋ, ænd ðə bˈɛlmən, pɚplˈɛkst ænd dɪstɹˈɛst, sˈɛd hiː hæd hˈoʊpt, æt lˈiːst, wˌɛn ðə wˈɪnd blˈuː dˈuː ˈiːst, ðætðə ʃˈɪp wʊd nˌɑːt tɹˈævəl dˈuː wˈɛst!|899
+train-clean-360/7229/80656/7229_80656_000026_000002.wav|bᵻhˌaɪnd ðɪs ðə lˈɔɡz wɜː ɡˈæðɚd ɪn ɐn ˈɔːɹdɚli, kəmpˈækt mˈæs ænd ðə mˈɛn kʊd dʒˈɛnɚɹəli ɡɛt ðɛɹ slˈiːp, sˈeɪv fɚðə wˈɑːtʃmən; ʌnlˈɛs ðɛɹ kˈeɪm ɐ sˈʌdən ɹˈaɪz ʌv wˈɔːɾɚɹ ɪnðə nˈaɪt.|952
+train-clean-360/339/132718/339_132718_000001_000001.wav|ɹˈæʃ ɐdvˈænsᵻz |175
+train-clean-360/6458/232057/6458_232057_000110_000006.wav|sˌoʊ ɹˈɛst əʃˈʊɹd."|1019
+train-clean-360/4116/13256/4116_13256_000025_000002.wav|lˈɛt mˌiː ɡˌoʊ tə hˈɛl!|729
+train-clean-360/345/1119/345_1119_000052_000003.wav|ᵻlˈɪzəbəθ dɪdnˌɑːt kwˈɪt hɜː ɹˈuːm fɚɹə mˈoʊmənt; nˈɔːɹ wɜː ðɪ ˈʌðɚ lˈeɪdiz ˈɔfən ˈæbsənt; ðə dʒˈɛntəlmən bˌiːɪŋ ˈaʊt, ðeɪ hˌæd, ɪn fˈækt, nˈʌθɪŋ tə dˈuː ˈɛlswɛɹ.|702
+train-clean-360/7126/59167/7126_59167_000017_000000.wav|ðɪs ɪz bˈaʊnd təbi ðə fˈeɪt ʌv ˈɛvɹi ˈɑːɹɾɪst hˌuː tˈeɪks hɪz pəlˈɪɾɪkəl pˈɑːɹɾi ɔːɹ hɪz tʃˈɜːtʃ, ɔːɹ ˌɛni ˈʌðɚ pɹˌɑːpɐɡˈændɪst ɡɹˈuːp tʊ wˌɪtʃ hiː bᵻlˈɔŋz, æz hɪz sˈʌbdʒɛkt.|293
+train-clean-360/1348/135832/1348_135832_000009_000001.wav|stɹˈaɪpt tʃˈɪpmʌŋk ɪz ˈɔːl ɹˈɔŋ, ɛksˈɛptɪŋ ɐbˌaʊt ðɪ ˈɛnd ʌv hɪz tˈeɪl," ˌɪntɚɹˈʌptᵻd dʒˈʌmpɚ ðə hˈɛɹ.|457
+train-clean-360/5139/61422/5139_61422_000019_000000.wav|wɪð ɐ ɡˈʊd stˈaʊt wˈʊmən tə kˈʌm ɪn twˈaɪs ɐ wˈiːk fɚðə hˈɛviɚ wˈɜːk, ʃiː bᵻlˈiːvd ʃiː kʊd mˈænɪdʒ baɪ hɜːsˈɛlf vˈɛɹi wˈɛl ʌntˈɪl ɪlˈaɪzə kʊd kˈʌm bˈæk.|1027
+train-clean-360/5570/73846/5570_73846_000036_000001.wav|ɪɾ ɪz jˈuːsləs tʊ ˈɑːɹɡjuː.|699
+train-clean-360/4010/10801/4010_10801_000009_000009.wav|aɪ duːnˌɑːt nˈoʊ wʌt ðə stɹˈʌɡəl mˈiːnz; fɔːɹ, ʌvðə θˈaʊzəndz hˌuː pˈæs θɹuː ɪɾ ˈɛvɹi dˈeɪ, nˌɑːt wˈʌn ɛnlˈaɪʔn̩z hɪz nˈeɪbɚ lˈɛft bᵻhˈaɪnd; bˌʌt ʃˌæl aɪ nˌɑːt lˈɔŋ wɪð ˈæɡəni fɔːɹ wˈʌn bɹˈɛθ ʌv ðˌaɪ ˈɛɹ, ænd nˌɑːt ɹᵻsˈiːv ɪt?|208
+train-clean-360/2012/139355/2012_139355_000036_000000.wav|əʃˈʊɹɹᵻdli ɪf ðɪ ɐdvˈɛntʃɚɹɚ wʌz tˈæsɪtˌɜːn hiː wʌz nˌɑːt ɪŋkwˈɪzᵻtˌɪv.|683
+train-clean-360/2229/152864/2229_152864_000047_000000.wav|hiː spɹˈɛd hɪz wˈɪŋz ænd flˈuː.|759
+train-clean-360/2517/135227/2517_135227_000014_000001.wav|wiː ɑːɹ lˈɔst ɪf juː mˈuːv.|724
+train-clean-360/4039/184265/4039_184265_000013_000000.wav|"bˌʌt ˈoʊ, bˈiːmɪʃ nˈɛfjuː, bᵻwˈɛɹ ʌvðə dˈeɪ, ɪf jʊɹ snˈɑːɹk biː ɐ bˈuːdʒəm!|899
+train-clean-360/4860/13185/4860_13185_000002_000001.wav|ðə ʃˈiːp bɪɡˈæn tə dˈaɪ, sˌoʊ ðeɪ sˈoʊld ðˌɛm tə kˈæptɪn kˈoʊl æt tˈɛn ʃˈɪlɪŋz ɐ hˈɛd, ɡˈɪvɪŋ ɪnðɪ ˈʌðɚ stˈɑːk.|529
+train-clean-360/1100/124547/1100_124547_000003_000000.wav|ðeɪ dʒˈɜːnid fɔːɹ θɹˈiː ænd ɐ hˈæf mˈʌnθs.|210
+train-clean-360/6446/57416/6446_57416_000005_000001.wav|ɪt wʌz hiː hˌuː tˈɔːt ðə pˈiːpəl hˌaʊ tə bˈɪld bˈɛɾɚ hˈaʊzᵻz ænd hˌaʊ tə hˈæŋ ðɛɹ dˈoːɹz ˌɔn hˈɪndʒᵻz ænd hˌaʊ tə səpˈoːɹt ðə ɹˈuːfs wɪð pˈɪlɚz ænd pˈoʊsts.|1097
+train-clean-360/249/121331/249_121331_000125_000000.wav|"wˌʌts hiː tɹˈaɪɪŋ tə dˈuːbiː ɛksˈɛsɪvli hˈoʊli?"|184
+train-clean-360/64/76973/64_76973_000035_000000.wav|tˈæd ɡˈeɪv nˈoʊ hˈiːd tə ðə pˈoʊni.|907
+train-clean-360/8464/282934/8464_282934_000027_000001.wav|wˈʌn ʌv maɪ nˈɛfjuːz, ˈɛlkænə pɹˈaɪs, hiːz ɐ kəndˈʌktɚɹ ˌɔn wˈʌn ʌv ðˌɛm ɹˈeɪlɹoʊdz ænd hiː ɡɑːt mˌiː ɐ pˈæs tə kˈʌm ˈaʊt hˈɪɹ.|63
+train-clean-360/6120/56179/6120_56179_000039_000002.wav|hɜː səksˈɛs hɐdbɪn ˌɔːltəɡˈɛðɚ ɹᵻmˈɑːɹkəbəl, ænd ɪn ɐdˈɪʃən tə ðə kˈʌt flˈaʊɚz ðæt wɜː tʊ ɚɹˈaɪv ˌɔn wˈɛnzdeɪ, ɐ ɡɹˈeɪt mˈɛni bjˈuːɾifəl pˈɑːɾᵻd plˈænts ænd vˈaɪnz hɐdbɪn sˈɛnt ɪn fɹʌm vˈɛɹiəs kənsˈɜːvətˌoːɹiz fɔːɹ dʒˈɛnɚɹəl dˌɛkɚɹˈeɪʃənz.|989
+train-clean-360/688/1070/688_1070_000023_000002.wav|ɔnðə nˈaɪt bᵻfˌoːɹ ˈɑːɹnəld ˈɑːɹmstɹɔŋ wʌz mˈɜːdɚd, dʒˈæk bˈeɪli hæd mˌeɪd hɪz fˈɜːst ɐtˈɛmpt tə sˈɜːtʃ fɚðə sˈiːkɹᵻt ɹˈuːm.|827
+train-clean-360/7525/101265/7525_101265_000023_000000.wav|ˈæftɚ ðə fˈiːst wʌz ˌoʊvɚ ænd ðə ɡˈɛsts wɜː ɡˌoʊɪŋ ɐwˈeɪ, ðə ɡˈɑːdmʌðɚ lˈeɪd ðə bˈeɪbi ɪnðə kɹˈeɪdəl, ænd sˈɛd tə ðə kwˈiːn, wɛnˌɛvɚ ðə bˈeɪbi ɡoʊz tə slˈiːp, biː ʃˈʊɹ juː lˈeɪ ðə bˈæskɪt bᵻsˈaɪd hɜː, ænd lˈiːv ðɪ ˈɛɡʃɛlz ɪn ɪt.|1140
+train-clean-360/7555/105394/7555_105394_000017_000000.wav|"lˈɔːɹd fˈæŋkoːɹt, dˈɪd juː pɚsˈiːv hˌuː wʌz ɪnðə dˈaɪnɪŋ ɹˈuːm dʒˈʌst nˈaʊ bᵻsˌaɪdz sˌɜː pˈɜːsi blˈeɪkni?"|886
+train-clean-360/1053/289242/1053_289242_000034_000000.wav|"mˈɪɹli ðə fˈaɪv mˈɪliən juː hæv ɐbˈaʊt juː." dˈæŋɡlɚz fˈɛlt ɐ dɹˈɛdfəl spˈæzəm dˈɑːɹt θɹuː hɪz hˈɑːɹt.|885
+train-clean-360/1335/163935/1335_163935_000025_000005.wav|ɪn kˈeɪs təmˈeɪɾoʊz ɑːɹ nˌɑːt ɪn sˈiːzən, ɐ kæn ʌv təmˈeɪɾoʊz, ɔːɹ, bˈɛɾɚ, ɐ lˈɑːɹdʒ sˈaɪzd kæn ʌv təmˈeɪɾoʊ sˈuːp wɪl dˈuː nˈaɪsli.|446
+train-clean-360/8575/290349/8575_290349_000020_000001.wav|ɹˈiːəl səksˈɛʃən ɪn swˈɪft mˈoʊʃənz wɪðˌaʊt sˈɛns ʌv səksˈɛʃən.|977
+train-clean-360/5660/101883/5660_101883_000040_000002.wav|ʃiː wʌz ɐpˈɔːld æt ðə nˈʌmbɚɹ ʌv tʃˈɪldɹən hˌuː ɐpˈɪɹd skˈɛɹsli tʊ ˌʌndɚstˈænd ðæt ðɛɹwˌʌz sˈʌtʃ ɐ θˈɪŋ æz skˈuːl.|635
+train-clean-360/2532/163402/2532_163402_000019_000001.wav|nˈaʊ, ðə wˈeɪ aɪ lˈʊk ˈæɾɪt, ɐ hˈɪkɹi bˈɑːɹk lˈædɚ dˈoʊnt kˈɔst nˈʌθɪŋ, ænd dˈoʊnt wˈeɪst nˈʌθɪŋ, ænd ɪz dʒˈʌst æz ɡˈʊd tə lˈoʊd ˌʌp ɐ pˈaɪ wɪð, ænd hˈaɪd ɪn ɐ stɹˈɔː tˈɪk, æz ˌɛni ɹˈæɡ lˈædɚ juː kæn stˈɑːɹt; ænd æz fɔːɹ dʒˈɪm, hiː ˈeɪnt hæd nˈoʊ ɛkspˈiəɹɪəns, ænd sˌoʊ hiː dˈoʊnt kˈɛɹ wʌt kˈaɪnd əvə  "|1131
+train-clean-360/8718/295197/8718_295197_000049_000001.wav|ðə kˈeɪɾi dˈɪdz ænd ðə məskˈiːɾoʊz, ænd ðə lˈoʊkʌsts, ænd ɐ fˈʊl ˈɔːɹkᵻstɹə ʌv kɹˈɪkɪts mˌeɪd ðɪ ˈɛɹ pˈɜːfɛktli vˈaɪbɹeɪt, ˈɪnsəmˌʌtʃ ðæt ˈoʊld pˈɑːɹsən tˈuː wˈɪt, hˌuː wʌz pɹˈiːtʃɪŋ ɐ θˈɜːzdeɪ ˈiːvnɪŋ lˈɛktʃɚ tʊ ɐ vˈɛɹi smˈɔːl ˈɔːdiəns, ɐnˈaʊnst tə hɪz hˈɪɹɚz ðæt hiː ʃˌʊd sˈɜːʔn̩li ɹˈaɪt ɐ dˈɪskoːɹs ɐɡˈɛnst dˈænsɪŋ fɚðə nˈɛkst wˈiːkli əkˈeɪʒən.|1132
+train-clean-360/4807/26853/4807_26853_000025_000001.wav|wˈʌn ʌv ðˌɛm pˈeɪnts sˈɔːdʌst ɪn ɐ dˈɛlɪkˌæɾɛsən fˈæktɚɹi æt twˈɛlv dˈɑːlɚz pɜː.|195
+train-clean-360/8118/114476/8118_114476_000015_000000.wav|"ɪts ɐ nˈæɹoʊ stɹˈiːm, bˌʌt dˈiːp, ænd kɹˈɔst baɪ sˈɛvɹəl stˈoʊn bɹˈɪdʒᵻz. ɪt wɪl biː hˈɑːɹd tə fˈoːɹs ɐ kɹˈɔsɪŋ hˈɪɹ, bˌʌt fˈɜːðɚɹ ˌʌp ɪt kæn biː dˈʌn wɪð ˈiːz sˈɪns wiː aʊtnˈʌmbɚ lˈiː sˈoʊ mˌʌtʃ ðæt wiː kæn ˌoʊvɚlˈæp hˌɪm baɪ fˈɑːɹ. aɪ hæv maɪ ˌɪnfɚmˈeɪʃən fɹʌm ʃˈɛpɚd, ænd hiː mˌeɪks nˈoʊ mɪstˈeɪks.|566
+train-clean-360/3615/14672/3615_14672_000047_000003.wav|ðˈɛn ˈæd wˈʌn kˈʌp ʌv mˈɪlk; lˈɛt bˈɔɪl ænd pˈoːɹ ˌoʊvɚ ðə spɐɡˈɛɾi.|228
+train-clean-360/3368/170951/3368_170951_000041_000000.wav|sˈʌmθɪŋ ʌv ðɪs kˈaɪnd, aɪ ɹᵻplˈaɪd:ɡˈɑːd ɪz ˈɔːlweɪz təbi ɹˌɛpɹᵻzˈɛntᵻd æz hiː tɹˈuːli ɪz, wʌtˈɛvɚ biː ðə sˈɔːɹt ʌv pˈoʊɪtɹi, ˈɛpɪk, lˈɪɹɪk ɔːɹ tɹˈædʒɪk, ɪnwˌɪtʃ ðə ɹˌɛpɹᵻzˈɛntˈeɪʃən ɪz ɡˈɪvən.|1106
+train-clean-360/1054/143005/1054_143005_000083_000007.wav|ɪn hɪz fˈɪɹ lˈɛst ɪt ʃˌʊd ɛskˈeɪp hˌɪm ɐɡˈɛn, hiː sˈiːzd ðə fˈɜːst bˈʊk ðæt kˈeɪm tə hɪz hˈænd ænd plˈʌɡd ɪɾ ˌɪntʊ ðə hˈoʊl.|1143
+train-clean-360/4425/14497/4425_14497_000062_000001.wav|ɐn ɪŋkoʊhˈɪɹənt nˈoʊt hˈɛɹəldᵻd hɪz ɹᵻtˈɜːn.|1048
+train-clean-360/8225/274375/8225_274375_000014_000001.wav|ɪɾ ˈiːvən pˈæst baɪ ɐ mədʒˈɔːɹᵻɾi ɐmˌʌŋ ðə kˈɑːmənz, ðæt ðiːz pɹəpˈoʊzəlz ʃˌʊd biː tɹænsmˈɪɾᵻd tə ðə kˈɪŋ.|1137
+train-clean-360/7314/77782/7314_77782_000008_000002.wav|ˈɛvɹi bˈoʊn ɪn maɪ bˈɑːdi fɹʌmðə fˈʌni tə ðə mˈɛdʌlə ˈeɪkz lˈaɪk ˈɔːl pəzˈɛst, ænd maɪ dʒˈɔɪnts kɹˈiːk lˈaɪk ɐ nˈuː pˈɛɹ ʌv ʃˈuːz ˌɔn ɐ skˈuːl bˈɔɪ ɪn tʃˈɜːtʃ, ðeɪ ɑːɹ sˌoʊ stˈɪf."|215
+train-clean-360/6981/70843/6981_70843_000020_000003.wav|ðə sˈɪks ɡˈɜːlz skˈɜːɹid bˈækwɚd ænd fˈɔːɹwɚd, ɪnstɹˈʌktɪŋ, hˈɛlpɪŋ, skˈoʊldɪŋ....|840
+train-clean-360/6426/64290/6426_64290_000083_000000.wav|wˌɛn hiː tˈɜːnd, sˈiːpiə tˈuː wʌz ɡˈɔn.|711
+train-clean-360/1472/285314/1472_285314_000019_000000.wav|wˈɛst θˈɔːt ɪɾ ˈoʊvɚ.|152
+train-clean-360/6519/69411/6519_69411_000013_000000.wav|"hˌaʊ dˈɛɹd juː!|665
+train-clean-360/8848/293957/8848_293957_000002_000000.wav|bᵻfˌoːɹ mˈɪs bˌɛɹəŋɡˈɛɹiə kʊd kəmjˈuːnᵻkˌeɪt wɪð dˈʌɹəm, hiː hæd lˈɛft ðə kˈæsəl fɔːɹ tˈaʊn.|873
+train-clean-360/5538/70919/5538_70919_000011_000002.wav|aɪv wˈɜːkt æz hɪz sɐtˈænɪk mˈædʒᵻsti ʌndˈaʊɾᵻdli dˈʌz wɛn hiː ɹᵻsˈiːvz wˈɜːd ðˌæɾə fɹˈɛʃ bˈætʃ ʌv mˈɔːɹmənz hɐz hˈɪt ðə tɹˈeɪl fɚðə ɡˈʊd ɪntˈɛnʃənz pˈeɪvmənt.|798
+train-clean-360/7481/101276/7481_101276_000011_000000.wav|jˈɛs, aɪˈæm,wʌzðɪ ˈænsɚ.|20
+train-clean-360/3922/715/3922_715_000115_000004.wav|nˈaʊ ˈɛvɹɪθˌɪŋ ʌv mˈaɪn ɪz jˈoːɹz.|144
+train-clean-360/3448/5416/3448_5416_000050_000000.wav|"fˈɔːɹtʃənət, maɪ dˈɪɹ?|1025
+train-clean-360/3638/758/3638_758_000062_000006.wav|bˌʌt aɪ kænˈɑːt fɚɡˈɛt ðæt kˈɑːɹɾɐʃˌʌv ɛɡzˈɪsts ænd ðæt hiː ɪz nˌɑːt blˈʌʃɪŋ nˈaʊ æz hiː dˈɪd wɛn hiː dɪskˈʌvɚd ðə fˈaʊndɚz ʌv tɹˈɔɪ, bˌʌt ɪz lˈʊkɪŋ æt mˌiː wɪð hɪz dʒˈɑːli, kˈaɪnd, dˈɪɹ lˈɪɾəl ˈaɪz.|751
+train-clean-360/698/122863/698_122863_000015_000003.wav|ɪf aɪɐm kˈɪld juː ɑːɹ tə hæv maɪ pˈɜːl bˈiːd ɹˈɪŋ."|1023
+train-clean-360/2481/163597/2481_163597_000008_000000.wav|nˈiːðɚɹ ʌv ðˌɛm kʊd sˈoʊ mˌʌtʃ æz stˈɜːɹ ɪt, bˌʌt æz sˈuːn æz hiː tˈʌtʃt ɪt, ɐwˈeɪ ɪt flˈuː tʊ ɐ dˈɪstəns, ðˌoʊ ɪt wʌz ˈɛvɚ sˌoʊ bˈɪɡbˈɪɡ æz ɐ hˈɪl. ænd wɛn hiː hæd flˈʌŋ ðə stˈoʊn ɐsˈaɪd, hiː spˈoʊk ɐ sˈɛkənd tˈaɪm tə hɪz bɹˈʌðɚz, sˈeɪɪŋ:|465
+train-clean-360/5723/49750/5723_49750_000010_000002.wav|ðə vˈɑːɹlɪt tˈʊk ðə mˈeɪdən ɪn hɪz ˈɑːɹmz, bˌʌt fˈɜːst hiː ɡˈeɪv hɜː ðə flˈæsk wɪððə pɹˈɛʃəs bɹˈuːɪdʒ tə kˈæɹi, sˈɪns fɔːɹ pɹˈaɪd hiː mˌaɪt nˌɑːt ɛndˈʊɹ tə dɹˈɪŋk ðɛɹfɹˈɑːm, sˈeɪv æɾ ˈʌtmoʊst pˈɛɹəl.|224
+train-clean-360/4356/6506/4356_6506_000071_000001.wav|æt ðɪs dʒˈʌŋktʃɚ bˈɔːldoʊz ˈɛntɚd ðə ɹˈuːm.|138
+train-clean-360/3171/68344/3171_68344_000014_000000.wav|θɹuː ðə kˈaɪndnəs ʌvðɪ əfˈɪʃəlz ðə ɹˈaɪɾɚ wʌz ɐlˈaʊd tə ɡˌoʊ ˌɪntʊ ðɪs tˈaʊɚ wˈʌn ˌæftɚnˈuːn æz ðə fˈaɪv θˈaʊzənd pɹˈɪzənɚz kˈeɪm fɹʌmðə ʃˈɑːps, fˈɔːɹmd ˌɪntʊ kˈʌmpəniz ænd wɛnt θɹuː ɐ θˈɜːɾi mˈɪnɪt dɹˈɪl.|713
+train-clean-360/5062/294700/5062_294700_000027_000001.wav|aɪ mˌeɪd nˈoʊ ɹᵻplˈaɪ.|1124
+train-clean-360/7258/91902/7258_91902_000006_000007.wav|wiː ɑːɹ bˌʌt kəmplˈiːɾɪŋ ðə sˈɜːkəl fɹʌmðə klˈɪɹɪst fɹˈæɡmənt ˈɑːɹk lˈɛft.|269
+train-clean-360/2592/5341/2592_5341_000011_000002.wav|aɪ dˈoʊnt nˈoʊ ðæt ðeɪ hæv bˈɔɪlɪŋ wˈɔːɾɚ.|290
+train-clean-360/1112/128138/1112_128138_000017_000000.wav|wˌɛn stˈɑːɹz ɑːɹ ɡlˈoʊɪŋ θɹuː dˈeɪz ɡlˈoʊmɪŋ ɡlˈoʊ, ɹᵻflˈɛktɪŋ fɹʌm ˈoʊʃənz dˈiːp, mˈaɪɾi flˈoʊ, æt twˈaɪlaɪt, wˌɛn nˈoʊ ɡɹˈɪm ʃˈædoʊz ʌv nˈaɪt, lˈaɪk ɡˈuːlz, hæv stˈɔːkt ɪn wˈeɪk ʌvðə lˈaɪt.|649
+train-clean-360/1335/163935/1335_163935_000035_000000.wav|ɐ fˈaɪn dˈɪʃ fɚɹə mˈɪʃənˌɛɹi tˈiː.|446
+train-clean-360/3866/173230/3866_173230_000066_000003.wav|ʃiː dɹˈuː bˈæk fɹʌm ɪt, ˈæftɚɹ ɐ mˈoʊmənts ɐbsˈoːɹpʃən ɪn hɜːɹ ˈoʊn θˈɔːts, wɪð ɐ stˈɑːɹt ʌv tˈɛɹɚ.|765
+train-clean-360/28/12332/28_12332_000044_000000.wav|maɪ fˈɜːst ɪmpɹˈɛʃən wʌz ðætðə kæntˈæŋkɚɹəs ˈoʊld lˈeɪdi wʊd ɡˌoʊ ˈɔf ɪn ɐ fˈɪt ʌv ˈæpəplˌɛksi.|624
+train-clean-360/4744/4158/4744_4158_000006_000008.wav|hiː hæd nˈoʊ sˈuːnɚ ɹᵻsˈiːvd hɜː lˈɛɾɚ, ðɐn hiː sˈɛt ˈaʊt fɔːɹ nˈuː ˈɔːɹliənz; ænd fˈaɪndɪŋ ˌɔn hɪz ɚɹˈaɪvəl ðˈɛɹ, ðæt hɪz mˈɪstɹəs hɐdbɪn tˈeɪkən ɐwˈeɪ, ɹᵻzˈɑːlvd tə fˈɑːloʊ hɜː.|560
+train-clean-360/2531/156724/2531_156724_000017_000000.wav|ðə θˈɔːt ɡˈeɪv dˈeɪvɪd ɐ kɹˈiːpi fˈiːlɪŋ ɔnðə bˈæk ʌv hɪz nˈɛk.|854
+train-clean-360/459/123443/459_123443_000051_000001.wav|ðɪ ˈʌðɚ sˈaɪd ʌv wˈʌt?θˈɔːt ˈælɪs tə hɜːsˈɛlf.|1128
+train-clean-360/3157/68361/3157_68361_000015_000001.wav|ðɪs ɡɹˈeɪt ɹˈɪvɚ sˈɪstəm dɹˈeɪnz ɐ tˈɛɹɪtˌoːɹi ʌv θɹˈiː hˈʌndɹɪd ænd sˈɪksti θˈaʊzənd skwˈɛɹ mˈaɪlz.|862
+train-clean-360/1265/135635/1265_135635_000070_000002.wav|mˈɪsɪz ɹˈɑːdʒɚz wˈɪspɚd mˈɪsɪz ɹˈædəl ðæt hiː wʌz ɹˈiəli ɐn ˈɛlɪɡənt jˈʌŋ mˈæn.|948
+train-clean-360/8687/216570/8687_216570_000054_000006.wav|bˌʌt ɪn lˈɔːaɪ mˈiːn ɪn ɹˈoʊmən ænd næpˈoʊlɪˈɑːnɪk lˈɔːðɛɹ ɹᵻfjˈuːzəl tʊ oʊbˈeɪ ænd pˈeɪ tɹˈɪbjuːt tə ðɛɹ mˈæstɚz wʌz ɪlədʒˈɪɾᵻmət.|320
+train-clean-360/4145/104606/4145_104606_000057_000000.wav|stˈɪl, ˈiːvən mˈædʒ mˌaɪthɐv ɐdmˈɪɾᵻd, ænd pɚhˈæps ɪn hɜː hˈɑːɹt ʃiː dˈɪd ɐdmˈɪt, ðˈæt, ˌʌndɚ ðə sˈɜːkəmstˌænsᵻz, hiː bˈoːɹ hɪmsˈɛlf sɚpɹˈaɪzɪŋli wˈɛl; ðæt hiː lˈʊkt æz ɪf hiː wʌz dɪzˈɜːvɪŋ ʌv bˈɛɾɚ tɹˈiːtmənt.|322
+train-clean-360/5126/34483/5126_34483_000027_000000.wav|"wˈaɪ, tˈuː jˈɪɹz ˈoʊld."|561
+train-clean-360/6258/49755/6258_49755_000025_000007.wav|ɪn juːhiː ɹˈoʊɾɪz ˈɔːl maɪ plˈɛʒɚ, ænd ɪn jʊɹ wˈaɪt hˈændz ɪt lˈaɪz tə hˈiːl mˌiː ɔːɹ tə slˈeɪ.|412
+train-clean-360/6550/53320/6550_53320_000019_000001.wav|æt fˈɜːst aɪ dɪdnˌɑːt kˌɑːmpɹihˈɛnd hˌɪm, bˌʌt aɪ sˈuːn fˈaʊnd ðætðə lˈaɪbɹɛɹi wʌzɐ kˈaɪnd ʌv lˈɪɾɚɹˌɛɹi "pɹɪzˈɜːv," sˈʌbdʒɛkt tə ɡˈeɪm lˈɔːz, ænd ðæt nˈoʊwˈʌn mˈʌst pɹɪzˈuːm tə hˈʌnt ðɛɹ wɪðˌaʊt spˈɛʃəl lˈaɪsəns ænd pɚmˈɪʃən.|103
+train-clean-360/1382/130492/1382_130492_000101_000000.wav|stˈɪmjʊlˌeɪɾᵻd tʊ ɐn ˈɛvɚ dˈiːpənɪŋ sˈʌɾəlɾi |832
+train-clean-360/7704/106974/7704_106974_000038_000001.wav|aɪ ɡɹˈænt juː, ɔnðə hˈoʊl, ðeɪ ɑːɹ bˈɛɾɚ ðɐn ðeɪ wɜː, bˌʌt ðə sˈɜːvɪs ɪz nˈoʊ plˈeɪs fɔːɹ hˈaɪli stɹˈʌŋ bˈɔɪz lˈaɪk ðˈɪswˌʌn.|707
+train-clean-360/459/123443/459_123443_000015_000000.wav|wˌɪtʃ bɹˈɔːt ðˌɛm bˈæk ɐɡˈɛn tə ðə bɪɡˈɪnɪŋ ʌvðə kɑːnvɚsˈeɪʃən. ˈælɪs fˈɛlt ɐ lˈɪɾəl ˈɪɹᵻtˌeɪɾᵻd æt ðə kˈæɾɚpˌɪlɚz mˌeɪkɪŋ sˈʌtʃ vˈɛɹi ʃˈɔːɹt ɹᵻmˈɑːɹks, ænd ʃiː dɹˈuː hɜːsˈɛlf ˌʌp ænd sˈɛd, vˈɛɹi ɡɹˈeɪvli, aɪ θˈɪŋk, juː ˈɔːt tə tˈɛl mˌiː hˈuː juː ɑːɹ, fˈɜːst.|1128
+train-clean-360/1028/133393/1028_133393_000024_000000.wav|æɾ ɐnˈʌðɚ tˈaɪm hiː klˈæmbɚd ˌʌp ˌɪntʊ ðə lˈɔft ˌʌndɚ ðə hˈaɪ pˈiːkt ɹˈuːf, wˌɛɹ lˈeɪ nˈʌmbɚləs fɚɡˈɑːʔn̩ θˈɪŋz kˈʌvɚd wɪððə dˈɪm dˈʌst ʌv jˈɪɹz.|327
+train-clean-360/925/8141/925_8141_000014_000000.wav|"ɡˈɑːd lˈʌvz mˌiː!|1041
+train-clean-360/1806/2536/1806_2536_000021_000000.wav|ɪt mˈeɪ biː wˈɛl tə sˈeɪ hˈɪɹ, ɐ lˈɪɾəl mˈoːɹ ɛksplˈɪsɪtli, ðæt ðɛɹwˌʌz nˈoʊ ɹˈiːəl ɪntˈɛnʃən tə dᵻskɹˈaɪb wɪð pɚtˈɪkjʊlɚɹ ˈækjʊɹəsi ˌɛni ɹˈiːəl kˈæɹɪktɚz ɪn ðɪs bˈʊk.|1105
+train-clean-360/231/127936/231_127936_000008_000000.wav|"aɪ dˈoʊnt nˈoʊ wˌaɪ juː ʃˌʊdəv θˈɔːt ʌv hˌɪm," sˈɛd bɹˈɛtən. "bˌʌthiːz ðˈɛɹ."|1024
+train-clean-360/8011/117866/8011_117866_000045_000000.wav|"ænd ˈaɪ," ɛksklˈeɪmd kˈɛnəθ ðə kˈaɪnd.|29
+train-clean-360/5935/55927/5935_55927_000019_000001.wav|æz ðə pˈɛndʒuːləm mˈuːvz ɪt θɹˈoʊz wˈʌn ɔːɹ mˈoːɹ ʌv ðiːz pˈɪstən ɹˈɑːd ˈɛndz ˌɪntʊ kˈɑːntækt wɪððɪ ˈɪnɚ sˈɜːfɪs ʌvðə ɹˈɪŋ, dɹˈaɪvɪŋ ɪɾ ˌɪntʊ ðə kəmpɹˈɛsɪŋ pˈʌmp.|34
+train-clean-360/398/130093/398_130093_000042_000000.wav|hiː hæd ɡɹˈoʊn tə ɹᵻɡˈɑːɹd hɪmsˈɛlf mˈɪɹli æz ɐ pˈɑːɹt əvə vˈæst blˈuː dˌɛmənstɹˈeɪʃən.|148
+train-clean-360/5935/43305/5935_43305_000011_000000.wav|fɹʌm ɹˈaɪt tə lˈɛft ʌvðə hjˈuːdʒ ɪntˈɪɹiɚ, əkɹˌɑːs ðə plˈætfɔːɹmz, swˈɛlɪŋ ˈɛvɹi ˈɪnstənt, sˈɜːdʒd ɐn ɪnˈoːɹməs swˈeɪɪŋ, ɹˈoːɹɪŋ kɹˈaʊd.|34
+train-clean-360/2061/147110/2061_147110_000047_000003.wav|ðɪ ˈɑːɹmɪŋ ʌv ðɪs bˈæɾɚɹi wʌzɐ stuːpˈɛndəs pˈiːs ʌv wˈɜːk.|1076
+train-clean-360/6054/41610/6054_41610_000032_000002.wav|wiːl səpˈoːɹt juː, ˈoʊnli juː mˈʌst ɐɡɹˈiː tə dˈuː ˈɔːl ðə tˈɔːkɪŋ."|802
+train-clean-360/6104/58845/6104_58845_000006_000004.wav|ɪn ᵻlɛktɹˈɑːnɪks aɪ mˈeɪbiː ˈeɪnt ɡɑːt ðə θˈiəɹi pɹˈɪɾi bˈɔɪ hˈæz, bˌʌt æt bˈɪldɪŋ ænd ɹᵻpˈɛɹɪŋ ðə stˈʌf aɪv fɚɡˈɑːt mˈoːɹ ðɐn hiː ˈɛvɚ wɪl nˈoʊ.|30
+train-clean-360/4356/6506/4356_6506_000051_000001.wav|aɪ nˈoʊ aɪ ˈɔːtənt tuː, bˌʌt wʌt ɪz ðɛɹ tə dˈuː wɛn wˈʌn kˈænt hˈɛlp ɪt?|138
+train-clean-360/7868/110706/7868_110706_000011_000001.wav|hiː wʌz, moːɹˈoʊvɚ, sɚpɹˈaɪzd, ˌɔn sɚmˈaʊntɪŋ ðˌɛm, tə fˈaɪnd ðˌæɾə lˈɑːɹdʒ ɡlˈeɪʃɚ, ʌv hˌuːz ɛɡzˈɪstəns, nˌɑːtwɪðstˈændɪŋ hɪz pɹˈiːviəs nˈɑːlɪdʒ ʌvðə mˈaʊntɪnz, hiː hɐdbɪn ˌæbsəlˈuːtli ˈɪɡnɚɹənt, lˈeɪ bᵻtwˌiːn hˌɪm ænd ðə sˈoːɹs ʌvðə ɡˈoʊldən ɹˈɪvɚ.|780
+train-clean-360/6637/69607/6637_69607_000032_000000.wav|"wiːʃˌɐl kˈʌm tə ðæt pɹˈɛzəntli," sˈɛd lˈeɪdi hˈɛnɹi, ʃˈɔːɹtli.|17
+train-clean-360/1776/139035/1776_139035_000008_000018.wav|ˈæftɚ ðætðə ɹˈeɪn ɪz ʃˈʊɹ tə kˈʌm dɹˈaɪvɪŋ ˌʌp ɪn hˈɛvi klˈaʊdz.|129
+train-clean-360/5538/64717/5538_64717_000003_000000.wav|ɪn ðɪs sˈæd kəndˈɪʃən, aɪ wʌz ɹˈɛdi tə dˈaɪ wɪð ɡɹˈiːf.|798
+train-clean-360/6701/71404/6701_71404_000050_000003.wav|ɪɾ ɪz pɹɪpˈɔstɚɹəs tʊ ɪmˈædʒɪn ðæt ʃiː wʊd kˈɪl hɜːɹ ˈoʊn fˈɑːðɚ.|335
+train-clean-360/409/124990/409_124990_000020_000009.wav|ɪt dᵻstɹˈɔɪz maɪ pɹˈaɪmɚɹi ɹˈaɪt ʌv sᵻkjˈʊɹɹᵻɾi, baɪ kˈɑːnstəntli kɹiːˈeɪɾɪŋ ænd stˈɪmjʊlˌeɪɾɪŋ sˈoʊʃəl dɪsˈoːɹdɚ.|468
+train-clean-360/7316/10642/7316_10642_000009_000002.wav|ɪɾ ɐpˈɪɹz lˈaɪk sˌʌm fˈɛɹi tˈeɪl ðæt hɐz bɪkˌʌm mjˈuːzɪk.|909
+train-clean-360/1027/125140/1027_125140_000058_000001.wav|wˈɛɹəpˌɑːn ðə fˈʊtmən dˌɪsɐpˈɪɹd, ɹˌiːɐpˈɪɹd pɹɪzˈɛntɪŋ slˈɑːpi, ænd ɹᵻtˈaɪɚd mˈʌtʃ dɪsɡˈʌstᵻd.|602
+train-clean-360/1731/142320/1731_142320_000079_000000.wav|ænd aɪ θˈɔːɾaɪ ˈɔːlweɪz θˈɔːt ðæt pˈɑːpə hæd tˈoʊld juː ɐbˈaʊt ɪt.|1036
+train-clean-360/4145/34497/4145_34497_000021_000005.wav|bˌʌt ðɪs nˈuːz hæd nˌɑːt pɹədˈuːst wʌt ʃiː hæd ɛkspˈɛktᵻd ɪn hˌɪm; hiː sˈɪmpli sˈiːmd æz ðˌoʊ hiː wɜː ɹiːsˈɛntɪŋ sˌʌm ɐfɹˈʌnt.|322
+train-clean-360/968/122545/968_122545_000046_000000.wav|dʒˈeɪn tʃˈæmpiən.|115
+train-clean-360/28/12332/28_12332_000057_000000.wav|nˌɑːt tə maɪ nˈɑːlɪdʒ,aɪ ˈænsɚd, ɡɹˈeɪvli.|624
+train-clean-360/2229/152842/2229_152842_000035_000000.wav|"tˈɛl mˌiː, plˈiːz, hˌaʊ tə ɹˈɛkəɡnˌaɪz ðə nˈɪɹɪst."|759
+train-clean-360/3923/153309/3923_153309_000005_000000.wav|hiː ɹᵻplˈaɪd wɪð ɐ dᵻsˈaɪdᵻd nˈoʊ; ðˌɐɾɪt wʌz nˌɑːt hɪz ɐdvˈɛntʃɚ wˌɪtʃ hæd ʌpsˈɛt hˌɪm, bˌʌt ðə nˈuːz hiː hædtə bɹˈɪŋ.|653
+train-clean-360/7247/77778/7247_77778_000023_000000.wav|"ænd wˈaɪ, pɹˈeɪ?" ˈæskt ðə dˈɑːktɚ.|1018
+train-clean-360/2256/137597/2256_137597_000006_000005.wav|ænd ðˈɛn ðeɪ hˈɛlpt ˌʌp ðɛɹ fˈɑːðɚ, ænd sˌoʊ baɪ ðɛɹ kˈɑːmɪnəl ɐsˈɛnt pɹˈɑːmɪst tə sˌɜː mˈɑːɹhaʊs nˈɛvɚ təbi fˈoʊz ˌʌntʊ kˈɪŋ ˈɑːɹθɚ, ænd ðɛɹˈʌpɑːn æt wˈɪtsəntˌaɪd ˈæftɚ tə kˈʌm, hiː ænd hɪz sˈʌnz, ænd pˌʊt ðˌɛm ɪnðə kˈɪŋz ɡɹˈeɪs.|352
+train-clean-360/1027/125140/1027_125140_000055_000003.wav|ɪf aɪɐm vˈɛɹi mˈʌtʃ ɪn ˈɜːnɪst ænd kwˈaɪt dɪtˈɜːmɪnd təbi ʌnsˈɛlfɪʃ, lˈɛt mˌiː tˈeɪk kˈɛɹ ʌv hˌɪm.|602
+train-clean-360/4945/29090/4945_29090_000021_000003.wav|bˌʌt juː ɑːɹsˈeɪf.|159
+train-clean-360/7809/108638/7809_108638_000021_000001.wav|æt lˈɛŋθ ðɛɹ sˈiːmd tə pˈæs ɐ vˈaɪələnt ænd sˈʌdən ʃˈɑːk θɹuː maɪ sˈoʊl, æz ɪf ʌv ᵻlɛktɹˈɪsᵻɾi.|508
+train-clean-360/5123/34572/5123_34572_000020_000002.wav|tə dɪstˈɪŋɡwɪʃ wˈʌn fɹʌm ɐnˈʌðɚ wʌz dˈɪfɪkəlt; ɪmpˈɑːsᵻbəl tə tˈɛl wˈɛðɚ ðeɪ wɜːɹ ˈoʊld ɔːɹ jˈʌŋ.|839
+train-clean-360/8887/281471/8887_281471_000017_000000.wav|"wˌʌt bɪkˌeɪm ʌv juː ˈæftɚ bɹˈɛkfəst, pˈɑːɹtnɚ?" kwˈɛstʃənd ɹˈɑːd.|756
+train-clean-360/6686/216563/6686_216563_000037_000007.wav|ɹᵻlˈɪdʒəs wˈɔːɹz, ænd wˈɔːɹz ʌv kˈɑːŋkwɛst, wˌɛn ðeɪ hæv stˈɑːpt ʃˈɔːɹt ʌvðɪ ɛkstˈɜːmᵻnˈeɪʃən ʌv ɹˈeɪsᵻz, hɐvbɪn ˈoʊnli ˌæksɪdˈɛntəl dɪstˈɜːbənsᵻz, sˈuːn ɹᵻpˈɛɹd baɪ ðə mˌæθɪmˈæɾɪkəl pɹəɡɹˈɛʃən ʌvðə lˈaɪf ʌv nˈeɪʃənz.|403
+train-clean-360/7739/107483/7739_107483_000015_000001.wav|juː fɚɡˈɛt ðæt aɪɐm ɐ dʒˈɛntəlmən."|379
+train-clean-360/1513/140222/1513_140222_000021_000000.wav|ˈaɪɑːn: vˈɛɹi tɹˈuː:|878
+train-clean-360/3615/14677/3615_14677_000054_000000.wav|kˈʌt θˈɪn ɹˈaʊnd slˈaɪsᵻz ʌv bɹˈɛd ænd tˈoʊst ðˌɛm.|228
+train-clean-360/5570/73846/5570_73846_000035_000000.wav|"ɡˌoʊɪŋ ˈaʊt!"juː wɪl nˌɑːt biː sˌoʊ mˈæd, sˌoʊ kɹˈɪmɪnəl; ænd ˈæftɚ jʊɹ pɹˈɑːmɪs!|699
+train-clean-360/3185/163505/3185_163505_000008_000001.wav|dˈoʊnt juː sˈiː ðæt wiː ɑːɹ klˈoʊs tʊ ɐ hˈaʊs! dˈoʊnt juː sˈiː ðə bɹˈaɪt lˈaɪt?|936
+train-clean-360/5093/29101/5093_29101_000025_000001.wav|hiː ænd mˈɪstɚ bɹˈaɪɚli tˈʊk ðə sˈɛnəɾɚɹ ˌoʊvɚ tə nɐpˈoʊlɪən ænd ˈoʊpənd tə hˌɪm ðɛɹ plˈæn.|445
+train-clean-360/476/133471/476_133471_000020_000001.wav|"ðə fˈækt ɪzaɪ kˈeɪm hˈɪɹ tə tˈɛl juː sˈoʊ!aɪ nˈoʊ ɐ ɡˈʊd dˈiːl ɐbˌaʊt ˈɛvɹɪθˌɪŋ."|727
+train-clean-360/1678/142279/1678_142279_000029_000002.wav|mˈɪsɪz hˈeɪl ɹˈeɪzd hɜː hˈɛd.|385
+train-clean-360/6492/68353/6492_68353_000009_000003.wav|ɪt wʊd θɹˈɪl ðə hˈɑːɹt ʌv ˈɛvɹi lˈʌvɚɹ ʌv dʒˈʌstɪs ænd mˈɜːsi ænd wʊd ˈænsɚ ðə hˈɑːɹt lˈɔŋɪŋz ʌv mˈɪliənz hˌuː hæv pɹˈeɪd wɪðˌaʊt sˈiːsɪŋ fɚðə ɹˈeɪn ʌv pˈiːs ˌɔn ˈɜːθ ɐmˌʌŋ mˈɛn ʌv ɡˈʊd wˈɪl.|62
+train-clean-360/8222/274379/8222_274379_000012_000000.wav|ɪn ˌɑːpəzˈɪʃən tə ðɪs ɹˈiːzənɪŋ ʌvðɪ ˌɪndᵻpˈɛndənts, mˈɛnɪəv ðə pɹˌɛzbɪtˈɪɹiənz ʃˈoʊd ðɪ ɪŋkənvˈiːnɪəns ænd dˈeɪndʒɚɹ ʌvðə pɹədʒˈɛktᵻd ˌɔltɚɹˈeɪʃən.|883
+train-clean-360/6927/86043/6927_86043_000008_000000.wav|wɪð ðæt hiː pˈʊld ðə bɹˈeɪslɪt fɹʌm hɪz wˈeɪstbænd, ænd hˈændᵻd ɪt tə hɪz fɹˈɛnd.|585
+train-clean-360/2230/124587/2230_124587_000040_000013.wav|ænd ðˈɛn, dˈɪdnt hiː tˈɛl mˌiː ɐbˌaʊt hɪz ɹˈoʊ wɪð ʃˈʌɾəlwˌɜːθ, ænd ðæt hiː hæd ðə fˈoːɹ hˈʌndɹɪd pˈaʊndz ɪn hɪz pˈɑːkɪt.|831
+train-clean-360/1638/84448/1638_84448_000010_000001.wav|nˈoʊ fˈɑːɡ, nˈoʊ mˈɪst; klˈɪɹ, bɹˈaɪt, dʒˈoʊvɪəl, stˈɜːɹɪŋ, kˈoʊld; kˈoʊld, pˈaɪpɪŋ fɚðə blˈʌd tə dˈæns tuː; ɡˈoʊldən sˈʌnlaɪt; hˈɛvənli skˈaɪ; swˈiːt fɹˈɛʃ ˈɛɹ; mˈɛɹi bˈɛlz.|696
+train-clean-360/6696/73296/6696_73296_000017_000000.wav|"wˈaɪ, pɹˈɪɾi wˈɛl, maɪ dˈɪɹ, əpˌɑːn ðə hˈoʊl.|36
+train-clean-360/2960/155151/2960_155151_000008_000007.wav|hˌævɪŋ ðiːz ˌɑːblɪɡˈeɪʃənz tə ðə ɹˌɑːsɪkɹˈuːʃiənz, nˈoʊ lˈʌvɚɹ ʌv pˈoʊɪtɹi kæn wˈɪʃ, haʊˈɛvɚɹ ɐbsˈɜːd ðeɪ wɜː, ðæt sˈʌtʃ ɐ sˈɛkt ʌv fɪlˈɑːsəfɚz hæd nˈɛvɚɹ ɛɡzˈɪstᵻd.|51
+train-clean-360/5246/30101/5246_30101_000015_000001.wav|ˈædɪkwətli pˈeɪd lˈeɪbɚɹ ɪz ðə faʊndˈeɪʃən ʌv ˈɔːl pɹəspˈɛɹᵻɾi."|376
+train-clean-360/249/121331/249_121331_000047_000001.wav|bˌiːɪŋ bˈɜːn wʌz sˈʌdənli sˈoʊ mˌʌtʃ ɹˌiːɔːlɚ ðɐn bˌiːɪŋ klˈɛvɚ. jˈɛt hiː sˈaɪd... hˈɪɹ wɜːɹ ˈʌðɚ pˈɑːsᵻbəl klˈeɪ fˈiːt.|184
+train-clean-360/5029/30593/5029_30593_000062_000000.wav|"ðˈɛn ʃiː fˈɛl tə ðə flˈoːɹ ɪn ɐ dˈɛd fˈeɪnt.|623
+train-clean-360/373/130974/373_130974_000013_000002.wav|kˈændoːɹ wɪl əblˈaɪdʒ ˌʌs tʊ ɐdmˈɪt ðæt ˈiːvən sˈʌtʃ mˈɛn mˈeɪ biː ˈæktʃuːˌeɪɾᵻd baɪ ˈʌpɹaɪt ɪntˈɛnʃənz; ænd ɪt kænˈɑːt biː dˈaʊɾᵻd ðæt mˈʌtʃ ʌvðɪ ˌɑːpəzˈɪʃən wˌɪtʃ hɐz mˌeɪd ɪts ɐpˈɪɹəns, ɔːɹ mˈeɪ hɪɹˈæftɚ mˌeɪk ɪts ɐpˈɪɹəns, wɪl spɹˈɪŋ fɹʌm sˈoːɹsᵻz, blˈeɪmləs æt lˈiːst, ɪf nˌɑːt ɹᵻspˈɛktəbəlðɪ ˈɑːnɪst ˈɛɹɚz ʌv mˈaɪndz lˈɛd ɐstɹˈeɪ baɪ pɹˌiːkənsˈiːvd dʒˈɛləsiz ænd fˈɪɹz.|1070
+train-clean-360/2238/121413/2238_121413_000064_000000.wav|æt ðɪs mˈoʊmənt ˈæθoʊz pɚsˈiːvd ɐ mˈæn wˈɔːkɪŋ ɔnðə sˈiːʃoːɹ pˈæɹəlˌɛl tə ðə dʒˈɛɾi, ænd hˈeɪsənɪŋ hɪz stˈɛps, æz ɪf tə ɹˈiːtʃ ðɪ ˈʌðɚ sˈaɪd ʌvðə pˈoːɹt, skˈɛɹsli twˈɛnti stˈɛps fɹʌmðə plˈeɪs ʌv ɛmbˈɑːɹkɪŋ.|282
+train-clean-360/1923/161972/1923_161972_000041_000000.wav|dˈɪki kˈɪst mˌiː.|786
+train-clean-360/7240/92202/7240_92202_000012_000000.wav|lˈæst ʌv ˈɔːl kˈeɪm ðə swˈɪmɪŋ.|1038
+train-clean-360/7874/110243/7874_110243_000125_000003.wav|ðə lˈaɪt bᵻnˌiːθ hˌɪm wʌz ɹᵻflˈɛktᵻd ɪn hɪz smˈɔːl, kˈʌnɪŋ ˈaɪz wˌɪtʃ pˈɪɹd fˈɪɹsli tə ɹˈaɪt ænd lˈɛft θɹuː ðə dˈɑːɹknəs lˈaɪk ɐ kɹˈæfti ænd sˈævɪdʒ ˈænɪməl hˌuː hɐz hˈɜːd ðə stˈɛps ʌvðə hˈʌntɚz.|502
+train-clean-360/188/135249/188_135249_000013_000005.wav|hjˈuːmən nˈeɪtʃɚɹ ɪz nˌɑːt əblˈaɪdʒd təbi kənsˈɪstənt.|44
+train-clean-360/1028/133393/1028_133393_000024_000001.wav|ðɛɹ ɐ flˈɑːk ʌv pˈɪdʒənz hæd mˌeɪd ðɛɹ ɹˈuːst, ænd flˈæpt nˈɔɪzili ˈaʊt ˌɪntʊ ðə sˈʌnlaɪt wɛn hiː pˈʊʃt ˈoʊpən ðə dˈoːɹ fɹʌm bᵻlˈoʊ. hˈɪɹ hiː hˈʌntᵻd ɐmˌʌŋ ðə mˈoʊldɚɹɪŋ θˈɪŋz ʌvðə pˈæst ʌntˈɪl, ˈoʊ, dʒˈɔɪ ʌv dʒˈɔɪz! ɪn ɐn ˈeɪntʃənt ˈoʊkən tʃˈɛst hiː fˈaʊnd ɐ ɡɹˈeɪt lˈɑːt ʌv wˈɜːm ˈiːʔn̩ bˈʊks, ðæt hæd bᵻlˈɔŋd tə sˌʌm ˈoʊld tʃˈæplɪn ʌvðə kˈæsəl ɪn dˈeɪz ɡɔn bˈaɪ.|327
+train-clean-360/7766/275147/7766_275147_000006_000002.wav|ɐn ˌoʊvɚpˈaʊɚɹɪŋ ɪmpˈeɪʃəns tə mˌeɪk ðə spˈiːdiɪst ænd kəmplˈiːɾɪst ɐtˈoʊnmənt pəzˈɛst hɜː.|31
+train-clean-360/8875/293959/8875_293959_000087_000000.wav|"kˈʌm ɐlˈɔŋ ðˈɛn," sˈɛd mˈɪs bˌɛɹəŋɡˈɛɹiə, hˈeɪsənɪŋ ˌaʊɾəv ðə ɹˈuːm; "ðə sˈuːnɚ ðɪs ɪz ˌoʊvɚ ðə bˈɛɾɚ.|551
+train-clean-360/1379/130529/1379_130529_000136_000000.wav|aɪ hˈɑːɹdli dˈɛɹ tə dwˈɛl lˈɔŋɡɚ |178
+train-clean-360/2573/178449/2573_178449_000005_000001.wav|"dˈɪd juː ˈɛvɚ sˈiː ˈɛnɪbˌɑːdi ɪmpɹˈuːv ðə wˈeɪ ðæt tʃˈaɪld hˈæz!" ʃiː ɛksklˈeɪmd.|646
+train-clean-360/948/132710/948_132710_000015_000004.wav|fɹˈiːdəm fɹʌm wˈʌt?|815
+train-clean-360/3835/178028/3835_178028_000001_000004.wav|ɪt fˈɑːloʊd ðæt ðɛɹ mˈʌstɐv bˌɪn ɐ vˈɪktɚɹi.|513
+train-clean-360/126/122467/126_122467_000058_000000.wav|"ænd hɜː hˈʌsbənd fˈaʊnd ˈaʊt ðæt ʃiː hæd ɐ flˈʊɹ də lˈɪs ˌɔn hɜː ʃˈoʊldɚ?" kɹˈaɪd pˈoːɹθoʊz.|915
+train-clean-360/580/126945/580_126945_000010_000001.wav|ænd ðə fˈækt ðætðə pˈiːpəl ɪn ðiːz pˈɑːɹts ʌv hˈɛləz ɑːɹ stˈɪl lˈɪvɪŋ ɪnðɪ ˈoʊld wˈeɪ pˈɔɪnts tʊ ɐ tˈaɪm wɛn ðə sˈeɪm mˈoʊd ʌv lˈaɪf wʌz wˈʌns ˈiːkwəli kˈɑːmən tʊ ˈɔːl.|10
+train-clean-360/8479/276730/8479_276730_000007_000002.wav|huːˈɛvɚ pˈɜːmənəntli hˈoʊldz pˌɛnsɐkˈoʊlə ænd flˈɔːɹɪdə ɪz ɛntˈaɪɾəld tə ðə pəzˈɛʃən ʌv fˈɔːɹt pˈɪkənz.|451
+train-clean-360/203/132073/203_132073_000042_000007.wav|dˈɪdnt lˈuːz maɪ bˈædʒ, dˈɪd juː, ɹᵻmsˈɛn?|1056
+train-clean-360/4356/6506/4356_6506_000034_000000.wav|bˈɛvɚli wʌz tɹˈɛmblɪŋ lˈaɪk ɐ lˈiːf.|138
+train-clean-360/2012/139355/2012_139355_000003_000001.wav|stˈɪl dᵻsˈɛndɪŋ |683
+train-clean-360/6189/21305/6189_21305_000037_000009.wav|ðɛnsfˈɔːɹwɚd, æz lˈɔŋ æz ðeɪ ɹᵻmˈeɪnd ɪn ðoʊz lˈɑːdʒɪŋz, ˈænə mˈɛndᵻd ænd lˈuːi blˈækt. nˈætʃɚɹəli, ˈænθəni ænd aɪ dɹˈuː ˌaʊɚ kəŋklˈuːʒənz."|180
+train-clean-360/3584/74477/3584_74477_000027_000000.wav|"aɪ wˈɪl," sˈɛd dˈɑːli, ænd mˈɑːɹtʃt ʌndˈɔːntᵻdli ˈɔf tə bˈɛd.|590
+train-clean-360/7416/103126/7416_103126_000015_000001.wav|bˈɛɾɚ tˈeɪk ˈoʊld bˈʌf; hiːl bɹˈɪŋ juː hˈoʊm wɛn juː ɡɛt lˈɔst, ænd kˈiːp pˈʊs fɹʌm klˈɔːɪŋ juː.|548
+train-clean-360/576/129623/576_129623_000095_000003.wav|hɪz wˈaɪf wʌz kˈiːnli ˈɪntɹɛstᵻd ɪn ˈɛvɹɪθˌɪŋ hiː sˈɛd, lˈeɪɪŋ dˌaʊn hɜː fˈɔːɹk ðə bˈɛɾɚ tə lˈɪsən, tʃˈaɪmɪŋ ˈɪn, tˈeɪkɪŋ ðə wˈɜːdz ˌaʊɾəv hɪz mˈaʊθ.|738
+train-clean-360/3638/696/3638_696_000019_000001.wav|nˈaʊ, hæv aɪ ɪnsˈʌltᵻd juː dɹˈɛdfəli?"|751
+train-clean-360/3638/696/3638_696_000032_000000.wav|"jˈɛs, ˌɔn hɪz ɐkˈaʊnt.|751
+train-clean-360/7117/86710/7117_86710_000079_000000.wav|"ðˈɛn ðə ɡˈɪlti pˈɜːsən ɪz ˌæbsəlˈuːtli ɪn kˈʌstədi?" sˈɛd ðə mˈɑːɹkwaɪz.|56
+train-clean-360/5266/41151/5266_41151_000007_000000.wav|"wˌʌt ʃˌʊd ðeɪ tˈeɪk ˈɛnɪθˌɪŋ fɔːɹ?|1142
+train-clean-360/4054/11077/4054_11077_000039_000000.wav|"maɪ dˈɪɹɪst tʃˈaɪld,jʊɹ nˈoʊt mˌeɪd mˌiː dˈæns wɪð dᵻlˈaɪt.|670
+train-clean-360/3733/140718/3733_140718_000061_000001.wav|ɡˈɑːd blˈɛs hˌɪm!hˈæpi.|192
+train-clean-360/2785/163322/2785_163322_000054_000000.wav|kˈænt juː?ðə kwˈiːn sˈɛd ɪn ɐ pˈɪɾiɪŋ tˈoʊn.|356
+train-clean-360/1422/149735/1422_149735_000029_000002.wav|moːɹˈoʊvɚ, wˈɛsnɚ wʊd klˈɪŋ tə hɪz ɹᵻvˈɛndʒ wɪð ɐ dˈʌtʃmənz sˈɪŋɡəlnəs ʌv mˈaɪnd.|807
+train-clean-360/5304/109507/5304_109507_000068_000001.wav|"wiː mˈʌst tˈeɪk dˌaʊn ðə lˈædɚz.|408
+train-clean-360/6378/61781/6378_61781_000023_000000.wav|tə ðə hˈuːf mˈɑːɹks ʌv ðiːz hiː pˈeɪd bˌʌt slˈaɪt ɐtˈɛnʃən; æt tˈaɪmz, nˈʌn wʌtˈɛvɚ.|931
+train-clean-360/369/125882/369_125882_000022_000002.wav|tə maɪ ˈoʊn ɡˈʊd lˈʌk, ðæt ʃˈɪp wʌz lˈoʊdᵻd wɪð mˈiːt, pɹɪzˈɜːvd fˈuːdz, kɹˈækɚz, bɹˈɛd, bˈɑːɾəlz ʌv wˈaɪn, ɹˈeɪzənz, tʃˈiːz, kˈɔfi, ʃˈʊɡɚ, wˈæks kˈændəlz, ænd bˈɑːksᵻz ʌv mˈætʃᵻz.|858
+train-clean-360/7000/83706/7000_83706_000016_000000.wav|ðɪ ˈɛnd ʌv ɪt wʌz ðæt aɪ ɐɡɹˈiːd tə plˈeɪ.|400
+train-clean-360/7569/102232/7569_102232_000019_000001.wav|ðɛɹ hˈaʊzᵻz wɜː jˈuːʒuːəli ʌv wˈʌn ɹˈuːm, bˈɪlt ʌv ɹˈaʊnd lˈɔɡz wɪððə bˈɑːɹk ˈɔn.|820
+train-clean-360/8080/3961/8080_3961_000011_000001.wav|ʃiː wʌzðə fˈeɪvɚɹᵻt tʃˈaɪld ʌv hɜː mˈʌðɚɹ æz wˈɛl æz ʌv hɜː fˈɑːðɚ, ænd ðə sˈɛɹᵻməniz fɚðə dˈeɪ ʌv kˌɑːnsɪkɹˈeɪʃən wɜːɹ ɚɹˈeɪndʒd wɪð ɪspˈɛʃəl splˈɛndɚ.|1089
+train-clean-360/3989/182402/3989_182402_000015_000003.wav|nˈoʊ sˈuːnɚ dˈɪd pˈiːɾɚ pˈɑːp hɪz hˈɛd əbˌʌv ðɪ ˈɛdʒ ʌvðə bˈæŋk ʌvðə smˈaɪlɪŋ pˈuːl ðɐn ɡɹˈændfɑːðɚ fɹˈɑːɡ ɛksklˈeɪmd:|183
+train-clean-360/512/124520/512_124520_000044_000002.wav|ʃiː twˈɪɾɚd, "jʊɹ pˈɜːfɛktli ɹˈaɪt.|814
+train-clean-360/3513/7741/3513_7741_000068_000001.wav|dʒˈʌst sˈiː pˈɑːli."|1123
+train-clean-360/1641/130503/1641_130503_000074_000000.wav|lˈaɪk ɐ stˈɑːɹ, hɪz lˈʌvz pjˈʊɹ fˈeɪs lˈʊkt dˈaʊn |1022
+train-clean-360/5012/80192/5012_80192_000009_000001.wav|aɪ ɡɹˈuː, dˈeɪ baɪ dˈeɪ, mˈoːɹ mˈuːdi, mˈoːɹ ˈɪɹɪɾəbəl, mˈoːɹ ɹᵻɡˈɑːɹdləs ʌvðə fˈiːlɪŋz ʌv ˈʌðɚz.|912
+train-clean-360/22/121148/22_121148_000023_000001.wav|fɔːɹ hˌaʊ mˌeɪk ɐ kˈɑːnfɪdˌɑːnt ʌv hˌɪm?|613
+train-clean-360/5968/55202/5968_55202_000070_000000.wav|bˈɜːtɹæm wˈɪʃt ðˈɛn hiː hæd nˌɑːt ˈæskt ðə kwˈɛstʃən; bˌʌt ˈɔːl hiː sˈɛd wʌz:|788
+train-clean-360/925/8141/925_8141_000014_000001.wav|ɡˈɑːd lˈʌvz mˌiː!"|1041
+train-clean-360/8527/281132/8527_281132_000006_000002.wav|æz hɐz ˈɔːlsoʊ bˌɪn sˈiːn, ðeɪ wɜːɹ ʌnsəksˈɛsfəl.|823
+train-clean-360/2230/148550/2230_148550_000020_000002.wav|ðˈɛn mˈɪsɪz vˈæn dᵻdʒˈɛn tˈɜːnd tə hɜː.|831
+train-clean-360/258/130878/258_130878_000062_000002.wav|kˈæptɪn nˈiːmoʊ ænd hɪz mˈɛn hæd kˈʌm tə bˈɛɹi ðɛɹ kəmpˈæniən ɪn ðɪs kəmjˈuːnəl ɹˈɛstɪŋ plˈeɪs ɔnðɪ ɪnæksˈɛsəbəl ˈoʊʃən flˈoːɹ!|939
+train-clean-360/6189/21305/6189_21305_000092_000008.wav|bᵻsˈaɪdz, hˌuː wˈɪʃt tə mˌeɪk ɐ hˈiəɹoʊ ʌv hˌɪm?|180
+train-clean-360/4278/13269/4278_13269_000012_000003.wav|aɪ hæv hæd ɐ bjˈuːɾifəl hˈaʊs tə lˈɪv ɪn, ðə mˈoʊst ɛkspˈɛnsɪv fˈuːd, klˈoʊðɪŋ ænd fˈɪzɪkəl plˈɛʒɚz.|957
+train-clean-360/7095/88484/7095_88484_000010_000002.wav|sˈaɪəns, ɔnðɪ ˈʌðɚ hˈænd, dʌznˌɑːt hˈɛzᵻtˌeɪt tə tˈɛɹ dˌaʊn ˈoʊld kənsˈɛpʃənz, ænd hɐz ˈoʊnli wˈʌn mˈoʊɾɪv, ðɪ ˈʌltᵻmət tɹˈuːθ.|962
+train-clean-360/278/127215/278_127215_000029_000009.wav|ˈiːtʃ əv ðˌɛm wʌz ɹᵻspˈɑːnsᵻbəl tə hɪz kˈʌntɹi, ˈiːtʃ əv ðˌɛm mˈʌst ˈænsɚ ɪf ɪŋkwˈaɪɚd ˌɪntʊ, ˈiːtʃ əv ðˌɛm mˈʌst ɛndˈʊɹ ɐbjˈuːs wɪð ɡˈʊd hjˈuːmɚ, ænd ˈɪnsələns wɪðˌaʊt ˈæŋɡɚ.|447
+train-clean-360/922/132300/922_132300_000049_000000.wav|hiː wʌz ɡˈeɪnɪŋ sˌʌm pɹəfˈɪʃənsi, haʊˈɛvɚ, hiː fˈɛlt.|1003
+train-clean-360/6388/64974/6388_64974_000016_000000.wav|"nˈoʊ, sˈʌn," ˈænsɚd mˈɪstɚ dˈɪnsmoːɹ, pˈæɾɪŋ hɪz ɹˈoʊzi tʃˈiːk, ænd sˈɔftli stɹˈoʊkɪŋ ˈɛlsiz hˈɛɹ, "ænd ɪɾ ɪz dʒˈʌst ðə sˈeɪm wɪð ɐ mˈæn hˌuː hɐz bˌʌt wˈʌn dˈɔːɾɚ."|1047
+train-clean-360/2494/156014/2494_156014_000025_000001.wav|ɐ nˈoʊbəl ænd ɡˈɑːdlaɪk kˈæɹɪktɚɹ ɪz nˌɑːɾə θˈɪŋ ʌv fˈeɪvɚ ɔːɹ tʃˈæns, bˌʌt ɪz ðə nˈætʃɚɹəl ɹɪzˈʌlt ʌv kəntˈɪnjuːd ˈɛfɚt ɪn ɹˈaɪt θˈɪŋkɪŋ, ðɪ ɪfˈɛkt ʌv lˈɔŋ tʃˈɛɹɪʃt ɐsˌoʊsɪˈeɪʃən wɪð ɡˈɑːdlaɪk θˈɔːts.|1102
+train-clean-360/8713/300047/8713_300047_000033_000002.wav|ˈoʊ, aɪ θˈɪŋk tə maɪsˈɛlf: ˈoʊld fˈoʊdʒi, ɪɾ ɪz tˈaɪm juː wɜː dˈɛd!bˌʌt ðɛɹ ɪz ɐ lˈɪɾəl vˈɔɪs ɪn maɪ sˈoʊl sˈɛz: dˈoʊnt bᵻlˈiːv ɪt; juː woʊnt dˈaɪ."|321
+train-clean-360/3274/167022/3274_167022_000050_000003.wav|tˈeɪk ðˌɛm tə ðə ɹᵻsˈɛpʃən hˈɔːl, ænd hˈoʊld ðˌɛm ðɛɹ tˈɪl aɪ sˈɪɡnəl fɹʌmðɪ ˈɔːdiəns hˈɔːl, ænd ðˈɛn hˈɜːd ðˌɛm ˈɪn."|85
+train-clean-360/7868/110705/7868_110705_000027_000005.wav|hɪz fˈɪɡjɚ bɪkˌeɪm ɹˈɛd, wˈaɪt, tɹænspˈæɹənt, dˈæzlɪŋɐ blˈeɪz ʌv ɪntˈɛns lˈaɪtɹˈoʊz, tɹˈɛmbəld, ænd dˌɪsɐpˈɪɹd.|780
+train-clean-360/8176/115046/8176_115046_000028_000001.wav|"aɪ dɪdnˌɑːt kˈætʃ ɪɾ ˈɔːl, nˈɔːɹ tə hˈuːm ɪt wʌz sˈɛnt."|492
+train-clean-360/2592/166433/2592_166433_000051_000000.wav|"ænd, ˈoʊ wˈɔltɚdˈɪkɪt hˈɜːɾɪt hˈɜːtænd fɚɹə bɹˈɛθ bᵻfˌoːɹ aɪ ɹˈæn tə hˌɪm ɪt wʌz lˈaɪklˈaɪk kˈʌmɪŋ fɹʌm ɐ wˈɜːld ɪnwˌɪtʃ ðɛɹwˌʌz nˈoʊ dɪsˈoːɹdɚ, nˈoʊ sˈɑːɹoʊ, nˈoʊ dˈaʊts, ɐ ɹˈɪðmɪk, hɑːɹmˈoʊniəs wˈɜːld ʌv lˈaɪt ænd mjˈuːzɪk, ˌɪntʊˌɪntʊ ɐ wˈɜːld ðæt wʌz lˈaɪk ɐ blˈæk ænd dˈɜːɾi kˈɪtʃən.|290
+train-clean-360/7495/102612/7495_102612_000047_000000.wav|"ɑːɹ mˈɪstɚ ɹˈɔsɪɾɚz sˈɜːkəmstˌænsᵻz sˈoʊ mˌʌtʃ ɹᵻdˈuːst?" hiː sˈɛd, dɹˈɔːɪŋ nˈɪɹɚ tə mˈɪsɪz ˈiːvlɪn.|193
+train-clean-360/1012/133424/1012_133424_000049_000000.wav|"ðə ɡˈeɪmz ˈʌp," hiː kɹˈaɪd, "ðoʊz bˈɔɪz hæv fˈaʊnd ɐ mˈʌðɚ."|803
+train-clean-360/7832/114468/7832_114468_000057_000000.wav|ðə lˈɪɾəl tɹˈuːp stˈɑːpt æt ðə kəmˈænd ʌv ɪts lˈiːdɚ ænd ˈɔːl lˈɪsənd ɪntˈɛntli.|265
+train-clean-360/7525/101265/7525_101265_000016_000006.wav|hˈɪdən ɪnðə kɹˈeɪdəl, juː wɪl fˈaɪnd ɐ ɡˈuːsᵻz wˈɪŋ: θɹˈoʊ ðɪs ˌaʊɾəv ðə wˈɪndoʊ, ænd aɪ wɪl biː wɪð juː dᵻɹˈɛktli; bˌʌt biː ʃˈʊɹ juː tˈɛl nˈoʊwˈʌn ʌv ˈɔːl ðə θˈɪŋz ðæt hæv bᵻfˈɔːlən juː.|1140
+train-clean-360/5876/10347/5876_10347_000038_000002.wav|mˈʌtʃ mˈoːɹ, ðˈɛɹfoːɹ, hæv ðə hˈɛvənli bˈɑːdiz ɐ lˈɪvɪŋ sˈoʊl.|869
+train-clean-360/6189/21305/6189_21305_000073_000000.wav|"hˌaʊ lˈaɪk ɐ wˈʊmən!|180
+train-clean-360/4278/13270/4278_13270_000036_000001.wav|maɪ fˈɑːðɚ lˈɔst hɪz mˈʌni ænd aɪ wʌz əblˈaɪdʒd tə ɡˌoʊ tə wˈɜːk.|957
+train-clean-360/1463/134463/1463_134463_000036_000000.wav|ɪɾ ɪz ðɪ ˈɛnd ʌv jʊɹ ɐfˈɛɹ,hiː sˈɛd hˈɔːɾili.|894
+train-clean-360/8820/294113/8820_294113_000012_000003.wav|æz hiː səksˈiːdz, hɪz sɑːmnˈæmbjuːlˌɪzəm ɡɹˈoʊz pɹəfˈaʊnd.|140
+train-clean-360/716/129581/716_129581_000029_000000.wav|aɪ dɪdnˌɑːt tˈɜːn maɪ hˈɛd tə fˈɑːloʊ hɜː.|842
+train-clean-360/6233/61741/6233_61741_000013_000001.wav|luːwˈiːz ˈoʊnli ɡˈeɪv ɛkspɹˈɛʃən tʊ ɐ sˈɪmɪlɚ kəndʒˈɛktʃɚ.|601
+train-clean-360/6371/63713/6371_63713_000132_000001.wav|hiː hɐdbɪn stɹˈoʊlɪŋ ɐbˌaʊt ðə ʃˈɑːp, ænd hæd kˈʌm tʊ ɐ stˈɑːp nˌɪɹ dˈɑːɹsiz wˈɜːk tˈeɪbəlɐ sˈɔːɹt ʌv bˈɛntʃ ɐɡˈɛnst ðə wˈɔːl, ænd bᵻhˌaɪnd wˈʌn ʌvðə ʃˈoʊkeɪsᵻz.|652
+train-clean-360/3157/168062/3157_168062_000059_000000.wav|"juː wˈʊdənt θˈɪŋk sˌoʊ baɪ tə mˈɑːɹoʊ ˈiːvnɪŋ," ˈɛstɚ sˈɛd, ʃˈɔːɹtli. "nˈoʊ, aɪ kˈænt ɡˈoʊ."|862
+train-clean-360/3638/758/3638_758_000033_000011.wav|wˌɛn ðeɪ bɪɡˈæn fˈɪlɪŋ ˌʌp ðə ɡɹˈeɪv, hiː sˈʌdənli pˈɔɪntᵻd ˈæŋʃəsli æt ðə fˈɔːlɪŋ ˈɜːθ ænd bɪɡˈæn tɹˈaɪɪŋ tə sˈeɪ sˈʌmθɪŋ, bˌʌt nˈoʊwˈʌn kʊd mˌeɪk ˈaʊt wʌt hiː mˈɛnt, ænd hiː stˈɑːpt sˈʌdənli.|751
+train-clean-360/7867/110742/7867_110742_000012_000005.wav|ðæt pˈiːɾɚ ɹˈʌɡ ɪz lˈɪvɪŋ ɪz hˈaɪli pɹˈɑːbəbəl, æz hiː wʌz ˈoʊnli tˈɛn jˈɪɹz ˈoʊldɚ ðɐn maɪsˈɛlf; ænd aɪ wʌz ˈoʊnli ˈeɪɾi lˈæst mˈɑːɹtʃ, ænd aɪɐm æz lˈaɪkli tə lˈɪv twˈɛnti jˈɪɹz lˈɔŋɡɚɹ æz ˌɛni mˈæn." hˈɪɹ aɪ pɚsˈiːvd ðæt mˈɪstɚ fˈɛlt wʌz ɪn hɪz dˈoʊɾɪdʒ, ænd aɪ dᵻspˈɛɹd ʌv ɡˈeɪnɪŋ ˌɛni ɪntˈɛlɪdʒəns fɹʌm hˌɪm ˌɔn wˌɪtʃ aɪ kʊd dᵻpˈɛnd.|433
+train-clean-360/249/121331/249_121331_000062_000001.wav|ʃiː tɹˈaɪd tə wˈɔːk ɐ lˈɪɾəl ɐhˈɛd, ʃiː tɹˈaɪd tə wˈɔːk ɐ lˈɪɾəl bᵻhˌaɪndbˌʌt ðeɪ stˈeɪd klˈoʊs, ðæt ðɛɹ ʃˌʊd biː nˈoʊ dˈaʊt hˈuːm ʃiː wʌz wɪð, tˈɔːkɪŋ ɪn lˈaʊd vˈɔɪsᵻz ʌv ðɛɹ fɹˈɛndz ɔnðə fˈʊtbɔːl tˈiːm, ʌntˈɪl ʃiː kʊd ˈɔːlmoʊst hˈɪɹ hɜːɹ ɐkwˈeɪntənsᵻz wˈɪspɚɹɪŋ:|184
+train-clean-360/7802/104394/7802_104394_000035_000001.wav|ˈɛɹɪk hæd nˈɛvɚ tˈeɪstᵻd hˈɑːt dʒˈɪndʒɚ kˈʊkiz bᵻfˈoːɹ, ænd wɛn nˈoːɹə ɡˈeɪv hˌɪm wˌʌn, ɐ bˈɪɡ ɹˈaʊnd wˈʌn ˈɔːl fɔːɹ hɪz ˈoʊn, hiː ˈɔːlmoʊst dˈænst wɪð dᵻlˈaɪt.|888
+train-clean-360/3114/170977/3114_170977_000032_000000.wav|ðˈɛn ðˈɪs, aɪ sˈɛd, wɪl biː ˌaʊɚ fˈɜːst pɹˈuːf; ænd ðɛɹ ɪz ɐnˈʌðɚ, wˌɪtʃ mˈeɪ ˈɔːlsoʊ hæv sˌʌm wˈeɪt.|253
+train-clean-360/3230/137483/3230_137483_000004_000003.wav|ˈæftɚ sˈʌpɚɹ aɪ plˈeɪd, stˈɪl ɪn pˈɑːɹtnɚʃˌɪp wɪð hɜː, wˈʌn ɐɡˈɛn, ænd wɛnt ɐwˈeɪ vˈɛɹi mˈʌtʃ ɪn lˈʌv.|775
+train-clean-360/480/126336/480_126336_000008_000001.wav|æt fˈɜːst ðə tɹˈeɪd wɛnt wˈɛl; fɔːɹ mˈɛni pˈiːpəl, sˈiːɪŋ sˈʌtʃ ɐ bjˈuːɾifəl wˈʊmən, wɛnt tə bˈaɪ hɜː wˈɛɹz, ænd pˈeɪd ðɛɹ mˈʌni wɪðˌaʊt θˈɪŋkɪŋ ʌv tˈeɪkɪŋ ɐwˈeɪ ðə ɡˈʊdz.|257
+train-clean-360/3945/890/3945_890_000011_000004.wav|ɐmˈɛɹɪkənz ɑːɹ pɚtˈɪkjʊlɚɹ ɪn ðoʊz mˈæɾɚz.|528
+train-clean-360/1417/1532/1417_1532_000023_000026.wav|smˈɔːl θˈiːvz, pˈɪkpˌɑːkɪts ænd ðə lˈaɪk, flˈɑːkt tə mˈɪstɚ dʒˈɑːɹvɪs æz ðɛɹ tɹˈaɪbəl lˈiːdɚ ænd pɹətˈɛktɚɹ ænd hiː pɹətˈɛktᵻd ðˌɛm.|596
+train-clean-360/8684/293663/8684_293663_000010_000002.wav|bˌʌt ðə kˈoːɹt wʌz fˈɪld wɪð ɐnˈʌðɚ mˈɑːb ʌv stɹˈʌɡlɪŋ pˈiːpəl, ænd ɪnðə dˈɑːɹknəs ðɛɹwˌʌz nˈoʊ pˌɑːsəbˈɪlᵻɾi ʌv dɪskˈʌvɚɹɪŋ ðə sˈiːkɹᵻt ʌv ɹˈeɪzɪŋ ɪt.|52
+train-clean-360/8498/287358/8498_287358_000016_000003.wav|sˌoʊ hiː ˈænsɚd:|795
+train-clean-360/5655/46267/5655_46267_000083_000002.wav|wˈʌn baɪ wˈʌn ðə lˈaɪts wɛnt ˈaʊt ɪn ˈɛvɹi hˈoʊm ɪnðə vˈæli, ænd ˈoʊnli ðə stˈɑːɹz wɜː lˈɛft ʃˈaɪnɪŋ, ɪnðə kˈoʊld wˈɪntɹi skˈaɪ.|848
+train-clean-360/6458/61323/6458_61323_000089_000000.wav|ðə tˈʌnəl mˈeɪ ɹˈʌn fɹʌm ɐ kˈæsəl tə ðə sˈiːʃoːɹ, fɹʌm ɐ kˈeɪv ˌɔn wˈʌn sˈaɪd əvə hˈɪl tʊ ɐ kˈeɪv ɔnðɪ ˈʌðɚ, ɔːɹ fɹʌm ɐ sˈiːʃoːɹ kˈeɪv tʊ ɐ dˈɪstənt ˈaɪlənd.|1019
+train-clean-360/2393/144496/2393_144496_000063_000002.wav|ɪf ˌɛni ɡˈʊd ʃˌʊd kˈʌm ʌv mˌiː, aɪ mˌaɪt bɪɡˈɪn tə hˈoʊp; fɔːɹ nˈʌθɪŋ bˌʌt hˈɑːɹm hɐz ˈɛvɚ kˈʌm ʌv maɪ dˈiːdz jˈɛt.|512
+train-clean-360/3009/10327/3009_10327_000027_000002.wav|hˈɛns ɪt wʊd fˈɑːloʊ ðˈætwˌʌn pˈɑːɹt ʌv mˈæɾɚ ɹᵻsˈiːvz ðə kˈɔːɹpoːɹˌiəl fˈɔːɹm, ænd ɐnˈʌðɚ ɹᵻsˈiːvz ðə spˈɪɹɪtʃˌuːəl fˈɔːɹm.|494
+train-clean-360/836/130900/836_130900_000005_000001.wav|aɪ wɛnt ˌɪntʊ ðə lˈaʊndʒ.|927
+train-clean-360/561/126313/561_126313_000015_000001.wav|ðɪ ˈænt kˈɪŋ hæd kˈʌm ɪnðə nˈaɪt wɪð θˈaʊzəndz ænd θˈaʊzəndz ʌv ˈænts, ænd ðə ɡɹˈeɪtfəl kɹˈiːtʃɚz hæd baɪ ɡɹˈeɪt ˈɪndʌstɹi pˈɪkt ˌʌp ˈɔːl ðə mˈɪlɪt sˈiːd ænd ɡˈæðɚd ðˌɛm ˌɪntʊ ðə sˈæks.|923
+train-clean-360/4145/34497/4145_34497_000010_000001.wav|"ænd æz aɪ ɡˌoʊ ˈɔn, aɪ lˈʌv hɜː mˈoːɹ ænd mˈoːɹ.|322
+train-clean-360/3728/105398/3728_105398_000024_000001.wav|ʃˈoʊvɪlˌɪn hæd tˈoʊld hɜː nˈʌθɪŋ, ɪt wʌz tɹˈuː; bˌʌt ʃiː ɹᵻmˈɛmbɚd hˌaʊ sɑːɹkˈæstɪk ænd ˈiːvəl hiː lˈʊkt wɛn ʃiː tˈʊk fˈaɪnəl lˈiːv ʌv hˌɪm ˈæftɚ ðə bˈɔːl.|916
+train-clean-360/3816/290923/3816_290923_000026_000003.wav|ðɪs pˈiːs ʌv mˈɛɾəl, wˌɛn nˈaɪsli fˈɪɾᵻd ˌɪntʊ ɐ fˈaɪl hˈændəl, wɪl ˈænsɚɹ ˈɔːl ðə pˈɜːpəsᵻz ʌvðə blˈuːɪŋ pˈæn ænd pɹˈɛzənts kwˈaɪt ɐ nˈiːt ɐpˈɪɹəns.|709
+train-clean-360/8713/300047/8713_300047_000018_000002.wav|ˈiːvən ðɪ ˈɛdʒuːkˌeɪɾᵻd klˈæs duːnˌɑːt ɹˈaɪz əbˌʌv vʌlɡˈæɹᵻɾi; ðə lˈɛvəl ʌv ðɛɹ dɪvˈɛləpmənt, aɪ əʃˈʊɹ juː, ɪz nˌɑːɾə bˈɪt hˈaɪɚ ðɐn ðæt ʌvðə lˈoʊɚɹ ˈɔːɹdɚz."|321
+train-clean-360/2194/141235/2194_141235_000017_000001.wav|"dˈɪs hɐz sˌʌm spˈeɪsɚz æz wˈɛl æz ðə kˈoʊbɔlt bˈɑːmzðˌoʊ ðiːz ˌɑːɹnt ðə ɹˈiːəl θɹˈɛt.|231
+train-clean-360/7515/100431/7515_100431_000007_000011.wav|ˌɪndˈiːd, ðə lˈaɪt ɪz stˈɪl ðɛɹ fɔːɹ ðoʊz hˌuː lˈʊk.|19
+train-clean-360/953/130625/953_130625_000084_000003.wav|ɪts ðə nˈætʃɚɹəl, ɚɹˈɪdʒɪnəl sˈɪn ðæt ɪz bˈɔːɹn ɪn hˌɪm ðæt mˌeɪks hˌɪm dˈuː θˈɪŋz lˈaɪk ðˈæt.|371
+train-clean-360/2137/131751/2137_131751_000022_000011.wav|ɪmpˌɑːsəbˈɪlᵻɾi ʌv "sʌlfˈeɪʃən." ˈeɪt.|914
+train-clean-360/4138/11079/4138_11079_000041_000001.wav|ɪts ɐ bˈɪt əvə tˈaʊəl hˈʌŋ fɹʌm ɐ pɚtˈɪkjʊlɚ wˈɪndoʊ; ænd wɛn aɪ sˈiː ɪɾ aɪ sˈeɪ tə maɪsˈɛlf, θˈæŋk ɡˈɑːd! ɐnˈʌðɚ vˈɔɪɪdʒ sˈeɪfli dˈʌn ænd nˈoʊ hˈɑːɹm kˈʌm ʌv ɪt.ɪts ɐ sˈæd kˈaɪnd ʌv wˈɜːk fɚɹə mˈæn tə ɡˌoʊ ˈɔf fɚɹə twˈɛnti fˈoːɹ dˈeɪz kɹˈuːz lˈiːvɪŋ ɐ sˈɪk wˈaɪf ˌɔn ʃˈoːɹ bᵻhˈaɪnd hˌɪm.|336
+train-clean-360/3825/134160/3825_134160_000006_000000.wav|"ˈɑː, ʃiːl lˈaɪk ˈɛm, aɪ wˈɔːɹn jˈiː!|132
+train-clean-360/114/129317/114_129317_000069_000000.wav|wˈʌn bjˈuːɾifəl ˈiːvnɪŋ, wˌɛn ðə fˈɜːst ʃˈeɪdz ʌv twˈaɪlaɪt wɜː bɪɡˈɪnɪŋ tə sˈɛɾəl əpˌɑːn ðɪ ˈɜːθ, ˈɑːlɪvɚ sˈæt æt ðɪs wˈɪndoʊ, ɪntˈɛnt əpˌɑːn hɪz bˈʊks.|882
+train-clean-360/2481/156738/2481_156738_000011_000004.wav|ˈɔːl wɜː ɹˈɛdi ænd wˈɪlɪŋ tə dˈuː; bˌʌt, ɐlˈæs, ðɪ ˈɑːbstəkəlz wˌɪtʃ hæd pɹɪvˈɛntᵻd mˈɪstɚ ɹˈiːd ɡˌɛɾɪŋ mˈɛn fɚðə mˈaʊntɪn wˈɜːk stˈɪl ɹᵻmˈeɪnd təbi ˌoʊvɚkˈʌm.|465
+train-clean-360/7241/90850/7241_90850_000017_000000.wav|ɐ mˈʌnθ pˈæst, ɐn ʌnhˈæpi mˈʌnθ ɪnwˌɪtʃ ðɛɹwˌɜː nˈoʊ tˈaɪdɪŋz fɹʌmðə kˈɪŋ.|337
+train-clean-360/3032/19361/3032_19361_000069_000005.wav|bˌʌt dˈɪd ɪt sˈæɾɪsfˌaɪ ðə lˈɔː ʌv spˈiːd?|142
+train-clean-360/3230/137483/3230_137483_000080_000000.wav|"juː ɑːɹ ɡɹˈeɪtli mɪstˈeɪkən ɪf juː ɪmˈædʒɪn ðæt stɛfˈɑːni wɪl fˈaɪt jʊɹ bɹˈʌðɚ; stɛfˈɑːni ɪz ɐ kˈaʊɚd hˌuː wɪl nˈɛvɚɹ ɛkspˈoʊz hɪmsˈɛlf tʊ ɐn ˈɑːnɚɹəbəl dˈɛθ."|775
+train-clean-360/716/129583/716_129583_000014_000000.wav|"wiː jˈuːʒuːəli hæv ˌaʊɚ mˈiːlz ɪn hˈɪɹ," sˈɛd mɑːntɡˈɑːmɚɹi, ænd ðˈɛn, æz ɪf ɪn dˈaʊt, wɛnt ˈaʊt ˈæftɚ ðɪ ˈʌðɚ.|842
+train-clean-360/7518/86741/7518_86741_000043_000000.wav|"bᵻfˌoːɹ ɔːɹ ˈæftɚ, wɪtʃˈɛvɚ juː plˈiːz."|255
+train-clean-360/4064/77779/4064_77779_000018_000000.wav|ðɪ ˈɪdɪət lˈæft.|463
+train-clean-360/5731/50778/5731_50778_000008_000001.wav|lˈæɹi!" ɡˈʊd ɡɹˈeɪʃəs, wˌɛɹ wʌz lˈæɹi?|674
+train-clean-360/7949/39970/7949_39970_000008_000001.wav|ɪn sˌʌm lˈiːɡəl tɹænsˈækʃənz ɐ mˈæn hɐz tə pɹˈuːv "ˈɪntɹɛst" ɪn ˈɔːɹdɚ tə hæv ɐ stˈændɪŋ æt kˈoːɹt.|629
+train-clean-360/7910/294690/7910_294690_000014_000000.wav|maɪ ɡˈʊd mˈʌðɚ dˈɪd ˈɔːl ðætðə mˈoʊst kəmpˈæʃənət kˈaɪndnəs kʊd dˈuː ɪn hɜː pəzˈɪʃən tə kˈʌmfɚt mˌiː.|407
+train-clean-360/3869/699/3869_699_000037_000000.wav|"hiːd kˈɪl mˌiː fˈɜːst ʌv ˈɔːl, lˈaɪk ɐ flˈaɪ.|487
+train-clean-360/7704/106974/7704_106974_000034_000000.wav|ðə mˈeɪdʒɚ skˈænd ðə bˈɔɪ fɹʌm hˈɛd tə fˈʊt, ðˈɛn ˈænsɚd ɛmfˈæɾɪkli, aɪ wˈʊdənt tˈeɪk ɐ bˈɔɪ wɪð ɐ fˈeɪs lˈaɪk ðæt fɚɹə ɡˈʊd dˈiːl!|707
+train-clean-360/16/122828/16_122828_000032_000000.wav|"aɪm ɐfɹˈeɪd ɪt woʊnt bˈɛɹ maɪ wˈeɪt," ʃiː sˈɛd æz ʃiː dʒˈɪndʒɚli stˈɛpt ɔnðə ɹˈuːf.|66
+train-clean-360/55/121068/55_121068_000049_000000.wav|"ˈoʊ, ɪɾ ɪz jˈuːsləs tʊ ɪŋkwˈaɪɚ," ɹᵻtˈɜːnd ðə kˈaʊnt; "pɚhˈæps, ˈæftɚɹ ˈɔːl, hiː wʌz nˌɑːt ðə mˈæn juː sˈiːk fɔːɹ.|612
+train-clean-360/7540/101258/7540_101258_000042_000000.wav|aɪ dˈɪd; ðɪs ˈoʊld wˈaɪd spɹˈɛdɪŋ ˈoʊk.|415
+train-clean-360/7520/258986/7520_258986_000049_000000.wav|ɪɾ ɪz ˈɛvɪdənt ðæt mˈoʊst əv ðiːz ɹˈiːzənz ɐplˈaɪ tʊ ɐ sˈɪŋɡəl lˈoʊkəl fˈæktɚɹi wɪð fˈɑːɹ ɡɹˈeɪɾɚ fˈoːɹs ðɐn tʊ ɐ fˌɛdɚɹˈeɪʃən ʌv lˈoʊkəli skˈæɾɚd plˈænts. ɪt wʌz wˈʌns bᵻlˈiːvd ðætðə ɡɹˈoʊɪŋ dˌɪsɐdvˈæntɪdʒᵻz ʌv lˈɑːɹdʒ ˈɪndʌstɹi wʊd sˈɛt ɐn ˈɜːli lˈɪmɪt tə kənsˌɑːlɪdˈeɪʃən.|233
+train-clean-360/159/135897/159_135897_000022_000002.wav|æz sˈuːn æz aɪ wʌz kˈeɪpəbəl ʌv ˌʌndɚstˈændɪŋ ɪt, ʃiː ɛksplˈeɪnd tə mˌiː ˈɔːl ðə pˈæsɪdʒᵻz ʌv ðɪs ˈɛksələnt bˈʊk, ænd ɪnfjˈuːzd pˈaɪəɾi ˌɪntʊ maɪ mˈaɪnd, ʌnnˈoʊn tə maɪ fˈɑːðɚ ɔːɹ ˌɛni ˈʌðɚ pˈɜːsən.|264
+train-clean-360/7120/76055/7120_76055_000010_000000.wav|"ʃiː ɪz ɪn wˈeɪlz wɪð hɜː pˈiːpəl.|930
+train-clean-360/3118/5912/3118_5912_000012_000002.wav|wiː kænˈɑːt fˈɔːɹm tʊ aʊɚsˈɛlvz ɐ dʒˈʌst aɪdˈiə ʌvðə tˈeɪst əvə pˈaɪn ˈæpəl, wɪðˌaʊt hˌævɪŋ ˈæktʃuːəli tˈeɪstᵻd ɪt.|843
+train-clean-360/7802/104398/7802_104398_000005_000001.wav|jʊɹ ɪt!" dʒˈʌst ðə sˈeɪm.|888
+train-clean-360/8643/298549/8643_298549_000057_000002.wav|juː wɪl kˈɔːl mˌiː ɪf ðɛɹ ɪz ˌɛni ɐlˈɑːɹm. wˌʌt kæn juː ɡˈɪv mˌiː fɔːɹ sˈʌpɚjuː?"|1045
+train-clean-360/7828/105179/7828_105179_000024_000000.wav|"ɪɾ ɪz ˈɔːl ðə sˈeɪm," ɹᵻplˈaɪd tˈɑːɹzən; "ðə lˈaɪənz wʊdhɐv fˈaʊnd ˌʌs hˈɪɹ.|460
+train-clean-360/3361/1150/3361_1150_000013_000006.wav|ɪɾ ɪz ɹˈiəli tˈuː dɪstɹˈɛsɪŋ.|808
+train-clean-360/1335/27593/1335_27593_000007_000000.wav|fɹˈɑːɡz ˌɑːlæ puːlˈɛt |446
+train-clean-360/274/121392/274_121392_000063_000011.wav|dˈɪfɹənt ɪn jʊɹ fˈeɪt fɹʌm ˌʌs, juː wɪl hæv ɐ kˈɪŋ wɪðˌaʊt ɐ mˈɪnɪstɚ, hˈuːm juː mˈeɪ sˈɜːv, lˈʌv, ɹᵻspˈɛkt.|1054
+train-clean-360/4138/11079/4138_11079_000041_000000.wav|"ʃiːl biː ɔnðə lˈʊkaʊt wɛn ðə stˈiːmɚ kˈʌmz ˈɪn," sˈɛd ðə kˈæptɪn. "ðɛɹz ɐ sˈɪɡnəl wiːv ɚɹˈeɪndʒd wˌɪtʃ mˈiːnz ˈɔːlz wˈɛl,ænd wɛn wiː ɡɛt ˌʌp ðə ɹˈɪvɚɹ ɐ lˈɪɾəl wˈeɪ aɪ ˈɔːlweɪz lˈʊk tə sˈiː ɪf ɪts flˈaɪɪŋ.|336
+train-clean-360/288/131218/288_131218_000016_000001.wav|ɪf aɪ wɜː hɪz ˈoʊn hˈɔːɹs, hiː wʊd wˈɜːk mˌiː æz hˈɑːɹd æz hiː dˈʌz juː."|306
+train-clean-360/2853/164187/2853_164187_000020_000000.wav|"dˈiːvə, juːv nˌɑːt bˌɪn hˈoːɹdɪŋ, hˈæv juː?" ˈæskt mˈɪs mˈæp wɪð ɡɹˈeɪt æŋzˈaɪəɾi.|645
+train-clean-360/3584/74477/3584_74477_000040_000001.wav|ɪt sˈiːmd nˈʌθɪŋ tə ɡɛt hɜːsˈɛlf tə ʃˈoːɹ, nˈaʊ ðætðə ɹᵻspˌɑːnsəbˈɪlᵻɾi ʌv kˈɪɾi ænd kˈɪɾiz wˈeɪt wɜː tˈeɪkən fɹʌm hɜː.|590
+train-clean-360/2481/163597/2481_163597_000026_000002.wav|ænd ˈæftɚ flˈaɪɪŋ sˌʌm dˈɪstəns ʃiː bɹˈɔːt hˌɪm tə hɪz dʒˈɜːniz ˈɛnd, tˈʊk lˈiːv ʌv hˌɪm, ænd flˈuː ɐwˈeɪ bˈæk.|465
+train-clean-360/1472/142848/1472_142848_000017_000001.wav|ɪt wʊd biː ɪmpˈɑːsᵻbəl, ɪnðə spˈeɪs æɾ ˌaʊɚ kəmˈænd, tʊ ɪnˈuːmɚɹˌeɪt ðə vˈɛɹiəs mˈoʊdz ɐdˈɑːptᵻd ɪn dˈɪfɹənt kˈʌntɹiz fɔːɹ "mˌeɪkɪŋ kˈɔfi;" ðæt ˈɪz, ðə fɹˈeɪz kˈɑːmənli ˌʌndɚstˈʊd tə mˈiːn ðə kəmplˈiːt pɹˌɛpɚɹˈeɪʃən ʌv ðɪs dᵻlˈɪʃəs bˈɛvɚɹɪdʒ fɔːɹ dɹˈɪŋkɪŋ.|152
+train-clean-360/3118/5909/3118_5909_000029_000003.wav|θɹˈiː ʌvðə ɹˈuːlz wˌɪtʃ dɪtˈɜːmɪn pɹˈɑːpɚɾi sˈɛkt.|843
+train-clean-360/882/123267/882_123267_000022_000000.wav|ɪt wʌz wˈɜːθ wˌaɪl dᵻbˈeɪɾɪŋ ðɪs kwˈɛstʃən, ænd aɪ dˈɪd dᵻbˈeɪt ɪt.|421
+train-clean-360/8820/294120/8820_294120_000012_000004.wav|biː slˈeɪvz tə hˌɪm ænd hɪz mˈʌni?|140
+train-clean-360/5400/3587/5400_3587_000064_000001.wav|ænd ðˈɛn ʃiː tˈoʊld hˌɪm hˌaʊ ʃiːd fɚɡˈɑːʔn̩ tʃˈɛɹiz sˈiːd, ænd ˈɔːl ɐbˈaʊt ɪt.|715
+train-clean-360/7169/89735/7169_89735_000019_000000.wav|dᵻspˈaɪt ðə lˈeɪtnəs ʌvðɪ ˈaʊɚ, wˌɪtʃ hæd baɪ nˈaʊ tˈɜːnd tˈɛn əklˈɑːk, ðə ɹˈɛstɹɑːnt hæd ɐ dˈʌzən tˈeɪbəlz ɔːɹ sˌoʊ ɪnðə sˈɜːvɪs ʌv ɡˈɛsts plˈɛzəntli ɛŋɡˈeɪdʒd ɪn lˈɛŋθənɪŋ ˈaʊt ɐn ɐɡɹˈiːəbəl ˈiːvnɪŋ wɪð dɪzˈɜːt, kˈɔfi, lᵻkˈɜːz ænd sˌɪɡɚɹˈɛts.|334
+train-clean-360/1571/138486/1571_138486_000003_000000.wav|ðˈɛn fˈɑːloʊd klˈɔːzᵻz pɹəvˈaɪdɪŋ ðˌæɾə klˈɜːdʒɪmən mˈaɪt, ɛksˈɛpt ɪn ɐ fjˈuː tʃˈɜːtʃᵻz ʌv pɪkjˈuːlɪɹ dˈɪɡnᵻɾi, wˈɛɹ ðə sˈɜːplɪs ɔːɹ nˌɑːt æz hiː θˈɔːt fˈɪt, ðætðə sˈaɪn ʌvðə kɹˈɔs mˌaɪt biː oʊmˈɪɾᵻd ɪn bˈæptɪzəm, ðæt tʃˈɪldɹən mˌaɪt biː kɹˈɪsənd, ɪf sˈʌtʃ wɜː ðə wˈɪʃ ʌv ðɛɹ pˈɛɹənts, wɪðˌaʊt ɡˈɑːdfɑːðɚz ɔːɹ ɡˈɑːdmʌðɚz, ænd ðæt pˈɜːsənz hˌuː hæd ɐ skɹˈuːpəl ɐbˌaʊt ɹᵻsˈiːvɪŋ ðə jˈuːkɚɹˌɪst nˈiːlɪŋ mˌaɪt ɹᵻsˈiːv ɪt sˈɪɾɪŋ.|401
+train-clean-360/5246/5084/5246_5084_000007_000002.wav|ðɪs hiː ɛmplˈɔɪd æz aɪ wʌz ɡˈɪvən tʊ ˌʌndɚstˈænd baɪ sˌʌm ˈɪŋkwɚɹiz wˌɪtʃ aɪ mˌeɪd ɔnðə ɹˈoʊd ɪn meɪntˈeɪnɪŋ ðə pɹˈɑːdɪɡəl hˌɑːspɪtˈælᵻɾi əvə nˈɔːɹðɚn skwˈaɪɚɹ ʌvðə pˈiəɹɪəd, wˌɪtʃ hiː dˈiːmd ᵻsˈɛnʃəl tə hɪz fˈæmɪli dˈɪɡnᵻɾi.|376
+train-clean-360/1448/135894/1448_135894_000039_000000.wav|ðə wˈʊlf hæd ɪnðə mˈiːnwaɪl tɹænsfˈɔːɹmd ɪtsˈɛlf ˌɪntʊ ɐ kˈɑːk, ænd nˈaʊ fˈɛl tə pˈɪkɪŋ ˌʌp ðə sˈiːdz ʌvðə pˈɑːmɪɡɹˌæneɪt wˈʌn ˈæftɚɹ ɐnˈʌðɚ; bˌʌt fˈaɪndɪŋ nˈoʊmˌoːɹ, hiː kˈeɪm təwˈɔːɹdz ˌʌs wɪð hɪz wˈɪŋz spɹˈɛd, mˌeɪkɪŋ ɐ ɡɹˈeɪt nˈɔɪz, æz ɪf hiː wʊd ˈæsk ˌʌs wˈɛðɚ ðɛɹwˌɜːɹ ˌɛni mˈoːɹ sˈiːd.|1007
+train-clean-360/3733/140718/3733_140718_000055_000005.wav|θˈɪŋz, aɪ hˈoʊp, mˈʌst biː bˈɛɾɚ ðɐn juː ɛkspˈɛkt.|192
+train-clean-360/612/121766/612_121766_000039_000002.wav|ɪɾ ɪz tə hɜː, nˌɑːt tə mˌiː, juː hæv dˈʌn ðə ɹˈɔŋ.|1093
+train-clean-360/318/124164/318_124164_000002_000000.wav|hiː wʌz sˈɪɹiəsli kənsˈɜːnd ðˌæɾə kˈɔːz ʌv sˌoʊ lˈɪɾəl ɐdvˈæntɪdʒ tʊ ˈɛnɪwˌʌn ʃˌʊd biː fˈɔːɹwɚdᵻd æt ðə sˈoʊl ɛkspˈɛns ʌv hɪz bɹˈʌðɚɹ ɪn lˈɔː, ænd hiː wʌz dɪtˈɜːmɪnd, ɪf pˈɑːsᵻbəl, tə fˈaɪnd ˈaʊt ðɪ ɛkstˈɛnt ʌv hɪz ɐsˈɪstəns, ænd tə dɪstʃˈɑːɹdʒ ðɪ ˌɑːblɪɡˈeɪʃən æz sˈuːn æz hiː kˈʊd.|217
+train-clean-360/511/131226/511_131226_000019_000000.wav|ðˈɛn juː hˈævənt stˈʌdid hɪpnˈoʊsɪs.|1104
+train-clean-360/3379/132601/3379_132601_000071_000010.wav|bˈɑːnæk, ɪf ɪt hɐdbɪn pˈɑːsᵻbəl fɔːɹ hˌɪm tə fɚɡˈɛt ðə bənˈɛvələnt vˈælɐŋkˌoːɹt, wʊdhɐv wˈɪʃt ðæt ˈɛmᵻli mˌaɪt ɐksˈɛpt ðə dʒˈʌst dˈuː pˈɔnt.|83
+train-clean-360/2401/144485/2401_144485_000073_000002.wav|wiː ɛɡzˈɔːɹɾᵻd hˌɪm təbi ɹˈɛzəlˌuːt ɪn ðˈɪs, ænd lˈɛft maɪ ˈænt tʊ əbzˈɜːv hˌɪm.|534
+train-clean-360/6499/57667/6499_57667_000016_000003.wav|tˈeɪkɪŋ ˈaɪɚlənd ɐkˈoːɹdɪŋ tə ðə ɹˌɛdʒɪstɹˈeɪʃən dᵻvˈɪʒənz, ðə pɹəpˈoːɹʃən ʌv ɪlədʒˈɪɾᵻmət bˈɜːθs vˈɛɹiz fɹʌm sˈɪks pˈɔɪnt tˈuː tə wˈʌn pˈɔɪnt θɹˈiː.|867
+train-clean-360/6620/283138/6620_283138_000005_000002.wav|nˈoʊ tˈaɪm kæn ɪfˈeɪs ðə kɹˈuːəl aɪdˈiəz əvə mˈænz ˈoʊn fˈuːlɪʃ kˈɑːndʌkt, ɔːɹ ʌv ɐfɹˈʌnts, wˌɪtʃ kˈaʊɚdɪs ɔːɹ ɪmpjˈuːdəns hɐz bɹˈɔːt əpˌɑːn hˌɪm.|470
+train-clean-360/5622/44585/5622_44585_000028_000003.wav|ɪf ɪt wɜː, ɪt wʊd biː θɹˈoʊn ɐwˈeɪ, bɪkˈʌz ɪt wʊd kˈɪl ˌaʊɚ ɡɹˈeɪɾɪst dʒˈɔɪðə dᵻlˈaɪt ʌv ɐkwɪsˈɪʃən.|849
+train-clean-360/5660/101884/5660_101884_000027_000009.wav|wˈɛɹ, ænd hˌaʊ kʊd ʃiː dˈuː mˈoːɹ ɡˈʊd ɪnðə wˈɜːld ðɐn ɹˈaɪt hˈɪɹ wɪð ðɪs stɹˈɔŋ, lˈʌvɪŋ hˈɑːɹt tə hˈɛlp hɜː?...|635
+train-clean-360/8222/274378/8222_274378_000003_000006.wav|ðə fɹˈʌnt ʌvðə bˈæɾəl wʌz nˈaʊ ɛɡzˈæktli kˈaʊntɚtʃˌeɪndʒd; ænd ˈiːtʃ ˈɑːɹmi ˈɑːkjʊpˌaɪd ðə ɡɹˈaʊnd wˌɪtʃ hɐdbɪn pəzˈɛst baɪ ðɪ ˈɛnəmi æt ðə bɪɡˈɪnɪŋ ʌvðə dˈeɪ.|883
+train-clean-360/500/125123/500_125123_000037_000003.wav|splˈɛndɪd bɹˈeɪslɪt, pɹədˈuːst baɪ vɛnˈɪɹɪŋ bᵻfˌoːɹ ɡˌoʊɪŋ dˈaʊn, ænd klˈæspt əpˌɑːn ðɪ ˈɑːɹm ʌv bɹˈaɪd.|82
+train-clean-360/8820/294113/8820_294113_000004_000001.wav|ðə flˈɛʃ ænd blˈʌd bˈɑːdi ʌv mˈæn həznɑːt tʃˈeɪndʒd ɪnðə lˈæst sˈɛvɹəl θˈaʊzənd jˈɪɹz.|140
+train-clean-360/93/124557/93_124557_000015_000001.wav|ðə mˈæstɚ sˈɛd, wˌʌt ɪz ɪt tə swˈeɪ ɐ kˈɪŋdəm baɪ kˈɜːɾiəs jˈiːldɪŋ?|983
+train-clean-360/7910/294690/7910_294690_000005_000003.wav|wiː hæv nˈoʊ hˈoʊm, dʒˈɔːɹdʒ, ænd nˈoʊ tʃˈɔɪs bˌʌt tə ɡˈoʊ wɪð hˌɪm."|407
+train-clean-360/7828/105179/7828_105179_000012_000002.wav|"wˌʌt ɪz ɪt?" ˈæskt ðə ɡˈɜːl.|460
+train-clean-360/7933/113273/7933_113273_000000_000003.wav|bˌʌt fɚɹə lˈɔŋ tˈaɪm kwˈɪlp kʊd ɡɛt nˈoʊ tɹˈeɪs.|819
+train-clean-360/6373/65772/6373_65772_000006_000001.wav|ɪn ɐ vˈɛɹi fjˈuː mˈɪnɪts ɪɾ ɚɹˈaɪvd nˌɪɹ ɪnˈʌf təbi ˈækjʊɹətli dɪsˈɜːnd.|543
+train-clean-360/1446/122614/1446_122614_000051_000005.wav|jʊɹ nˈeɪm wɪl nˈɛvɚ biː mˈɛnʃənd ɐɡˈɛn ɪn jʊɹ tɹˈaɪbɪɾ ɪz ɔːlɹˌɛdi fɚɡˈɑːʔn̩."|745
+train-clean-360/2127/138047/2127_138047_000009_000000.wav|"sˈɛnɚ," sˈɛd sˈæntʃoʊ, "ɪɾ ɪz maɪ bᵻlˈiːf ɪts ɐ ɡˈʊd θˈɪŋ təbi ɪn kəmˈænd, ɪf ɪts ˈoʊnli ˌoʊvɚɹ ɐ dɹˈoʊv ʌv kˈæɾəl."|719
+train-clean-360/4519/80189/4519_80189_000013_000002.wav|ðɪs sˈɛmɐfˌoːɹ ˈɑːɹm ɹᵻmˈeɪnd ɹˈɪdʒɪd fɚɹə sˈɛkənd, θɹˈɛʔn̩ɪŋ; ðˈɛn ɪt vˈaɪbɹeɪɾᵻd wɪð ɪŋkənsˈiːvəbəl ɹæpˈɪdᵻɾi, fˈeɪntɪŋ.|776
+train-clean-360/54/121080/54_121080_000038_000000.wav|"jˈɛs," sˈɛd ʃˈæɾoʊ ɹᵻnˈɔːd, "ðiːz ɪtˈæliənz ɑːɹ wˈɛl nˈeɪmd ænd bˈædli dɹˈɛst."|251
+train-clean-360/2238/121413/2238_121413_000034_000000.wav|"bˌʌt ɪf hiː biː ɐ spˈaɪ"|282
+train-clean-360/4744/31668/4744_31668_000003_000003.wav|ɪt wʌz nˌɑːt ˈoʊnli ɪn hɜː mˈaɪnd; ɪɾ ɛɡzˈɪstᵻd ɐpˈɑːɹt fɹʌm ˌɛni mˈɪɹ mˈuːd; ɐ sˈɛpɹət fˈɪɹ ðæt wˈɔːkt ɐlˈoʊn; ɪt kˈeɪm ænd wˈɛnt, jˈɛt wɛn ɪt wɛntwɛnt ˈoʊnli tə wˈɑːtʃ hɜː fɹʌm ɐnˈʌðɚ pˈɔɪnt ʌv vjˈuː.|560
+train-clean-360/7314/93277/7314_93277_000028_000001.wav|"wˌʌt ɐ smˈɔːl ˈɛɹʃɪp."|215
+train-clean-360/93/123172/93_123172_000024_000000.wav|pˌɛnsɪlvˈeɪniə kɹˈiːm tʃˈiːz.|983
+train-clean-360/5684/46243/5684_46243_000010_000005.wav|nˌɛvɚðəlˈɛs, ɪɾ ɪz pɹˈɑːbəbəl ðæt kənspˈɪkjuːəs kˈʌlɚz ɑːɹ ˌɪndɚɹˈɛktli bˌɛnɪfˈɪʃəl tə mˈɛni spˈiːsiːz, æz ɐ wˈɔːɹnɪŋ ðæt ðeɪ ɑːɹ ʌnpˈæləɾəbəl.|643
+train-clean-360/6371/63713/6371_63713_000121_000001.wav|aɪ nˈɛvɚ mˌeɪk ɐ stˈeɪtmənt, ðˌoʊ, ʌntˈɪl ˈæftɚ ðɪ ˈɔːtɑːpsi.|652
+train-clean-360/3357/28375/3357_28375_000036_000001.wav|lˈʌkʃɚɹi, baɪ dᵻɡɹˈiːz ɡˌɛɾɪŋ ðə bˈɛɾɚɹ ʌv dˈiːsənsi, ðə mˈɛn ænd wˈɪmɪn æt lˈæst bˈeɪðd pɹəmˈɪskjuːəsli təɡˈɛðɚ.|895
+train-clean-360/101/126859/101_126859_000013_000001.wav|"sˌoʊ juː ɑːɹ kˈɔːt ɐɡˈɛn!|406
+train-clean-360/718/129597/718_129597_000045_000001.wav|bˌʌt wɪð ɐ sˈɜːʔn̩ lˈæk ʌv pɹˈæktɪkəl sˈɛns wˌɪtʃ hɐz ˈɔːlweɪz bˌɪn maɪ bˈeɪn, aɪ hæd mˌeɪd ɪɾ ɐ mˈaɪl ɔːɹ mˈoːɹ fɹʌmðə sˈiː; ænd bᵻfˌoːɹ aɪ hæd dɹˈæɡd ɪt dˌaʊn tə ðə bˈiːtʃ ðə θˈɪŋ hæd fˈɔːlən tə pˈiːsᵻz.|955
+train-clean-360/829/123191/829_123191_000077_000003.wav|aɪ kæn tˈiːtʃ.|373
+train-clean-360/6574/70756/6574_70756_000014_000000.wav|"juː swˈɛɹ," aɪ sˈɛd, "təbi hˈɑːɹmləs; bˌʌt hæv juː nˌɑːt ɔːlɹˌɛdi ʃˈoʊn ɐ dᵻɡɹˈiː ʌv mˈælɪs ðæt ʃˌʊd ɹˈiːzənəbli mˌeɪk mˌiː dɪstɹˈʌst juː?|902
+train-clean-360/1241/121106/1241_121106_000002_000000.wav|"ðˈɛn," kəntˈɪnjuːd bˈoʊtʃæmp, "aɪ tˈʊk ɐdvˈæntɪdʒ ʌvðə sˈaɪləns ænd ðə dˈɑːɹknəs tə lˈiːv ðə hˈaʊs wɪðˌaʊt bˌiːɪŋ sˈiːn.|123
+train-clean-360/4598/6176/4598_6176_000019_000005.wav|ˈɛnɪhˌaʊ aɪ wɪl tɹˈaɪ maɪ lˈʌk wɪðˌaʊt ˈæskɪŋ hɜː lˈiːv.|46
+train-clean-360/1283/136983/1283_136983_000021_000000.wav|"aɪ flˈɛdkˈeɪn pɚsˈuːdwˈuːndᵻd mˌiːbˌʌt aɪ aʊtɹˈænhˌɪmɡɑːthˈɪɹ fˈɜːst"|243
+train-clean-360/534/123059/534_123059_000068_000003.wav|ʃiː hæd ðə dˈɑːktɚ tɹˈeɪt wˌɪtʃ sˌʌm dˈɑːɡz pəzˈɛs; ænd æz ɐ mˈʌðɚ kˈæt wˈɑːʃᵻz hɜː kˈɪʔn̩z, sˌoʊ ʃiː wˈɑːʃt ænd klˈɛnzd bˈʌks wˈuːndz.|675
+train-clean-360/922/132300/922_132300_000007_000002.wav|nˈaʊ hɪz spˈɪn bɹˈɔːt hˌɪm ɚɹˈaʊnd tə fˈeɪs ɪt, ænd hiː sˈɔː ɪt wʌz pˈæɹələlɪŋ hɪz kˈoːɹs.|1003
+train-clean-360/8494/244431/8494_244431_000028_000000.wav|hˈæɹi tˈʊk ðɪ aʊtstɹˈɛtʃt hˈændhiː kʊd nˌɑːt kˈiːp fɹʌm lˈaɪkɪŋ ʃˈɛpɚdbˌʌt kˈɜːnəl tˈælbɑːt, baɪ tˈɜːnɪŋ slˈaɪtli, ɐvˈɔɪdᵻd ɪt wɪðˌaʊt ɡˈɪvɪŋ ðɪ ɐpˈɪɹəns ʌv bɹˈʌsknəs.|137
+train-clean-360/1079/128636/1079_128636_000001_000001.wav|sˈɜːv wɪð tˈɑːɹɾɚ sˈɔːs.|461
+train-clean-360/4434/73958/4434_73958_000012_000002.wav|aɪ duːnˌɑːt nˈoʊ ðɪ ˈɔːɹɪdʒˌɪn ʌv ðɪs tʃˈɑːɹmɪŋ ɹˈoʊz, bˌʌt baɪ ɪts ɐpˈɪɹəns ɪt ʃˌʊd biː ɹᵻlˈeɪɾᵻd tə ðə dˈæmæsk.|3
+train-clean-360/8138/293529/8138_293529_000017_000002.wav|pˈiːɾɚ mˈʌst pɹɪtˈɛnd təbi ˈɪntɹɛstᵻd ɪn ðɪs kˈaɪnd ʌv "ˌɛdʒuːkˈeɪʃən," sˈɛd mə dʒˈɪvni, ænd hiː mˈʌst lˈɜːn æt lˈiːst ðə nˈeɪmz ʌv lˈækmənz bˈʊks.|986
+train-clean-360/5618/48830/5618_48830_000026_000001.wav|"aɪ sˈɛldəm tˈeɪk ˈɛnɪθˌɪŋ ˈæftɚ dˈɪnɚ, ɛksˈɛpt ɐ lˈɪɾəl nˈɛɡəs."|298
+train-clean-360/1509/143477/1509_143477_000010_000001.wav|"kˌʊdənt juː ɡɛt sˈʌmwʌn tə stˈeɪ fɚðɪ ˌæftɚnˈuːn wɪð ɹˈændɑːlf?"|688
+train-clean-360/4856/20410/4856_20410_000058_000003.wav|nˈaʊ ðeɪ ˈɑːbviəsli kʊd nˌɑːt biː bˈoʊθ flˈæt ænd kɑːŋkˈeɪv; bˌʌt jˈɛt ðeɪ hæd ðə pɹˈɑːpɚɾiz pɪkjˈuːlɪɹ tə bˈoʊθ flˈætnəs ænd kəŋkˈævᵻɾi.|47
+train-clean-360/5092/28462/5092_28462_000028_000011.wav|wˈʌn bˈɜːd, ɐ θɹˈʌʃ, ɛmbɹˈɔɪdɚd ðə sˈaɪləns wɪð tʃˈɪɹi nˈoʊts, mˌeɪkɪŋ ðə sˈɑːlɪtˌuːd fəmˈɪlɪɹ ænd swˈiːt, wˌaɪl ðə sˈɑːləm mˈɑːnətˌoʊn ʌvðə stɹˈiːm sˈɪftɪŋ θɹuː ðə wˈʊdz sˈiːmd lˈaɪk ðə vˈɛɹi vˈɔɪs ʌv ɡˈɑːd, hjˈuːmənˌaɪzd, tɚɹˈɛstɹɪəlˌaɪzd, ænd ˈɛntɚɹɪŋ wˈʌnz hˈɑːɹt æz tʊ ɐ hˈoʊm pɹɪpˈɛɹd fɔːɹ ɪt.|993
+train-clean-360/4331/57179/4331_57179_000026_000003.wav|ˈæftɚ wʌt ˌæɹəbˈɛlə hæd tˈoʊld hɜː mˈɪstɚ mˈɔːɹtən kʊd nˌɑːt biː ˈæskt ðɛɹ tə mˈiːt hɜː nˈiːs. bˌʌt ˈɔːl ðə slˈaɪt fˈiːlɪŋ ʌv kˈaɪndnəs tə ðə ɡˈɜːl wˌɪtʃ hɐdbɪn kɹiːˈeɪɾᵻd baɪ ðə tˈaɪdɪŋz ʌv sˌoʊ ɹᵻspˈɛktəbəl ɐn ɛŋɡˈeɪdʒmənt wɜːɹ ɐtwˈʌns əblˈɪɾɚɹˌeɪɾᵻd fɹʌmðə dˈʌtʃɛsᵻz bˈʊzəm.|517
+train-clean-360/5655/46267/5655_46267_000028_000001.wav|"pˈɑːpə wɪl ɡɛt ˌʌs wˈʌn wɛn hiː kˈʌmz hˈoʊm ænd fˈaɪndz hˌaʊ mˈʌtʃ wiː wˈɔnt wˌʌn."|848
+train-clean-360/1806/143946/1806_143946_000010_000003.wav|ɪn ðˈɪs, pɚhˈæps, hiː dˈʌz nˈoʊmˌoːɹ ðɐn ˌɛni ˈʌðɚɹ ˌɛnɚdʒˈɛɾɪk ænd ɪmˈædʒɪnətˌɪv ɹˈeɪs wʊd dˈuː, bˌiːɪŋ kəmpˈɛld tə sˈɛt bˈaʊndz tə fˈænsi baɪ ɛkspˈiəɹɪəns; bˌʌt ðə nˈɔːɹθ ɐmˈɛɹɪkən ˈɪndiən klˈoʊðz hɪz aɪdˈiəz ɪn ɐ dɹˈɛs wˌɪtʃ ɪz dˈɪfɹənt fɹʌm ðæt ʌvðɪ ˈæfɹɪkən, ænd ɪz ˌoːɹɪˈɛntəl ɪn ɪtsˈɛlf.|1105
+train-clean-360/3792/176660/3792_176660_000078_000001.wav|aɪm ɐ ɡˈɪtɪn tˈuː bˈɪɡ."|161
+train-clean-360/3119/163527/3119_163527_000019_000000.wav|bˌʌt wɛn ðə mˈæn kˈeɪm bˈæk, hiː ˈæskt ɪf hiː hɐdbɪn ˌɪntʊ ˌɛni ʌvðə ɹˈuːmz.|24
+train-clean-360/7777/106366/7777_106366_000034_000005.wav|ænd ðeɪ kwˈɛstʃənd wˈʌn ɐnˈʌðɚɹ ɪn tˈɜːn.|1029
+train-clean-360/7881/105574/7881_105574_000010_000004.wav|wiː wɜːɹ ɪn mˈoːɹ dˈeɪndʒɚ wɛn ɐ fˈuːl ˈɑːfɪsɚ wˈʌn dˈeɪ tˈʊk ˌaʊɚ bɹɪɡˈeɪd ʌv ˈɪnfəntɹi dˌaʊn θɹuː ɐ kˈɔːɹnfiːld tʊ ɐsˈɔlt ɐ ɡˈʌnboʊt ðæt lˈeɪ ɪn ɐ kɹˈiːk klˈoʊs bˈaɪ.|679
+train-clean-360/6099/230928/6099_230928_000013_000001.wav|"ðɪs ɪz ˌɪndˈiːd ɐ sɚpɹˈaɪz!"|278
+train-clean-360/6188/73024/6188_73024_000008_000005.wav|ðɪ ɛkspˈʌlʃən, ðˈɛɹfoːɹ, wʌz nˌɑːt tə tˈeɪk plˈeɪs tˈɪl ˈɑːɹtʃi ʃˌʊdəv mˌeɪd hɪz ɐtˈɛmpt əpˌɑːn lˈeɪdi ˈɑːŋɡɚ.|700
+train-clean-360/8718/295197/8718_295197_000022_000001.wav|aɪ dɪtˈɛst ðˌɛm!"|1132
+train-clean-360/6538/81843/6538_81843_000029_000002.wav|fɚɹə tˈaɪm ðə tˈuː mˈæskjʊlˌɪn hjˈuːmən bˈiːɪŋz ˈeɪt ænd dɹˈæŋk wɪð sˈoʊ mˌʌtʃ vˈɪɡɚ ðæt ðɛɹwˌʌz nˈoʊ tˈaɪm fɔːɹ tˈɔːk. lˈɛfɪŋwˌɛl wʌzðə fˈɜːst tə bɹˈeɪk sˈaɪləns.|611
+train-clean-360/7717/104491/7717_104491_000033_000000.wav|"aɪ dˈoʊnt θˈɪŋk ðə pɹˈɪns ɪz ɐ mˈæɹid mˈæn," sˈɛd sˈɑːfi.|619
+train-clean-360/5802/76043/5802_76043_000028_000000.wav|"ðɪs ɪz vˈɛɹi lˈaɪk tɹˈaɪɪŋ tə ɹᵻmˈɛmbɚ sˌʌm ɡˈeɪm wˈʌn plˈeɪd wɛn wˈʌn wʌzɐ tʃˈaɪld.|1116
+train-clean-360/7938/109179/7938_109179_000043_000001.wav|lˈaɪf wʌz wˈʌns mˈoːɹ kˈoːɹsɪŋ θɹuː hɜː vˈeɪnz.|18
+train-clean-360/3852/175448/3852_175448_000005_000004.wav|ðiːz tɹˈævɛlɚz ʌvðə sˈɛkənd kˈæɾɪɡɚɹi kæn ɡˈɪv ˌʌs mˈoʊst ˈɪntɹɛstɪŋ ænd vˈæljuːəbəl ˌɪnfɚmˈeɪʃən ɐbˌaʊt kwˈeɪnt lˈɪɾəl bᵻlˈeɪɾᵻd sˈɪɾiz; ɐbˌaʊt bˈækwɚd kˈʌntɹi fˈoʊk, kˈaɪndli ɔːɹ ðə ɹᵻvˈɜːs, hˌuː ʃˈoʊ ɐ mˈɪkstʃɚɹ ʌvðɪ aɪdˈiəz ʌv sˈævɪdʒɹi wɪððɪ aɪdˈiəz əvən ˈeɪntʃənt pˈɛzəntɹi; ænd ɐbˌaʊt ɹˈʌf ˈoʊld hˈaɪweɪz ʌv tɹˈævəl wˌɪtʃ ɪn kˈʌmfɚt duːnˌɑːt dˈɪfɚ mˈʌtʃ fɹʌm ðoʊz ʌv mˌɛdɪˈiːvəl jˈʊɹɹəp.|133
+train-clean-360/4434/73958/4434_73958_000034_000005.wav|ðə hˈaɪt tʊ wˌɪtʃ ðə bɹˈækən ɡɹˈoʊz ɪz ɐ ʃˈʊɹ ɡˈaɪd tə ðə dˈɛpθ ʌv sˈɔɪl.|3
+train-clean-360/1638/84447/1638_84447_000145_000000.wav|"ðə hˈaʊs ɪz jˈɑːndɚ," skɹˈuːdʒ ɛksklˈeɪmd.|696
+train-clean-360/7434/96672/7434_96672_000006_000000.wav|ðə bˈʊlz ɹˈoːɹd mˈaɪɾili.|160
+train-clean-360/8195/117382/8195_117382_000020_000002.wav|ɪts dʒˈɛst ðɪ ˈoʊld wˈɑːbæʃ ɹˈoʊlᵻn ˌʌp ðɪ ˈɛkoʊz.|347
+train-clean-360/1923/161975/1923_161975_000018_000003.wav|aɪ hæd maɪ mˈæɹɪdʒ tʊ ɛksplˈeɪn tə dʒˈæk, ænd dʒˈæk tʊ ɛksplˈeɪn tə dˈɪki.|786
+train-clean-360/2853/164187/2853_164187_000036_000001.wav|ðɛɹwˌʌz wˈʌnɪt hæd wˈʌns ɐdˈɔːɹnd ðə sˈoʊfə ɪnðə ɡˈɑːɹdən ɹˈuːmkˈʌvɚd wɪð ɹˈɛd pˈɑːpɪz vˈɛɹi ˈiːzi tə kˈʌt ˈaʊt, ænd mˈɪs mˈæp dɹˈæɡd ɪt dˈʌstili fɹʌm ɪts kˈɔːɹnɚ, sˈɛɾɪŋ ɪn mˈoʊʃən ɐ pˈɜːfɛkt kɐskˈeɪd ʌv kˈɑːɹdboːɹd lˈɪdz ænd sˌʌm dˈoːɹ hˈændəlz.|645
+train-clean-360/7783/107486/7783_107486_000053_000001.wav|"ɪt wˈʊdənt biː ʌnlˈaɪk hˌɪm, wˈʊd ɪt?"|838
+train-clean-360/3733/140718/3733_140718_000027_000003.wav|hiː hɐz ˈoʊnli ɐ fjˈuː skɹˈætʃᵻz ˌɔn hɪz fˈeɪs; wˈɪtʃ, sˈɛd ʃiː, aɪ səpˈoʊz hiː ɡɑːt baɪ ɡɹˈæplɪŋ ɐmˌʌŋ ðə ɡɹˈævəl æt ðə bˈɑːɾəm ʌvðə dˈæm, tə tɹˈaɪ tə fˈaɪnd ɐ hˈoʊl ɪnðə ɡɹˈaʊnd, tə hˈaɪd hɪmsˈɛlf fɹʌmðə ɹˈɑːbɚz.|192
+train-clean-360/7994/258960/7994_258960_000028_000002.wav|bˌʌt æɾə lˈeɪɾɚ stˈeɪdʒ, æz ɪnðə mˈɪdəl ˈeɪdʒᵻz ɪn jˈʊɹɹəp, lˈænd ænd ðə θˈɪŋz pɚtˈeɪnɪŋ tʊ ɪt, æz dˈɪtʃᵻz, hˈaʊzᵻz, mˈɪlz, kˈæɾəl, stˈɑːk, ænd ðə fjˈuː sˈɪmpəl ˈɪmplɪmənts, kˈɑːnstɪtˌuːɾᵻd ðə lˈɑːɹdʒɚ pˈoːɹʃən ʌvðə wˈɛlθ.|234
+train-clean-360/6696/73296/6696_73296_000017_000001.wav|bˌʌt pˈʊɹ mˈɪsɪz bˈeɪts hæd ɐ bˈæd kˈoʊld ɐbˌaʊt ɐ mˈʌnθ ɐɡˈoʊ."|36
+train-clean-360/54/121079/54_121079_000120_000000.wav|"sˌɜː, maɪ ɹˈaɪthˈænd kˌɔːɹɪspˈɑːndənt ɹᵻdˈʌbəlz hɪz sˈɪɡnəlz; hiː ɪz ɪmpˈeɪʃənt."|251
+train-clean-360/5012/31089/5012_31089_000013_000011.wav|ðə ɹˈoʊz əpˌɑːn hɪz bɹˈɛst ɪz ɹˈɛd.|912
+train-clean-360/5389/4861/5389_4861_000050_000002.wav|mɪlˈæn spɹˈæŋ fɹʌmðə sˈædəl, pˌʊt hɪz ˈɪɹ tə ðə ɡɹˈaʊnd ænd lˈɪsənd.|507
+train-clean-360/3157/68361/3157_68361_000007_000000.wav|wiː ɑːɹ nˌɑːt ɐʃˈeɪmd ʌv ˌaʊɚ ɹˌɛvəlˈuːʃən ɪn sˈɛvəntˌiːn sˈɛvənti sˈɪks fɔːɹ ɪts pˈɜːpəs wʌz tə ɡˈeɪn ˌaʊɚɹ ˌɪndᵻpˈɛndəns.|862
+train-clean-360/5400/3587/5400_3587_000187_000000.wav|"aɪ kˈænt biː æz ɡˈʊd æz bˈɛn," sˈɛd dʒˈæpi, lˈæfɪŋ, "bˌʌt aɪl biː ɐ ɹˈiːəl bɹˈʌðɚ lˈaɪk hˌɪm."|715
+train-clean-360/3923/153309/3923_153309_000031_000008.wav|kˈaʊnt ðˌɛm, sˈʌmwʌn, ænd θˈɪŋk ʌvðə bˈɑːɾəlz ænd bˈɑːɾəlz ʌv stˈʌf ðeɪ stˈænd fɔːɹ.|653
+train-clean-360/1649/68762/1649_68762_000053_000002.wav|ænd ðˈɛn hiː bɪɡˈæn tə dɪskˈʌs pəlˈɪɾɪkəl kwˈɛstʃənz ɪn dʒˈɛnɚɹəl ænd hɪz ˈoʊn mˈɛɹɪts ɪn pɚtˈɪkjʊlɚ, sˌoʊ ðæt kˈɛnəθ ænd mˈɪstɚ wˈɑːtsən, dɪsɡˈʌstᵻd æt ðə wˈeɪ ɪnwˌɪtʃ ðɪ ˈɑːnɚɹəbəl ɪɹˈæstəs hæd kˈæptʃɚd ðə mˈiːɾɪŋ, lˈɛft ðə skˈuːl hˈaʊs ænd ɪndˈɪɡnəntli ɹᵻtˈɜːnd tʊ ˈɛlmhɜːst.|107
+train-clean-360/1776/139035/1776_139035_000008_000011.wav|ðə pˈaɪps wɜː pˈɜːfɚɹˌeɪɾᵻd lˈaɪk ðə nˈɑːzəl əvə wˈɔːɾɚɹɪŋ kˈæn, ænd θɹuː ðə hˈoʊlz ðə ɹˈeɪn mˈeɪkɚ blˈuː ðə wˈɔːɾɚ təwˈɔːɹdz ðæt pˈɑːɹt ʌvðə skˈaɪ wˌɛɹ ðə klˈaʊdz hˈʌŋ hˈɛviɪst.|129
+train-clean-360/6120/14976/6120_14976_000015_000005.wav|nˈaʊ, ɪf juː dˈoʊnt wˈɔnt ˌʌs, sˈeɪ sˈoʊ, ænd wiːl ɡˌoʊ ˌɔn tə nˈaɪt.|989
+train-clean-360/7247/101864/7247_101864_000035_000003.wav|ðɪs dʒˈuːn wʌz hɜː ɡɹˌædʒuːˈeɪʃən.|1018
+train-clean-360/4839/15307/4839_15307_000006_000002.wav|ðeɪ ˈɔːl lˈʊkt æt wˈʌn ɐnˈʌðɚ, lˈæfɪŋ, fɔːɹ tə sˈiː hˌuː wʊd spˈiːk fˈɜːst.|777
+train-clean-360/5448/19208/5448_19208_000105_000003.wav|æz ɪn mˈɛni ˈeɪntʃənt hˈaʊzᵻz, ðə stˈɛɹkeɪs ɡɑːt ɪts lˈaɪt fɹʌm wɪðˌaʊt ænd hæd ɐ vjˈuː ɔnðə stɹˈiːt.|790
+train-clean-360/7825/258978/7825_258978_000032_000002.wav|ɪɾ ɪz nˌɑːt jˈɛt ˈɛvɪdənt hˌaʊ mˈɛni kæn ˈoʊn ɐ ʃˈɛɹ ɪn ɡɹˈeɪt fˈæktɚɹiz, bˌʌt ðə kəntɹˈoʊl dɹˈɪfts ˌɪntʊ fjˈuː hˈændz.|377
+train-clean-360/1641/130504/1641_130504_000083_000000.wav|lˈaɪk splˈɛndɚ wˈɪŋd mˈɑːθs ɐbˌaʊt ɐ tˈeɪpɚ |1022
+train-clean-360/28/12332/28_12332_000047_000000.wav|ðə kæntˈæŋkɚɹəs ˈoʊld lˈeɪdi ɹᵻɡˈɑːɹdᵻd mˌiː wˈʌns mˈoːɹ fɹʌm hˈɛd tə fˈʊt.|624
+train-clean-360/2598/4662/2598_4662_000034_000010.wav|kˈɛɹləsli hiː flˈɪkt ðə mjˈuːl wɪððə wˈɪp.|294
+train-clean-360/1343/158781/1343_158781_000021_000000.wav|"ɪf ɪt hæd hˈæpənd tə mˌiː, aɪ ʃˌʊdəv bˌɪn vˈɛɹi ˈæŋɡɹi," sˈɛd mˈɪsɪz kˈɑːɹbʌŋkəl.|994
+train-clean-360/5660/101884/5660_101884_000032_000000.wav|"bˌʌt juː dˈoʊnt mˈiːnjuː kˈænt mˈiːn" mə dʒˈɪniz pˈɔːzd, hɪz bɹˈɛθ səspˈɛndᵻd.|635
+train-clean-360/2598/4662/2598_4662_000028_000009.wav|wˈɪljəm hæd sˈʌmtaɪmz ˈaɪdli ɪmˈædʒɪnd ðɪ ˈɪmpækt əvə pˈiː sˈɛnt vˈaɪələntli fɹʌm ɐ pˈiː ʃˈuːɾɚ wɪððə ɡˈɑːɹdənɚz bˈɔːld hˈɛd.|294
+train-clean-360/2971/4275/2971_4275_000002_000003.wav|ðə θˈɪŋ wˌɪtʃ mˌaɪthɐv bˌɪn mɪstˈeɪkən fɚɹə tɹˈaɪsɪkəl tˈɜːnd ˈʌpsaɪddˌaʊn wʌzðɪ ˌɪnɛkspɹˈɛsᵻbli ɪmpˈoːɹtənt ˈɪnstɹəmənt tʊ wˌɪtʃ ðə kˈɔːɹkskɹuː wʌzðə kˈiː.|1073
+train-clean-360/6927/86043/6927_86043_000039_000004.wav|bᵻfˌoːɹ hˌɪm ɐ nˈoʊbəl ɡˈeɪtweɪ stˈʊd ˈoʊpən.|585
+train-clean-360/688/15446/688_15446_000053_000003.wav|dɪstˈɪl ɪnðə dˈɑːɹk, θɹuː ɐ ɡlˈæs tˈuːb kˈɛpt kˈuːl baɪ ɐ stɹˈiːm ʌv wˈɔːɾɚ.|827
+train-clean-360/8119/115687/8119_115687_000031_000001.wav|ɪt sˈaʊndz lˈaɪk ɐ bˈɪt ʌv əkˈeɪʒənəl bˈɑːɹɾɚ, ɹˈæðɚ ðˌænən ˈaʊt ænd ˈaʊt ɐlˈaɪəns.|943
+train-clean-360/6038/56777/6038_56777_000026_000001.wav|aɪ bᵻlˈiːvd ðæt plˈɔːɾəs ɔːɹ tˈɛɹəns wʌz bˌiːɪŋ ɹˈɛd ɪn pɹˈoʊz.|318
+train-clean-360/724/123285/724_123285_000023_000000.wav|æt nˈuːn hˈænz pɹɪpˈɛɹd ɐ hˈʊk æt ðɪ ˈɛnd əvə lˈaɪn.|870
+train-clean-360/6308/68358/6308_68358_000009_000002.wav|ɡɹˈeɪt ˈɑːɹtʃᵻz wɜː bˈɪlt ɚɹˈaʊnd ðə sˈaɪdz ænd ðˈɛn ðə tˈɑːp lˈɛvəld ˈɔf ʌntˈɪl ðə lˈɑːɹdʒ tˈɛmpəl ˈɛɹiə wʌz fˈɔːɹmd.|1108
+train-clean-360/4595/45217/4595_45217_000027_000001.wav|aɪ hæd nˌɑːt dɪsklˈoʊzd tʊ ˈiːðɚɹ ʌv ðˌɛm ðə kˈɔːz ʌv maɪ ˈæbsəns.|227
+train-clean-360/8194/89390/8194_89390_000025_000031.wav|hˌaʊ kʊd aɪ nˈoʊ ðæt aɪ ʃˌʊd lˈʌv juː?...|1034
+train-clean-360/2256/137627/2256_137627_000013_000006.wav|ðˈɛn sˈɛd sˌɜː kˈeɪ: aɪ ɹᵻkwˈaɪɚ juː lˈɛt ˌʌs pɹˈuːv ðɪs ɐdvˈɛntʃɚ.|352
+train-clean-360/5538/224746/5538_224746_000009_000005.wav|juː woʊnt mˈaɪnd?"|798
+train-clean-360/2592/166433/2592_166433_000032_000000.wav|ʃiː dɹˈuː ɐ lˈɔŋ bɹˈɛθ.|290
+train-clean-360/2853/164187/2853_164187_000004_000004.wav|hɜː tɹˈeɪnd fˈækəltiz wɜːɹ ˈɔːl ɔnðɪ ɐlˈɜːt, ænd ʃiː θɹˈʌst ðˌɛm bˈoʊθ ɪnsˈaɪd hɜː ɡlˈʌv fɔːɹ fjˈuːtʃɚ kənsˌɪdɚɹˈeɪʃən, wɪðˌaʊt stˈɑːpɪŋ tʊ ɛɡzˈæmɪn ðˌɛm dʒˈʌst ðˈɛn.|645
+train-clean-360/7318/96151/7318_96151_000084_000000.wav|ðɪs dᵻsˈaɪdᵻd ɪt: pˈiːɾɚz wʌz tə ɡˈoʊ, aɪ stˈeɪ.|868
+train-clean-360/7538/100045/7538_100045_000046_000004.wav|mˈɪstɚ dˈæmən ɡˈeɪzd blˈæŋkli fˈɔːɹwɚd.|680
+train-clean-360/3493/46712/3493_46712_000005_000001.wav|hiː wʌz ˈɔːlmoʊst dʒˈɛləs ʌv ɹˈɑːsæmənd dʒˈɜːnɑːm, wˌɛn hiː fˈaʊnd hˌaʊ ɡɹˈeɪt ɐ hˈoʊld ʃiː hæd əbtˈeɪnd ɔnðə hˈɑːɹt ʌv hɜː tʃˈɑːɹdʒ; bˌʌt hɪz dʒˈɛləsi wʌz mˈɪŋɡəld wɪð ɡɹˈæɾɪtˌuːd, ænd hiː dʒˈɔɪnd lˈeɪdi ɪvˈɜːsleɪ ɪn tˈɛstᵻfˌaɪɪŋ hɪz fɹˈɛndʃɪp fɚðə tˈɛndɚ hˈɑːɹɾᵻd wˈʊmən hˌuː hæd pɹətˈɛktᵻd ænd tʃˈɛɹɪʃt ðɪ ˈɛɹɛs ʌv ɹˈeɪnæm ɪnðɪ ˈaʊɚɹ ʌv hɜː dˌɛsəlˈeɪʃən.|973
+train-clean-360/3185/163505/3185_163505_000079_000005.wav|ðˈɛn ðə lˈæd kˈeɪm ˌʌp wɪð hɪz sˈoːɹd tə sˈiː wʌt ˈɔːl ðə nˈɔɪz wʌz ɐbˈaʊt, ænd wɛn hiː sˈɔː ðɪ ˈɛɡ, hiː θˈɔːt ɪɾ ɐ tɹˈaɪfəl tə kɹˈæk ɪt; sˌoʊ hiː ɡˈeɪv ɪt wˈʌn blˈoʊ ænd ðɪ ˈɛɡ splˈɪt, ænd ˈaʊt kˈeɪm ɐ tʃˈɪkɪn æz bˈɪɡ æz ɐn ˈɛlɪfənt.|936
+train-clean-360/7498/99156/7498_99156_000008_000005.wav|ˈaɪ, wɪð maɪ lˈɪɾəl wˈɜːk, stˈɪl ˈoʊnli ɹᵻɡˈɑːɹdɪŋ sˈʌmtaɪmz maɪ hˈʌsbəndz swˈiːt fˈeɪs, wˌɪtʃ ɪz sˌoʊ vˈɛnɚɹəbəl æt ðæt tˈaɪm wɪð tˈɪɹz ʌv dɪvˈoʊʃən ænd ˈɔːl ðə sʌblˈɪmᵻɾi ʌvðə sˈʌbdʒɛkt, maɪ hˈʌsbənd ɹˈiːdɪŋ mˌiː ðə jˈʌŋ vˈɜːsᵻz ænd sˈʌfɚɹɪŋ maɪ kɹˈɪɾɪsˌɪzəm."|87
+train-clean-360/2229/152864/2229_152864_000020_000000.wav|"wˌaɪ dˈuː juː lˈɪŋɡɚ?" ˈæskt ðə ɹˈeɪvən.|759
+train-clean-360/5712/48842/5712_48842_000027_000004.wav|ɪn ɐ wˈiːk ɔːɹ tˈuː ɪt wʌz dˈʌn.|539
+train-clean-360/6339/65554/6339_65554_000007_000001.wav|ðeɪ hɐdbɪn tˈuː pɹˈaʊd ʌv pˈɔːl ... ðɛɹ ˈoʊnli sˈʌn ænd sˈʌtʃ ɐ klˈɛvɚ fˈɛloʊ ... ænd ðɪs wʌz ðɛɹ pˈʌnɪʃmənt!|850
+train-clean-360/3483/115968/3483_115968_000028_000003.wav|ðˈɛn, ðə hˈænz kwˈaɪt ˈɑːbviəsli hæv lˈɜːnd ðæt wiː ɑːɹ pˈɪkɪŋ ˌʌp ðɛɹ ɪlˌɛktɹoʊfˈoʊn wˈeɪvz, fɔːɹ ðeɪv ɡɔn bˈæk tə ðɛɹ ˈoʊld, bˌʌt ɛkstɹˈiːmli ˈækjʊɹət, sˈɪstəm ʌv dᵻɹˈɛkʃənəl kəntɹˈoʊl.|576
+train-clean-360/5618/48830/5618_48830_000109_000004.wav|kʊd ɪt biː tɹˈuː ðˈæt hiː, ˈiːvən nˈaʊ, wʌz ɪn ɐ pəzˈɪʃən tə ɡˌoʊ bˈoʊldli tə ðə skwˈaɪɚɹ ʌv ˈælɪŋtən, ænd tˈɛl hˌɪm wʌt wɜː hɪz vjˈuːz wɪð ɹˈɛfɹəns tə lˈɪli?|298
+train-clean-360/7825/258978/7825_258978_000010_000000.wav|məʃˈiːnɚɹi ɪz ɐplˈɪkəbəl wɪð ɪspˈɛʃəl ɐdvˈæntɪdʒ tʊ ˈɪndʌstɹiz ðæt tʃˈeɪndʒ ðə fˈɔːɹm ʌv mətˈɪɹiəlz ˈiːzili tɹænspˈoːɹɾᵻd ænd wˈaɪdli jˈuːzd.|377
+train-clean-360/2960/155151/2960_155151_000002_000001.wav|hiː wʌz bˈɔːɹn æt ɡˈoʊɚlˌɪts, ɪn ˌʌpɚ luːsˈeɪʃə, ɪn fˈɪftiːn sˈɛvənti fˈaɪv, ænd fˈɑːloʊd tˈɪl hɪz θˈɜːɾiəθ jˈɪɹ ðɪ ˌɑːkjʊpˈeɪʃən əvə ʃˈuːmeɪkɚ.|51
+train-clean-360/1025/92820/1025_92820_000028_000000.wav|pɹˈɪns mˈaɪkəl smˈaɪld hɪz ˌɛnɪɡmˈæɾɪk, dʒˈɛntəl, kˌɑːmpɹihˈɛndɪŋ smˈaɪl ænd kˈɔːt ðə kˈoʊt slˈiːv ʌvðɪ ˈʌðɚ.|500
+train-clean-360/1121/132777/1121_132777_000006_000001.wav|hiː fˈɛlt ðˌɐɾɪt wʊd biː mˈædnəs ɪn hˌɪm tʊ ˈɪmᵻtˌeɪt ðɪ ɛɡzˈæmpəl ʌv mˈɔnməθ, tə kɹˈɔs ðə sˈiː wɪð ɐ fjˈuː bɹˈɪɾɪʃ ɐdvˈɛntʃɚɹɚz, ænd tə tɹˈʌst tʊ ɐ dʒˈɛnɚɹəl ɹˈaɪzɪŋ ʌvðə pˌɑːpjʊlˈeɪʃən.|229
+train-clean-360/8011/117866/8011_117866_000061_000002.wav|ðˈɛn ðeɪ ɹˈoʊd slˈoʊli, fɔːɹ ðeɪ wɜː sˈæd bɪkˈʌz ʌv ðɛɹ nˈuːz; bˌʌt ðə kˈɪŋ ɹᵻdʒˈɔɪst wɛn hiː hˈɜːd ɪt, fɔːɹ hiː sˈɛd: "sˈʌtʃ ɐ tʃˈaɪld, wɪð sˈʌtʃ ɐ mˈʌðɚ, wɪl ɡɹˈoʊ ˌɪntʊ ɐ nˈaɪt æt hˈoʊm."|29
+train-clean-360/335/125941/335_125941_000030_000000.wav|"bˌʌt wiː ˈɔːlsoʊ ɑːɹ ɪn dˈeɪndʒɚ," sˈɛd ðə pˈʌmpkɪnhˌɛd, ˈæŋʃəsli.|763
+train-clean-360/5489/65803/5489_65803_000015_000001.wav|mˈɪksɪŋ wɪð mæŋkˈaɪnd, wiː ɑːɹ əblˈaɪdʒd tʊ ɛɡzˈæmɪn ˌaʊɚ pɹˈɛdʒuːdɪsᵻz, ænd ˈɔfən ɪmpɚsˈɛptᵻbli lˈuːz, æz wiː ˈænɐlˌaɪz ðˌɛm.|951
+train-clean-360/1401/174511/1401_174511_000041_000000.wav|"ɪf juː hæv fˈɪnɪʃt jʊɹ ˈɪnsələnt ɹᵻmˈɑːɹks," ʃiː ˈænsɚd wɪð spˈɪɹɪt, "aɪ wɪl ɡˌoʊ ɐwˈeɪ.|422
+train-clean-360/8506/287659/8506_287659_000026_000004.wav|ðə plˈeɪs ðæt hiː flˈɛd fɹʌm wʌz kˈɔːld nˈɔːɹθ pˈɔɪnt, bˈɔltɪmˌoːɹ kˈaʊnti.|800
+train-clean-360/968/122545/968_122545_000049_000000.wav|ɐ lˈɔŋ pˈɔːz.|115
+train-clean-360/231/127936/231_127936_000039_000000.wav|"wiːl sˈiː ɐbˌaʊt ðæt lˈeɪɾɚ," ˈænsɚd bɹˈɛtən.|1024
+train-clean-360/5724/13364/5724_13364_000040_000004.wav|ʃiː jˈuːzd kəntˈɪnjuːəli tə tˈɛl ˌʌs ðɪs wʌzðə hˈæpɪɪst spɹˈɪŋ ʃiː hæd ˈɛvɚ hæd ɪn hɜː lˈaɪf.|38
+train-clean-360/7553/101278/7553_101278_000031_000003.wav|ðˈɛn hiː wɛnt stɹˈeɪt tə hɪz mˈʌðɚz hˈaʊs, ænd ðə hˈɑːɹt ʌv hɪz mˈʌðɚ wʌz ɡlˈæd.|324
+train-clean-360/8699/291107/8699_291107_000215_000000.wav|pɹˈɛzəntli hiː wɛnt ɐwˈeɪ.|430
+train-clean-360/6927/86045/6927_86045_000027_000001.wav|ɪɾ ɪz ɛntʃˈæntᵻd, ænd nˈoʊwˈʌn ðæt hɐz tɹˈaɪd tʊ ˈɛntɚɹ ɪt hɐz ˈɛvɚ kˈʌm bˈæk.|585
+train-clean-360/2598/4662/2598_4662_000034_000002.wav|hiː wʌz dɹˈaɪvɪŋ ɐ kˈæɹɐvˌæn.|294
+train-clean-360/7314/93277/7314_93277_000037_000000.wav|"hˈɑː! sˈækɚ!|215
+train-clean-360/4800/73728/4800_73728_000013_000001.wav|ðæt kənstɹˈeɪnt wˌɪtʃ æt fˈɜːst ʃiː hæd ɐtɹˈɪbjuːɾᵻd tə ɹɪzˈɜːv, bˌʌt wˌɪtʃ ʌv lˈeɪt ʃiː hæd ɐskɹˈaɪbd tə mˈɑːdəsti, nˈaʊ ɛntˈaɪɚli kwˈɪɾᵻd hˌɪm.|74
+train-clean-360/1027/125147/1027_125147_000078_000000.wav|nˈoʊ,sˈɛd flˈɛdʒbi.|602
+train-clean-360/5914/52088/5914_52088_000009_000000.wav|skˈɛɹkɹoʊz.ɐ stɹˈɪŋ wɪð fˈɛðɚz tˈaɪd tʊ ɪɾ æɾ ˈɪntɚvəlz, lˈaɪk ðə tˈeɪl əvə bˈɔɪz kˈaɪt, wɪl skˈɛɹ mˈoʊst ˈænɪməlz ʌvðə dˈɪɹ tɹˈaɪb, baɪ ðɛɹ flˈʌɾɚɹɪŋ; ænd, ɪn wˈɔnt əvə səfˈɪʃənt fˈoːɹs ʌv mˈɛn, pˈæsᵻz mˈeɪ biː klˈoʊzd baɪ ðɪs kəntɹˈaɪvəns.|126
+train-clean-360/1974/139741/1974_139741_000060_000000.wav|"nˌɑːt mˈiːnɪŋ ɪt, maɪ tʃˈaɪld," sˈɛd kˈælɛb.|12
+train-clean-360/5655/46267/5655_46267_000074_000000.wav|vɜːdʒˈɪniə fɚɡˈɑːt hɜː fˈɪɹ ʌv hˌɪm wɛn hiː stˈʊd ˌʌp ænd pɹɪzˈɛntᵻd ˈɑːɹmz lˈaɪk ɐ ɹˈiːəl sˈoʊldʒɚ, ænd ˈiːvən wɛnt ˌʌp ænd pˈæɾᵻd hˌɪm wɛn ðə ʃˈoʊ wʌz ˈoʊvɚ, dʒˈɔɪnɪŋ wɪððə bˈɔɪz ɪn bˈɛɡɪŋ ðæt hiː mˌaɪt biː ɐlˈaʊd tə stˈeɪ ɪnðə hˈaʊs ʌntˈɪl mˈɔːɹnɪŋ.|848
+train-clean-360/5914/52087/5914_52087_000007_000002.wav|nˈɛkst, hiː kˈʌts ɐ wˈʊdən plˈʌɡ tə fˈɪt ðə kwˈɪl; ˌɪntʊ ðə plˈʌɡ, ðə pɹˈɪkɚɹ ɪz fˈɪkst.|126
+train-clean-360/1383/130533/1383_130533_000167_000000.wav|aɪ wʊd fˈɜːðɚ pˈɔɪnt ˈaʊt tə juː |33
+train-clean-360/4535/279849/4535_279849_000009_000000.wav|ˈændɹuːz nˈɑːdᵻd ænd lˈiːnd fɹʌmðə kˈæb.|631
+train-clean-360/2592/5341/2592_5341_000062_000002.wav|"hæv juː fˈɪnɪʃt, ˈɑːɹtʃɪbˌɔːld?"|290
+train-clean-360/8193/116804/8193_116804_000026_000001.wav|bˈɛɾɚ sˈoʊ, ðɐn tə wˈɔndɚ fɚɹˈɛvɚ, dɪsɡɹˈeɪst baɪ ðə ɡˈɪlt ʌv maɪ pɹˈɪnsᵻz; fɚðə blˈʌd ʌv ɐbsˈɪəɾəs stˈɪl tɹˈæks mˌiː, ænd wˈoʊ fˈɑːloʊz hˈɑːɹd əpˌɑːn wˈoʊ.|1017
+train-clean-360/5909/107621/5909_107621_000098_000001.wav|"lˈʊk ɚɹˈaʊnd, bˈɔɪz.|521
+train-clean-360/1446/122614/1446_122614_000031_000003.wav|nˈaʊ ænd ðˈɛn dˈʌŋkən kˈɔːt ɐ ɡlˈɪmps əvə lˈaɪt fˈɔːɹm klˈiːvɪŋ ðɪ ˈɛɹ ɪn sˌʌm dˈɛspɚɹət bˈaʊnd, ænd hiː ɹˈæðɚ hˈoʊpt ðɐn bᵻlˈiːvd ðætðə kˈæptɪv jˈɛt ɹᵻtˈeɪnd ðə kəmˈænd ʌv hɪz ɐstˈɑːnɪʃɪŋ pˈaʊɚz ʌv æktˈɪvᵻɾi.|745
+train-clean-360/5656/44576/5656_44576_000028_000001.wav|dᵻskɹˈaɪb sˌʌm ʌvðɪ ɪfˈɛkts ʌv mənˈɑːtəni ɪn bˈoʊθ kˈeɪsᵻz.|1149
+train-clean-360/5012/80192/5012_80192_000013_000003.wav|ðə dᵻstɹˈʌkʃən wʌz kəmplˈiːt.|912
+train-clean-360/7120/76055/7120_76055_000021_000000.wav|"hiː wɪl nˈoʊ bˈɛɾɚ wˌɛɹ tə ɡɛt ðə ɹˈaɪt sˈɔːɹt ʌv nˈɜːs fɚðə kˈeɪsænd ˈɛvɹɪθˌɪŋ."|930
+train-clean-360/16/122827/16_122827_000002_000000.wav|ɐ ɡɹˈeɪt blˈuː bˈoʊlfəl ʌv snˈoʊbɔːlz ˌoʊvɚflˈoʊd ɔnðə pˈɑːlɪʃt tˈeɪbəl.|66
+train-clean-360/459/127521/459_127521_000019_000001.wav|juː sˈiː, sˌɜː, hˈɪɹ ɪɾ ˈɪz.|1128
+train-clean-360/2638/10172/2638_10172_000081_000000.wav|"ɡɹˈæntᵻd wɪð ˈɔːl maɪ hˈɑːɹɾɐ hˈɪt, ɐ pˈælpəbəl hˈɪt.|871
+train-clean-360/534/123059/534_123059_000006_000005.wav|wˌɛn ðeɪ pˌʊt ɐ klˈoʊðz sˈæk ɔnðə fɹˈʌnt ʌvðə slˈɛd, ʃiː sədʒˈɛstᵻd ɪt ʃˌʊd ɡˌoʊ ɔnðə bˈæk; ænd wɛn ðeɪ hæd pˌʊt ɪɾ ɔnðə bˈæk, ænd kˈʌvɚd ɪɾ ˌoʊvɚ wɪð ɐ kˈʌpəl ʌv ˈʌðɚ bˈʌndəlz, ʃiː dɪskˈʌvɚd ˌoʊvɚlˈʊkt ˈɑːɹɾɪkəlz wˌɪtʃ kʊd ɐbˈaɪd nˈoʊwɛɹ ˈɛls bˌʌt ɪn ðæt vˈɛɹi sˈæk, ænd ðeɪ ʌnlˈoʊdᵻd ɐɡˈɛn.|675
+train-clean-360/3914/10089/3914_10089_000001_000005.wav|ʃiː wʌz "ˌaʊɾəv ɪt," tə mˈɑːɹtʃɚz vˈɪʒən; hɜː wˈɜːk wʌz ˈoʊvɚ; ʃiː kəmjˈuːnᵻkˌeɪɾᵻd wɪð hˌɪm æz əkɹˌɑːs sˌʌm ɡˈʌlf ɔːɹ fɹʌm sˌʌm ˈaɪlənd ʌv ɹˈɛst ðæt ʃiː hæd ɔːlɹˌɛdi ɹˈiːtʃt, ænd ɪt mˌeɪd hˌɪm fˈiːl stɹˈeɪndʒli ɐbˈændənd.|343
+train-clean-360/8573/286306/8573_286306_000050_000001.wav|ðɪs ɪn fˈækt vˈɑːɹɹoʊ pɹəsˈiːdᵻd tə dˈuː.|390
+train-clean-360/1776/139035/1776_139035_000033_000012.wav|wˌɛn ɹˈeɪn ɪz wˈɔntᵻd, ðə ɹˈɑːdʒɑː fˈɛtʃᵻz wˈɔːɾɚ fɹʌm ɐ spɹˈɪŋ bᵻlˌoʊ ænd spɹˈɪŋkəlz ɪɾ ɔnðə stˈoʊn.|129
+train-clean-360/4434/73957/4434_73957_000005_000002.wav|ðə ɡˈɛldɚ ɹˈoʊz ɪz ɐ stˈɪf wˈʊdᵻd θˈɪŋ, ðə kˈæɹɪktɚɹ ʌv ɪts mˈeɪn stˈɛmz bˌiːɪŋ ɐ kˈaɪnd ʌv stˈɑːɹk ˈʌpɹaɪtnəs, ðˌoʊ ðə ɡɹˈeɪt wˈaɪt bˈɔːlz hˈæŋ ˈaʊt wɪð ɐ sˈɜːʔn̩ fɹˈiːdəm fɹʌmðə nˈuːli ɡɹˈoʊn ʃˈuːts.|3
+train-clean-360/3513/7741/3513_7741_000009_000000.wav|"ɡˌoʊ bˈæk!" kɹˈaɪd mˈɪsɪz tʃˈæɾɚtən hˈoːɹsli, "juːl biː kˈɪld."|1123
+train-clean-360/7982/245691/7982_245691_000067_000000.wav|wˈɛðɚ ðɪ ˈæktɪv ˈɪntəlˌɛkt ɪz wˈʌn ɪn ˈɔːl?|1075
+train-clean-360/203/132069/203_132069_000024_000000.wav|ðə dˈoːɹ ˈoʊpənd.|1056
+train-clean-360/1448/135894/1448_135894_000019_000002.wav|ðɪs ˈækʃən, təɡˌɛðɚ wɪððə tˈɪɹz wˌɪtʃ hiː sˈɔː ɡˈʌʃ fɹʌm maɪ ˈaɪz, mˈuːvd hɪz kəmpˈæʃən.|1007
+train-clean-360/7000/83708/7000_83708_000004_000000.wav|"nˈaʊ ðˈɛn, tˈɜːn ˈaʊt.|400
+train-clean-360/2999/156967/2999_156967_000032_000004.wav|ˈæftɚɹ ɐ fjˈuː dˈeɪz hiː sˈɛnt fˈɔːɹθ ɐnˈʌðɚ bˈɜːd, wˌɪtʃ ɹᵻtˈɜːnd wɪð mˈʌd ˌɔn ɪts fˈiːt.|439
+train-clean-360/5290/39475/5290_39475_000041_000000.wav|"ˈoʊ, maɪ pˈʊɹ pɹˈɛʃəs!|409
+train-clean-360/4595/45217/4595_45217_000012_000001.wav|bˈeɪts hæd fˈeɪld tə sˈæɾɪsfˌaɪ pˈɪkɚɹɪŋ ænd wʌz flˈʌŋ ˈɔf lˈaɪk ɐ smˈoʊkt ˈaʊt sᵻɡˈɑːɹ.|227
+train-clean-360/2960/155152/2960_155152_000011_000018.wav|maɪ ɹˈiːzən wʌz kənvˈɪnst baɪ maɪ ˈaɪz; ænd ðə fˈæntəmz ʌv ɪmpˌɑːsəbˈɪlᵻɾi wˌɪtʃ aɪ hæd kˈʌndʒɚd ˌʌp wɜː dˈɪsᵻpˌeɪɾᵻd baɪ ðə wˈɜːk ʌv maɪ ˈoʊn hˈændz.|51
+train-clean-360/231/119253/231_119253_000015_000000.wav|"ðæts ðə wˈeɪ wɪð mˈʌðɚ," mˈɑːɹdʒɚɹi sˈɛd tə dˈoːɹə ˈæftɚ bɹˈɛkfəst. "ʃiː nˈɛvɚɹ ˈɛndz θˈɪŋz ˈʌp.|1024
+train-clean-360/7247/94108/7247_94108_000008_000002.wav|tˈuː hˈaɪ ˈaɪɚn tˈaʊɚz səpˈoːɹɾɪŋ ðə kˈeɪbəl əvə kˈɜːɹənt fˈɛɹi ˈæd dˈɪɡnᵻɾi tə ðə twˈɪn sˈɛɾəlmənts.|1018
+train-clean-360/6446/57416/6446_57416_000036_000001.wav|pɹˈɪɾi sˈuːn, haʊˈɛvɚ, ðə hˈiːt ʌvðə sˈʌn bɪɡˈæn tə mˈɛlt ðə wˈæks wɪð wˌɪtʃ ðə bˈɔɪz wˈɪŋz wɜː fˈæsənd.|1097
+train-clean-360/1401/174511/1401_174511_000047_000000.wav|"maɪ ɡɹˈændfɑːðɚɹ ɪz nˌɑːɾə kɹˈɪmɪnəl, sˌɜː."|422
+train-clean-360/6371/63713/6371_63713_000153_000000.wav|"ɪz ðæt jʊɹ nˈaɪf, hˈæɹi kˈɪŋ?" dᵻmˈændᵻd θˈɑːŋ.|652
+train-clean-360/5246/5084/5246_5084_000045_000001.wav|bˌʌt tə ɹᵻtˈɜːn tə ɹˈæʃliː," sˈɛd ʃiː, ɪn ɐ mˈoːɹ lˈaɪvli tˈoʊn, "juː wɪl θˈɪŋk hˌɪm ðə plˈɛzəntɪst mˈæn juː ˈɛvɚ sˈɔː ɪn jʊɹ lˈaɪf, mˈɪstɚɹ ˈɑːsbəldˌɪstoʊn,ðæt ˈɪz, fɚɹə wˈiːk æt lˈiːst.|376
+train-clean-360/5304/109507/5304_109507_000009_000001.wav|"wˈɛl, wˌʌt ɑːɹ ðeɪ?"|408
+train-clean-360/6505/231836/6505_231836_000026_000000.wav|bˈɜːwɪn ʃˈʊk hɪz hˈɛd, ænd wɪð ɐ sˈaɪlənt tˈʌŋ, wˌɪtʃ kəntɹˈæstᵻd stɹˈeɪndʒli wɪð hɪz lˈeɪt ˈaʊtkɹaɪ, ˈʌʃɚd dˈɛnzɪl ˌaʊɾəv ðə hˈaʊs.|315
+train-clean-360/5133/30591/5133_30591_000030_000002.wav|juː hɐvbɪn hˈæpɪɚ sˈɪns juːlˈɛft mˌiː?"|1031
+train-clean-360/6054/41614/6054_41614_000013_000001.wav|"ʃiː dˈʌzənt dɪzˈɜːv jʊɹ ɹᵻɡɹˈɛt ænd ɪz tˈuː sˈɛlfɪʃ tʊ ɐpɹˈiːʃɪˌeɪt ɪt.|802
+train-clean-360/3851/9210/3851_9210_000024_000004.wav|bɹˈɪdʒɪt hɐdbɪn sˈiːn ɪnðə mˈɑːɹkɪt plˈeɪs bᵻtˈaɪmz ðæt mˈɔːɹnɪŋ, ænd, wˈʌndɚfəl tə ɹᵻlˈeɪt, ʃiː hæd bˈɔːt ðə wˈʌn hˈɛɹ təbi hˌæd.|455
+train-clean-360/7030/64588/7030_64588_000013_000007.wav|æt sˈʌnsɛt pˈæɹəts ænd mˈʌŋkiz ɹᵻzˈuːm ðɛɹ tʃˈæɾɚ fɚɹə sˈiːzən, ænd ðˈɛn ɡˈɪv wˈeɪ tə ðə nˈɔɪzləs flˈaɪt ʌv ɪnˈuːmɚɹəbəl bˈæts tʃˈeɪsɪŋ ðə hˈɔːk mˈɑːθ ænd bˈiːɾəl.|740
+train-clean-360/6575/67592/6575_67592_000008_000000.wav|ɐ bjˈuːɾifəl kɹˈiːtʃɚɹ ˈɛntɚd.|520
+train-clean-360/1724/395/1724_395_000019_000001.wav|bˌʌt hˈɪɹ ɐɡˈɛn, wɪðˌaʊt lˈʊkɪŋ tə dˈuːɾi, ˈɔːl mˈɛn hæv ɔːlɹˌɛdi ðə stɹˈɔŋɡɪst ænd mˈoʊst ˈɪntᵻmət ɪŋklɪnˈeɪʃən tə hˈæpɪnəs, bɪkˈʌz ɪɾ ɪz dʒˈʌst ɪn ðɪs aɪdˈiə ðæt ˈɔːl ɪŋklɪnˈeɪʃənz ɑːɹ kəmbˈaɪnd ɪn wˈʌn tˈoʊɾəl.|567
+train-clean-360/7335/290365/7335_290365_000028_000001.wav|ɪn lˈaɪk mˈænɚɹ ɪt wɪl biː ɪn ɹˈɛfɹəns tʊ ˌɛni ˌɪmətˈɪɹiəl sˈʌbstəns, wˌɪtʃ ɪz vˈɔɪd ʌv ðæt kˈɑːnʃəsnəs wˈɛɹbaɪ aɪɐm maɪsˈɛlf tə maɪsˈɛlf: sˌoʊ ðæt aɪ kænˈɑːt əpˌɑːn ɹˌɛkəlˈɛkʃən dʒˈɔɪn wɪð ðæt pɹˈɛzənt kˈɑːnʃəsnəs wˈɛɹbaɪ aɪɐm nˈaʊ maɪsˈɛlf, ɪɾ ˈɪz, ɪn ðæt pˈɑːɹt ʌv ɪts ɛɡzˈɪstəns, nˈoʊmˌoːɹ maɪsˈɛlf ðɐn ˌɛni ˈʌðɚɹ ˌɪmətˈɪɹiəl bˈiːɪŋ.|170
+train-clean-360/1463/134465/1463_134465_000047_000000.wav|sˈændiz ˈaɪz wɜː vˈɛɹi bɹˈaɪt ænd aɪ hæd ɐn ˈɔːdiəns ˌɔn wˈaɪɚz.|894
+train-clean-360/3989/182402/3989_182402_000019_000000.wav|"nˈɛvɚ mˈaɪnd hˌaʊ aɪ nˈuː.|183
+train-clean-360/1448/135894/1448_135894_000047_000006.wav|aɪ ɚɹˈaɪvd ðɪs ˈiːvnɪŋ, ænd ðə fˈɜːst mˈæn aɪ mˈɛt wʌz ðɪs kˈæləndɚ, ˌaʊɚ bɹˈʌðɚ, hˌuː spˈoʊk bᵻfˈoːɹ mˌiː.|1007
+train-clean-360/5717/94876/5717_94876_000027_000001.wav|"aɪ mˈeɪ nˌɑːt biː ˈeɪbəl tə dˈuː mˈædʒɪk maɪsˈɛlf, bˌʌt aɪ kæn kˈɔːl tʊ ˌʌs ɐ pˈaʊɚfəl fɹˈɛnd hˌuː lˈʌvz mˌiː bɪkˈʌz aɪ ˈoʊn ðə lˈʌv mˈæɡnɪt, ænd ðɪs fɹˈɛnd ʃˈʊɹli wɪl biː ˈeɪbəl tə hˈɛlp ˌʌs."|813
+train-clean-360/1446/122614/1446_122614_000028_000012.wav|ɪnstˈɛd ʌv ɹˈʌʃɪŋ θɹuː ðə hˈɑːstəl lˈaɪnz, æz hɐdbɪn ɛkspˈɛktᵻd, hiː dʒˈʌst ˈɛntɚd ðə dˈeɪndʒɚɹəs dᵻfˈaɪl, ænd bᵻfˌoːɹ tˈaɪm wʌz ɡˈɪvən fɚɹə sˈɪŋɡəl blˈoʊ, tˈɜːnd ʃˈɔːɹt, ænd lˈiːpɪŋ ðə hˈɛdz əvɚ ɹˈoʊ ʌv tʃˈɪldɹən, hiː ɡˈeɪnd ɐtwˈʌns ðɪ ɛkstˈɪɹiɚ ænd sˈeɪfɚ sˈaɪd ʌvðə fɔːɹmˈɪdəbəl ɚɹˈeɪ.|745
+train-clean-360/6937/262269/6937_262269_000012_000000.wav|"aɪ wʊd nˌɑːt spˈɛɹ juː," hiː stɹˈʌk ˈɪn, fˈɪlɪŋ ˌʌp hɜː pˈɔːz.|979
+train-clean-360/3082/165428/3082_165428_000039_000004.wav|ðɪ ɐdvˈɛntʃɚz ʌv ðiːz pˈaɪɹəts ˌɔn ðɪs kˈoʊst ɑːɹ ɔːlɹˌɛdi sˈɛt dˌaʊn ɪn kˈæptɪn bˈoʊɪnz lˈaɪf, tə wˌɪtʃ aɪ ɹᵻfˈɜː ðə ɹˈiːdɚ, ænd ʃˌæl ˈoʊnli əbzˈɜːv, ðæt kˈæptɪn wˈaɪt wʌz ˈɔːl ðɪs tˈaɪm bᵻfˌoːɹ ðə mˈæst, bˌiːɪŋ ɐ fˈoːɹst mˈæn fɹʌmðə bɪɡˈɪnɪŋ.|954
+train-clean-360/6269/66176/6269_66176_000012_000002.wav|ɐ snˈoʊ bˈɔːl sˈoʊkt ɪn wˈɔːɾɚ ænd lˈɛft ˈaʊt tə kˈuːl wʌzɐ pɹədʒˈɛktəl wˌɪtʃ ɪn pɹˈiːviəs jˈɪɹz hɐdbɪn ɹᵻzˈɔːɹɾᵻd tə wɪð dɪzˈæstɹəs ɹɪzˈʌlts.|89
+train-clean-360/7245/104890/7245_104890_000109_000000.wav|aɪ lˈɪvd ˌɔn dɹˈɛd; tə ðoʊz hˌuː nˈoʊ ðə stˈɪmjʊləs ðɛɹ ɪz ɪn dˈeɪndʒɚ, ˈʌðɚɹ ˈɪmpəɾəs ɪz nˈʌm ænd vˈaɪɾəl lˈɛs.|189
+train-clean-360/2562/133442/2562_133442_000015_000001.wav|ɪt wʌz tˈɜːft, ænd hæd θɹˈiː fɹˈuːt tɹˈiːz.|462
+train-clean-360/6895/96175/6895_96175_000050_000000.wav|ɪt wʌzɐ θˈɪŋ lˈaɪk ɐ bˈʌɾɚflˌaɪ, ˈoʊnli lˈɑːɹdʒɚ, ænd ɪt kˈɛpt ɪts tˈoʊz ˈɔːlweɪz spɹˈɛd ˈaʊt, wɪð ɐ skˈɪn stɹˈɛtʃt bᵻtwˈiːn.|767
+train-clean-360/2137/131742/2137_131742_000004_000001.wav|æt ðə sˈeɪm tˈaɪm sˈʌtʃ ɐ lˈæmp mˈʌst ɹᵻkwˈaɪɚɹ ɐ ɹˈɛlətˌɪvli smˈɔːl ɐmˈaʊnt ʌv kˈɜːɹənt, ɪn ˈɔːɹdɚ ðæt kəmpˈæɹətˌɪvli smˈɔːl kəndˈʌktɚz kʊd biː jˈuːzd, ænd ɪts bˈɜːnɚ mˈʌst biː kˈeɪpəbəl ʌv wɪðstˈændɪŋ ðə nˌɛsɪsˈɛɹᵻli hˈaɪ tˈɛmpɹɪtʃɚz wɪðˌaʊt dˌɪsˌɪntᵻɡɹˈeɪʃən.|914
+train-clean-360/8396/120280/8396_120280_000029_000001.wav|"nˈoʊ, aɪ ɡˈɛs aɪl fˈɜːst skɹˈætʃ juː.|458
+train-clean-360/2256/137627/2256_137627_000005_000000.wav|nˈaʊ wɪl wiː spˈiːk ʌv sˌɜː lˈuːkən ðə bˈʌtlɚ, ðæt baɪ fˈɔːɹtʃʊn hiː kˈeɪm ɹˈaɪdɪŋ tə ðə sˈeɪm plˈeɪs ðɛɹˈæz wʌz sˌɜː tɹˈɪstɹæm, ænd ɪn hiː kˈeɪm ɪn nˈʌn ˈʌðɚɹ ɪntˈɛnt bˌʌt tʊ ˈæsk hˈɑːɹbɚ.|352
+train-clean-360/7982/245691/7982_245691_000040_000001.wav|nˈaʊ ðɪ ˈɪntəlˌɛkt ɪz ɐ pˈæsɪv pˈaʊɚɹ ɪn ɹᵻɡˈɑːɹd tə ðə hˈoʊl jˌuːnɪvˈɜːsəl bˈiːɪŋ: wˌaɪl ðə vˈɛdʒɪtˌeɪɾɪv pˈaʊɚɹ ɪz ˈæktɪv ɪn ɹᵻɡˈɑːɹd tə sˌʌm pɚtˈɪkjʊlɚ θˈɪŋ, nˈeɪmli, ðə bˈɑːdi æz juːnˈaɪɾᵻd tə ðə sˈoʊl.|1075
+train-clean-360/3294/167597/3294_167597_000011_000005.wav|hiː nˈoʊɾɪst ðɪs hˌɛzɪtˈeɪʃən ɪn dɹənz lˈʊk ænd ðˈɛɹfoːɹ fɹˈaʊnd ænd mˈuːvd klˈoʊsɚɹ ˈʌp tə hˌɪm.|478
+train-clean-360/1913/143521/1913_143521_000018_000007.wav|tə mˌiː ðə stˈoːɹi sˈiːmz tə bˈɛɹ ðə stˈæmp ʌv tɹˈuːθ əpˌɑːn ɪts fˈeɪs.|374
+train-clean-360/8388/278289/8388_278289_000005_000000.wav|"wɪl jʊɹ dˈɑːɡ bˈaɪt, mˈɪstɚ pˈɑːd?" kˈɔːld mˈɪstɚ ɡɹˈiːn.|288
+train-clean-360/8498/287359/8498_287359_000004_000001.wav|"wʌz ðˈæt juː, tˈɑːm swˈɪft?" hiː dᵻmˈændᵻd.|795
+train-clean-360/3230/137483/3230_137483_000019_000000.wav|"jˈɛs, bˌʌt ˈoʊnli ɐ slˈaɪt ɐdvˈæntɪdʒ."|775
+train-clean-360/3003/14274/3003_14274_000031_000001.wav|aɪ sˈɔː wˈʌn tˈɛst ðə ʃˈɑːɹp ˈɛdʒ əvə lˈɔŋ, wˈɪkᵻd lˈʊkɪŋ nˈaɪf, ænd ðˈɛn ɪt, ˈɔːlsoʊ, dˌɪsɐpˈɪɹd ˌʌndɚ hɪz blˈæŋkɪt.|482
+train-clean-360/5239/31629/5239_31629_000064_000002.wav|dˈɑːɡz hˈaʊld ænd sˈɔːt ðə kˈʌmpəni ʌv ðɛɹ mˈæstɚz, ænd wɛn dɹˈɪvən fˈɔːɹθ ðeɪ ɡˈeɪv ˈɛvɹi ˈɛvɪdəns ʌv fˈɪɹ.|732
+train-clean-360/4356/6498/4356_6498_000055_000000.wav|lˈeɪɾɚɹ ˈɔn, wˌɛn ðə vɪktˈoːɹiə wʌz wˈɛl ɐwˈeɪ fɹʌmðə fˈɔːɹt, dˈæɡmɚ tˈʊk hɜː kəmpˈæniən tə tˈæsk fɔːɹ hˈoʊldɪŋ ɪn pˈʌblɪk fɹˈɛndli dˈɪskoːɹs wɪð ɐ mˈɛmbɚɹ ʌvðə ɡˈɑːɹd, huːˈɛvɚ hiː mˌaɪt bˈiː.|138
+train-clean-360/598/127703/598_127703_000012_000000.wav|ɐnˈʌðɚ ɡɹˈænd wˈʌn dˈeɪ ɛkskˈɜːʃən ɪz tə ðɪ ˌʌpɚ joʊsˈɛməɾi fˈɔːl, ðə tˈɑːp ʌvðə hˈaɪɪst ʌvðə θɹˈiː bɹˈʌðɚz, kˈɔːld ˈiːɡəl pˈiːk ɔnðə dʒˌɪəlˈɑːdʒɪkəl sˈɜːveɪ mˈæps; ðə bɹˈaʊ ʌv ˌɛl kˈæpɪtən; ðə hˈɛd ʌvðə ɹˈɪbən fˈɔːl; əkɹˌɑːs ðə bjˈuːɾifəl ɹˈɪbən kɹˈiːk bˈeɪsən; ænd bˈæk tə ðə vˈæli baɪ ðə bˈɪɡ ˈoʊk flˈæt wˈæɡən ɹˈoʊd.|739
+train-clean-360/6575/67592/6575_67592_000025_000006.wav|kæn juː fˈɔːɹm ˌɛni aɪdˈiə ʌvðə tˈaɪm ænd θˈɔːt ðæt wiː hæv tə spˈɛnd ˌɔn ðiːz θˈɪŋz, ænd jˈɛt juː dˈɛɹ tə kˈʌm ɪn hˈɪɹ wɪð jʊɹ mˈɪzɹəbəl stˈoːɹiz.|520
+train-clean-360/2127/138047/2127_138047_000003_000000.wav|ʌvðə kˈaʊnsəlz wˌɪtʃ dˈɑːn kiːhˈoʊɾeɪ ɡˈeɪv sˈæntʃoʊ pˈænzə bᵻfˌoːɹ hiː sˈɛt ˈaʊt tuː ɡˈʌvɚn ðɪ ˈaɪlənd, təɡˌɛðɚ wɪð ˈʌðɚ wˈɛl kənsˈɪdɚd mˈæɾɚz |719
+train-clean-360/8742/245707/8742_245707_000020_000002.wav|bˌʌt ɪnðɪ ˈʌðɚɹ ˈænɪməlz ðə fˈiːmeɪl wʌz nˌɑːt mˌeɪd fɹʌmðə mˈeɪl.|471
+train-clean-360/3171/7574/3171_7574_000003_000008.wav|fɔːɹ ðˌɛm ðə wˈɜːld ʌvðɪ aɪdˈiəl hɐz nˈoʊ ɪfˈɪʃənt kɔːzˈælᵻɾi, ænd nˈɛvɚ bˈɜːsts ˌɪntʊ ðə wˈɜːld ʌv fɪnˈɑːmɪnə æt pɚtˈɪkjʊlɚ pˈɔɪnts.|713
+train-clean-360/1472/285314/1472_285314_000027_000001.wav|"pˌʊt mˌiː dˌaʊn æz ɐ səbskɹˈaɪbɚ, plˈiːz, ænd ɹᵻlˈaɪ əpˌɑːn maɪ səpˈoːɹt æɾ ˈɔːl tˈaɪmz.|152
+train-clean-360/5655/46268/5655_46268_000026_000002.wav|ðɛɹwˌʌz nˈoʊ mɪstˈeɪkɪŋ hˌɪm.|848
+train-clean-360/7276/284424/7276_284424_000084_000000.wav|ðə sˈeɪlɚ ɡlˈænst ɚɹˈaʊnd hˌɪm.|659
+train-clean-360/7594/81881/7594_81881_000025_000001.wav|"ɪf ðɛɹz ɐn ɔlmˈaɪɾi, hiː mˈʌst mˈuːv ɪn ɐ kˈɑːmən sˈɛns wˈeɪ; ˈʌðɚwˌaɪz ðə hˈoʊl ʌv ðɪs plˈænɪt wʊdhɐv bˈʌstᵻd ˌʌp lˈɔŋ ɐɡˈoʊ.|735
+train-clean-360/8396/240992/8396_240992_000013_000010.wav|ˈæftɚ hiː hæd wˈʌns ɐsˈɛndᵻd tə ðə fˈɑːðɚ, hiː nˌɑːt ˈoʊnli ɐpˈɪɹd tə hɪz dɪsˈaɪpəlz ɐɡˈɛn ænd ɐɡˈɛn, bˌʌt ðɛɹ hˈændz hˈændəld ðə wˈɜːd ʌv lˈaɪf, ænd hiː ˈeɪt ɪn ðɛɹ pɹˈɛzəns.|458
+train-clean-360/7120/76055/7120_76055_000015_000000.wav|"fɚɡˈɪv maɪ sˈɛndɪŋ fɔːɹ juː," hiː sˈɛd.|930
+train-clean-360/5809/51163/5809_51163_000025_000000.wav|"aɪ θˈɪŋk wiːʃˌɐl hæv tə stˈɑːp sˈuːn ænd fˈiːd ðə mjˈuːl ɔːɹ ʃiː wɪl biː tˈuː tˈaɪɚd tə ɡɛt ˌʌs əkɹˌɑːs ðə lˈaɪn æɾ ˈɔːl.|311
+train-clean-360/28/12332/28_12332_000118_000002.wav|aɪ dˈoʊnt θˈɪŋk ʃiː nˈoʊɾɪst ɪt, bˌʌt ˌɔːɾəmˈæɾɪkli wˈʌns mˈoːɹ ʃiː wˈeɪvd hˌɪm ɐsˈaɪd.|624
+train-clean-360/543/133217/543_133217_000007_000002.wav|pækˈɛt kəntˈɪnjuːd hɜː tɹˈeɪd wɛɹˈɛvɚ ʃiː wˈɛnt, bˌʌt mˌeɪd nˈʌθɪŋ ʌv ɪt.|676
+train-clean-360/764/132280/764_132280_000010_000005.wav|sˈɜːpənz nˈɪsi sˈɜːpɛntəm kəmˈɛdɚɹˌɪt nˈɑːn fˈɪt dɹˈeɪkoʊ.|570
+train-clean-360/5618/48831/5618_48831_000054_000002.wav|aɪl ˈæsk dˈeɪl tə kˈʌm ˌoʊvɚ tə dˈɪnɚɹ ˌɔn tˈuːzdeɪ; ænd ɪf hiːl kˈʌm, aɪl ɛksplˈeɪn ðə hˈoʊl mˈæɾɚ tə hˌɪm maɪsˈɛlf.|298
+train-clean-360/6927/86043/6927_86043_000029_000000.wav|ɔnðə sˈɛvənθ dˈeɪ ðeɪ ˈɔːl stˈɑːɹɾᵻd, ɐmˈɪdst θˈʌndɚɹəs səlˈuːts fɹʌmðə ɹˈæmpɑːɹts ʌvðə sˈɪɾi, ænd mˈʌtʃ dˈʌst, ænd tʃˈɪɹɪŋ, ænd blˈɛɹɪŋ ʌv tɹˈʌmpɪts.|585
+train-clean-360/5400/3587/5400_3587_000021_000001.wav|wˈɛl," ʃiː sˈɛd, pˈʊlɪŋ ˈaʊt hɜː wˈɛl wˈoːɹn pˈɜːs fɹʌm hɜː pˈɑːkɪt, "ɪf ɪt dˈʌz spɹˈɪŋkəl, juː ɡɛt ˌɪntʊ ɐ kˈɑːɹ, pˈɑːli, ɹᵻmˈɛmbɚ."|715
+train-clean-360/6215/62347/6215_62347_000021_000005.wav|mˈɪsɪz ɹˈeɪ spˈoʊk.|754
+train-clean-360/7752/113336/7752_113336_000018_000003.wav|ˈɛvɹɪθˌɪŋ hiː dˈɪd "wɛnt lˈaɪk klˈɑːkwɜːk," ænd hiː pɹˈaɪdᵻd hɪmsˈɛlf ˌɔn hɪz pˌʌŋktʃuːˈælᵻɾi.|577
+train-clean-360/4592/22179/4592_22179_000052_000000.wav|"aɪ nˈoʊ ðæt ʃiː lˈʌvz... wɪl lˈʌv juː," pɹˈɪnsɛs mˈɛɹi kɚɹˈɛktᵻd hɜːsˈɛlf.|41
+train-clean-360/6378/61781/6378_61781_000033_000000.wav|wɪð ɐn ᵻlˈæstɪk stˈɛphɪz kˈaʊntənəns ɹˈeɪdiənt ʌv tɹˈaɪʌmfðɪ ˈoʊld hˈʌntɚ stɹˈoʊd ɐwˈeɪ fɹʌmðə tɹˈiː, nˌoʊ lˈɑːŋɡɚɹ əpˌɑːn ðə kˈæɾəl pˈæθ, bˌʌt ðæt tˈeɪkən baɪ ðə mˈæn hˌuː hɐdbɪn sˌoʊ vˈaɪələntli dɪsmˈaʊntᵻd.|931
+train-clean-360/5029/30593/5029_30593_000027_000000.wav|"nˈoʊ, aɪ dɪdnˌɑːt sˈeɪ ðˈæt.|623
+train-clean-360/3105/166683/3105_166683_000019_000002.wav|ɪn ɐ sˈʌbsᵻkwənt tɹˈaɪəl, æt pˈæɹɪs, ɐ fˈaɪɚmən plˈeɪst hɪz hˈɛd ɪnðə mˈɪdəl əvə lˈɑːɹdʒ bɹˈeɪziɚ fˈɪld wɪð flˈeɪmɪŋ hˈeɪ ænd wˈʊd, ænd ɹᵻzˈɪstᵻd ðɪ ˈækʃən ʌvðə fˈaɪɚ dˈʊɹɹɪŋ fˈaɪv ɔːɹ sˈɪks mˈɪnɪts ænd ˈiːvən tˈɛn mˈɪnɪts.|1010
+train-clean-360/7398/98876/7398_98876_000004_000002.wav|θˈæŋks tə ðə kjˈʊɹɹətˌɪv pˈaʊɚz ʌv ɐpiz, skˌɑːɹlɐtˈiːnə hɐz sˈiːst təbi ɐ skˈɜːdʒ tə tʃˈaɪldhʊd.|797
+train-clean-360/1392/135659/1392_135659_000016_000001.wav|wˌɛn wiː ɹˈiːzən fɹʌm ɐnˈælədʒiz, ðə mˈæn, hˌuː hɐz ðə ɡɹˈeɪɾɚɹ ɛkspˈiəɹɪəns ɔːɹ ðə ɡɹˈeɪɾɚ pɹˈɑːmptɪtˌuːd ʌv sədʒˈɛstɪŋ ɐnˈælədʒiz, wɪl biː ðə bˈɛɾɚ ɹˈiːzənɚ.|1030
+train-clean-360/203/132073/203_132073_000013_000000.wav|wˈʌn ʌvðə tɹˈuːpɚz wʌzɐ wˈɛl sˈɛt ˈʌp, ˈæfəbəl, kˈuːl jˈʌŋ mˈæn, hˌuː kˈɔːld hɪmsˈɛlf oʊɹˈuːn.|1056
+train-clean-360/576/129623/576_129623_000018_000000.wav|"ˈoʊ, jˈɛs juː kˈʊd!" lˈæft ˈɛdnə.|738
+train-clean-360/1027/125140/1027_125140_000075_000001.wav|ɪt ʃˌæl biː sˈiːn tuː.|602
+train-clean-360/2769/176263/2769_176263_000074_000001.wav|mˈɪs lˈɪndən ɪz dɪsɡˈaɪzd ɪn jʊɹ ˈoʊld klˈoʊðz, ˈɪzənt ʃiː?|768
+train-clean-360/954/130627/954_130627_000025_000000.wav|ðeɪ pˌʊt hˌɪm ˌʌndɚ lˈæfɪŋ ɡˈæs wˈʌn jˈɪɹ, pˈʊɹ lˈæd, ænd dɹˈuː ˈɔːl hɪz tˈiːθ, ænd ɡˈeɪv hˌɪm ɐ fˈɔls sˈɛt, bɪkˈʌz hiː sˈʌfɚd sˌoʊ tˈɛɹᵻbli wɪð tˈuːθeɪk; ænd ðˈɛn ɪt tˈɜːnd tə nʊɹɹˈældʒə ænd ˈɪɹ ˈeɪk.|476
+train-clean-360/3851/9210/3851_9210_000027_000001.wav|ðə mˈeɪɚ hæd ɐ bᵻlˈiːf ɪn ɐ pɹˈiːst hˌuː hæd ɹᵻfjˈuːzd ðɪ ˈoʊθ, ɐ ɹˈɛfjuːdʒˌiː fɹʌm lˌæ vˈɛndiː; bˌʌt ðɪs lˈɛft hˌɪm nˌɑːɾə lˈɪɾəl ɛmbˈæɹəst hˌaʊ tʊ ɐkˈaʊnt fɚðə pˈɜːtʃɪs əvə hˈɛɹ ˌɔn ɐ fɹˈaɪdeɪ.|455
+train-clean-360/1731/142320/1731_142320_000082_000005.wav|wˌʌt! kɹˈaɪɪŋ, tʃˈaɪld?|1036
+train-clean-360/1283/136983/1283_136983_000061_000000.wav|"lə lˈuːp, tˈeɪk kˈɛɹ!" kˈeɪn ɛksklˈeɪmd, ɐ tˈɛɹᵻbəl mˈɛnɪs ɪn hɪz vˈɔɪs, "aɪ hæv nˈɛvɚ jˈɛt dˈʌn ɐ mˈæn tə dˈɛθ baɪ tˈɔːɹtʃɚ, bˌʌt baɪ ɡˈɑːd, sˌɜː, juː tˈɛmpt mˌiː!"|243
+train-clean-360/816/2301/816_2301_000035_000000.wav|"jˈɛs, jˈɛs, aɪ ˈɔːlweɪz hˈɜːd juː wɛn juː wɜː mˌeɪkɪŋ tˈiː," ɹᵻtˈɜːnd ðɪ ˈoʊld ˈɪŋɡlɪʃmən; "aɪ hˈɜːd ðə tˈiː θˈɪŋz.|428
+train-clean-360/8855/283228/8855_283228_000022_000000.wav|"sˈɛɹə kˈʌmz nˈɛkst.|978
+train-clean-360/192/128345/192_128345_000079_000003.wav|juː nˈoʊ ɪɾ ɪz ɐ kˈæpɪɾəl kɹˈaɪm, tə mˈoːɹn fɔːɹ, ɔːɹ sˈɪmpəθˌaɪz wɪð, ɐ vˈɪktɪm ʌvðə ɡˈɪlətˌiːn.|417
+train-clean-360/922/132300/922_132300_000012_000000.wav|ɐ spˈeɪssuːɾᵻd fˈɪɡjɚ sˈʌdənli ɐpˈɪɹd ɪnðə tˈaɪni ˈɛɹlɑːk, hˈoʊldɪŋ ɐ kˈɔɪl ʌv ɹˈoʊp.|1003
+train-clean-360/6406/89940/6406_89940_000024_000002.wav|lˈʊk æt mˌiː; ɪz ɪt pˈɑːsᵻbəl juː duːnˌɑːt nˈoʊ mˌiː?"|216
+train-clean-360/3922/715/3922_715_000126_000001.wav|wˌʌts ðɪs fɔːɹ, dʒˈɛntəlmən?" bɪɡˈæn mˈɪɾɪə, bˌʌt sˈʌdənli, æz ðˌoʊ bᵻsˌaɪd hɪmsˈɛlf, nˌɑːt nˈoʊɪŋ wʌt hiː wʌz dˈuːɪŋ, hiː kɹˈaɪd ɐlˈaʊd, æt ðə tˈɑːp ʌv hɪz vˈɔɪs:|144
+train-clean-360/1265/135635/1265_135635_000032_000000.wav|ɪts pˌʊt mˌiː ˈɔːl ˌoʊvɚɹ ɪn sˈʌtʃ ɐ tɹˈɛmbəl, bˈɛtsi,ɹᵻplˈaɪd mˈɪsɪz ɹˈædəl. ɹˈædəl ˈeɪnt lˈaɪk ɐ mˈæn; hiː lˈiːvz ˈɛvɹɪθˌɪŋk tə mˌiː.|948
+train-clean-360/166/352/166_352_000015_000002.wav|aɪ ðˈɛn ɹᵻflˈɛktᵻd, ænd ðə θˈɔːt mˌeɪd mˌiː ʃˈɪvɚ, ðætðə kɹˈiːtʃɚ hˈuːm aɪ hæd lˈɛft ɪn maɪ ɐpˈɑːɹtmənt mˌaɪt stˈɪl biː ðˈɛɹ, ɐlˈaɪv ænd wˈɔːkɪŋ ɐbˈaʊt.|45
+train-clean-360/4598/2503/4598_2503_000007_000002.wav|fˈoːɹ fˈiːt əbˌʌv ðə ɹˈuːmz ɹˈuːf wʌzðɪ ˈɑːɹtʃ ʌvðə dˈoʊm, wɪððɪ ˈɛntɹəns tə ðɪ ˈɛɡzɪt lˈɑːk dᵻɹˈɛktli əbˈʌv ˌʌs.|46
+train-clean-360/1641/130504/1641_130504_000056_000000.wav|lˈaɪk mjˈuːzɪk ɔnðə wˈɔːɾɚ |1022
+train-clean-360/3368/170951/3368_170951_000057_000000.wav|ɪt fˈɑːloʊz ðˈɛɹfoːɹ ðætðə ɡˈʊd ɪz nˌɑːt ðə kˈɔːz ʌv ˈɔːl θˈɪŋz, bˌʌt ʌvðə ɡˈʊd ˈoʊnli?|1106
+train-clean-360/6458/61323/6458_61323_000040_000003.wav|ɡˈɪlɡeɪməʃ, haʊˈɛvɚ, ɹᵻzˈɑːlvd tʊ ɛŋkˈaʊntɚɹ ˌɛni pˈɛɹəl, fɔːɹ hiː wʌz nˌoʊ lˈɑːŋɡɚɹ ɐfɹˈeɪd, ænd hiː wʌz ɐlˈaʊd tə ɡˌoʊ fˈɔːɹwɚd.|1019
+train-clean-360/724/123285/724_123285_000040_000005.wav|ɐn ɪlˈuːʒən hɐz lˈeɪd hˈoʊld əpˌɑːn mˌiː.|870
+train-clean-360/5133/30591/5133_30591_000035_000003.wav|ðə skˈoːɹɪŋ bɪɡˈæn, ænd sˈiːmd lˈaɪkli tə hæv nˈoʊ ˈɛnd.|1031
+train-clean-360/8619/291384/8619_291384_000005_000006.wav|ɐlˈaɪv wʌz hiː stˈɪl, stˈɪl wˈiːldɪŋ hɪz wˈɪts.|499
+train-clean-360/576/129623/576_129623_000082_000006.wav|ɪnðə lˈɑːɹdʒ ænd plˈɛzənt sɐlˈɑːn wˌɪtʃ ɛkstˈɛndᵻd əkɹˌɑːs ðə wˈɪtθ ʌvðə hˈaʊs, ðə ɹˈæɾɪɡnˌoʊlz ˌɛntɚtˈeɪnd ðɛɹ fɹˈɛndz wˈʌns ɐ fˈɔːɹtnaɪt wɪð ɐ swˈɑːɹeɪ mjˈuːzɪkˌeɪl, sˈʌmtaɪmz daɪvˈɜːsᵻfˌaɪd baɪ kˈɑːɹd plˈeɪɪŋ.|738
+train-clean-360/7495/102612/7495_102612_000087_000000.wav|ðɪs sˈɛkənd vˈɔɪs wʌz hˈɑːɹdli ɹˈeɪzd, bˌʌt ɪt kˈeɪm fɹʌm sˈoʊ mˌʌtʃ nˈɪɹɚ ðætðə wˈɜːdz kʊd biː dɪstˈɪŋktli hˈɜːd.|193
+train-clean-360/8848/293963/8848_293963_000060_000000.wav|"aɪɐm ɡlˈæd bɜːnˈɑːɹd dˈɪd," sˈɛd mˈɪs bˌɛɹəŋɡˈɛɹiə, ɛmfˈæɾɪkli; "ˈiːvən æt ðə ɹˈɪsk ʌv ˈɔːl ðæt skˈændəl."|873
+train-clean-360/2531/156720/2531_156720_000040_000001.wav|jʊɹ ˌɛdʒuːkˈeɪʃən wɪl"|854
+train-clean-360/3482/170452/3482_170452_000053_000000.wav|"stɹˈeɪndʒ ᵻvˈɛnts," baɪ lˈɔːɹd sˈiː ɐ ˈɛf wˈɛlɛsli.|218
+train-clean-360/188/141613/188_141613_000016_000000.wav|bˌʌt ɐɡˈɛn mˈɪstɚ pˈɛndəltən ˌɪntɚɹˈʌptᵻd wɪð ɐ lˈæf.|44
+train-clean-360/1463/134465/1463_134465_000058_000000.wav|bˈoʊθ sˈændi ænd aɪ bɪɡˈæn tə lˈæf.|894
+train-clean-360/8772/270777/8772_270777_000008_000000.wav|wiːʃˌɐl nˈaʊ kənsˈɪdɚɹ ɐ fjˈuː ɛɡzˈæmpəlz sˌoʊ ðæt wiː mˈeɪ bˈeɪs ˌaʊɚ fˈɜːðɚ dᵻdˈʌkʃənz əpˌɑːn ðˌɛm.|686
+train-clean-360/101/126861/101_126861_000005_000000.wav|ðiːz pˈaɪɹəts, ɐ bˈæd lˈɑːt ʌv mˈɛn, jˈuːzd tə wˈeɪt fɔːɹ sˈeɪlɚz təbi ʃˈɪpɹɛkt ˌɔn ðɛɹ ʃˈoːɹz.|406
+train-clean-360/718/129597/718_129597_000008_000000.wav|"ðə sˈeɪm, mˈæstɚ."|955
+train-clean-360/3380/64298/3380_64298_000006_000003.wav|fɹʌm nˈoʊ sˈoːɹs kʊd ðeɪ kˈʌm sˈeɪv ðə bˈoʊ ænd vaɪəlˈɪn ʌv dʒˈoʊsəf dʒˈæspɚ!|538
+train-clean-360/4598/2503/4598_2503_000051_000005.wav|wˈʌn ʌv ðˌɛm kˈɔːld ˈʌp tə mˌiː, bˌʌt aɪ ɪɡnˈoːɹd hˌɪm.|46
+train-clean-360/318/124164/318_124164_000022_000000.wav|"ʃiː ɪz sˌoʊ fˈɑːnd ʌv mˈɪsɪz fˈɔːɹstɜː," sˈɛd ʃiː, "ɪt wɪl biː kwˈaɪt ʃˈɑːkɪŋ tə sˈɛnd hɜːɹ ɐwˈeɪ!|217
+train-clean-360/7245/104890/7245_104890_000122_000000.wav|fˈɑːɹ sˈeɪfɚ, əvə mˈɪdnaɪt mˈiːɾɪŋ ɛkstˈɜːnəl ɡˈoʊst, ðˌænən ɪntˈɪɹiɚ kənfɹˈʌntɪŋ ðæt wˈaɪɾɚ hˈoʊst.|189
+train-clean-360/3274/163518/3274_163518_000108_000000.wav|sˌoʊ sˈeɪɪŋ hiː tˈʊk ˌʌp ɐ ɹˈaɪfəl wˌɪtʃ hiː hæd lˈeɪd æt hɪz bˈɛdsaɪd.|85
+train-clean-360/2149/8912/2149_8912_000004_000000.wav|"aɪ hɐvbɪn θˈɪŋkɪŋ ʌv ðˈɪs, sˌɜː," hiː sˈɛd, "ænd aɪɐm ʌv əpˈɪniən ðˌɐɾɪt wʊd biː bˈɛst tə pˌʊt ˈɔf jʊɹ vˈɪzɪt fɚðə pɹˈɛzənt."|634
+train-clean-360/1923/161972/1923_161972_000030_000000.wav|"aɪɐm sˈɑːɹi," aɪ sˈɛd kˈoʊldli, "bˌʌt ɹˈiəli, aɪ duːnˌɑːt sˈiː wˌaɪ ɪɾ ɪz ˌɛni mˈoːɹ ɪŋkˈʌmbənt ˌɔn mˌiː tə tɹˈaɪ tʊ ˌoʊvɚkˈʌm maɪ vˈɛɹi ɹˈiːəl ɐvˈɜːʒən tə kˈæts ðɐn ɪɾ ɪz fɔːɹ juː tə tɹˈaɪ tə dˈuː wɪðˌaʊt ðɛɹ səsˈaɪəɾi."|786
+train-clean-360/126/122467/126_122467_000072_000004.wav|hæv juː ðə dˈaɪəmənd?" kəntˈɪnjuːd ˈæθoʊz.|915
+train-clean-360/2229/152864/2229_152864_000049_000006.wav|ðə wˈɪnd mˈɛt ænd pˈæst ˌʌs lˈaɪk ɐ tɔːɹnˈeɪdoʊ.|759
+train-clean-360/8742/245708/8742_245708_000011_000000.wav|fˈaɪv wˈɛðɚ ðɪ ˈɪmɪdʒ ʌv ɡˈɑːd ɪz ɪn mˈæn baɪ kəmpˈæɹɪsən wɪððɪ ˈɛsəns, ɔːɹ wɪð ˈɔːl ðə dᵻvˈaɪn pˈɜːsənz, ɔːɹ wɪð wˈʌn ʌv ðˌɛm?|471
+train-clean-360/459/123443/459_123443_000049_000000.wav|juːl ɡɛt jˈuːzd tʊ ɪɾ ɪn tˈaɪm,sˈɛd ðə kˈæɾɚpˌɪlɚ; ænd ɪt pˌʊt ðə hˈʊkə ˌɪntʊ ɪts mˈaʊθ ænd bɪɡˈæn smˈoʊkɪŋ ɐɡˈɛn.|1128
+train-clean-360/231/119253/231_119253_000011_000004.wav|lˈɛt ˌʌs biː fɹˈɛndz."|1024
+train-clean-360/8410/278217/8410_278217_000022_000001.wav|aɪ hæv ɐn ɐpˈɔɪntmənt wɪð hˌɪm æt wˈʌn əklˈɑːk.|314
+train-clean-360/7481/101276/7481_101276_000087_000000.wav|nˈoʊ, sˌɜː,ɹᵻplˈaɪd dʒˈɛm. aɪɐm ɐn ɛkspˈiəɹɪənst kˈʊk, ænd ɪf juː wɪl kˈaɪndli tˈeɪk mˌiː tə ðə hˈɛd kˈʊk hiː mˈeɪ fˈaɪnd mˌiː ʌv sˌʌm jˈuːs.|20
+train-clean-360/7258/91902/7258_91902_000006_000006.wav|ðeɪ mˈɑːɹk ðɪ ˈæltɪtˌuːd æt wˌɪtʃ hɪz spˈɪɹɪt lˈʌvd tə dwˈɛl.|269
+train-clean-360/274/121382/274_121382_000065_000000.wav|"ˌɪntʊ ðə sˈɜːvɪsðə kˈɪŋz sˈɜːvɪs?" mˈaʊskwɛtən tɹˈɛmbəld; ˈiːvən hɪz fˈæt, smˈuːð tʃˈiːks ʃˈʊk æz hiː spˈoʊk, ænd hiː lˈʊkt æt dˈɑːɹɾæɡnən wɪð ɐn ˈɛɹ ʌv ɹᵻpɹˈoʊtʃ; hiː stˈæɡɚd, ænd hɪz vˈɔɪs wʌz ˈɔːlmoʊst tʃˈoʊkt.|1054
+train-clean-360/4744/4158/4744_4158_000006_000011.wav|dʒˈeɪn ɹˈoʊt ɐ hˈeɪsti nˈoʊt ænd θɹˈuː ɪɾ ˌaʊɾəv ðə wˈɪndoʊ, wˌɪtʃ wʌz ˈiːɡɚli pˈɪkt ˌʌp baɪ ðə jˈʌŋ mˈæn, ænd hiː sˈuːn dˌɪsɐpˈɪɹd ɪnðə wˈʊdz. nˈaɪt pˈæst ɐwˈeɪ ɪn dɹˈɪɹinəs tə hɜː, ænd ðə nˈɛkst mˈɔːɹnɪŋ ʃiː vjˈuːd ðə spˈɑːt bᵻnˌiːθ hɜː wˈɪndoʊ wɪððə hˈoʊp ʌv sˈiːɪŋ ðə fˈʊtstɛps ʌv hˌɪm hˌuː hæd stˈʊd ðɛɹ ðə pɹˈiːviəs nˈaɪt.|560
+train-clean-360/2113/132484/2113_132484_000044_000010.wav|dˈoʊnt ɪŋkwˈaɪɚɹ ɐbˈaʊt mˌiː.|111
+train-clean-360/6235/36641/6235_36641_000051_000001.wav|ɪts mˈæs ʌv fˈɪləmənts ɐtˈætʃt ɪt tʊ ɐ tˈeɪbəl ʌv ɡɹˈænɪt, ænd ðɛɹ ɪt ɡɹˈuː baɪ ɪtsˈɛlf ɪnðə mˈɪdst ʌvðə kˈeɪvz kˈɑːm wˈɔːɾɚz.|48
+train-clean-360/209/157830/209_157830_000004_000002.wav|ʃiː dɹˈuː ˌʌp plˈænz ʌv ɪkˈɑːnəmi, ʃiː mˌeɪd ɛɡzˈækt kˌælkjʊlˈeɪʃənz, ænd ʃiː dˈɪd wʌt nˈoʊbɑːdi ˈɛls θˈɔːt ʌv dˈuːɪŋ: ʃiː kənsˈʌltᵻd ˈæn, hˌuː nˈɛvɚ sˈiːmd kənsˈɪdɚd baɪ ðɪ ˈʌðɚz æz hˌævɪŋ ˌɛni ˈɪntɹɛst ɪnðə kwˈɛstʃən.|1067
+train-clean-360/274/121398/274_121398_000046_000000.wav|"ˈɛɡæd!" sˈɛd dˈɑːɹɾæɡnən, "baɪ hˈɛvən! jˈɛs."|1054
+train-clean-360/6395/87997/6395_87997_000020_000006.wav|tə hɪz fɹˈɛndz hˌuː wɜː fɹˈiːkwəntli ðɪ ˈɑːbdʒɛkts ʌv ɪt, ðɛɹwˌʌz nˌɑːt pɚhˈæps ˌɛni wˈʌn ʌv ˈɔːl hɪz ɡɹˈeɪt ænd ˈeɪmiəbəl kwˈɔlᵻɾiz wˌɪtʃ kəntɹˈɪbjuːɾᵻd mˈoːɹ tʊ ɛndˈɪɹ hɪz kɑːnvɚsˈeɪʃən.|632
+train-clean-360/922/132299/922_132299_000039_000003.wav|ðɛɹwˌʌz hˈæf ɐn ˈaʊɚ lˈɛft wɛn hiː bɪɡˈæn ˈoʊpənɪŋ ðə lˈɪɾəl bˈɑːɾəlz ænd mˌeɪkɪŋ hɪz fˈɪlmz.|1003
+train-clean-360/3864/185126/3864_185126_000016_000002.wav|bˌʌt hiː wʌz lˈɛs pɚspɪkˈeɪʃəs ðɐn ðɪ ˈoʊldɚ mˈæn.|350
+train-clean-360/79/121541/79_121541_000203_000000.wav|hˈɪɹ pˈɪɾi lˈaɪvz wɛn ɪɾ ɪz hˈoʊli dˈɛd; hˌuː ɪz ɐ ɡɹˈeɪɾɚ ɹˈɛpɹəbˌeɪt ðɐn hiː hˌuː fˈiːlz kəmpˈæʃən æt ðə dˈuːm dᵻvˈaɪn?|796
+train-clean-360/258/121528/258_121528_000018_000004.wav|wˌɛn ðə tʃˈaɪld ʌv mˈɔːɹnɪŋ, ɹˈoʊzi fˈɪŋɡɚd dˈɔːn, ɐpˈɪɹd, ðeɪ ɐɡˈɛn jˈoʊkt ðɛɹ hˈɔːɹsᵻz ænd ðɛɹ plˈeɪsᵻz ɪnðə tʃˈæɹiət.|939
+train-clean-360/7525/92915/7525_92915_000046_000001.wav|wɪð wˈʌn ʌv hɪz fˈɑːloʊɚz hiː hæd pˈɑːɹɾeɪkən əvə dˈɪʃ ðæt hɐdbɪn pɹɪpˈɛɹd fɔːɹ hˌɪm baɪ ɐ dʒˈuːɪʃ ɡˈɜːl hˌuː hˈeɪɾᵻd hˌɪm ænd ˈɔːl ʌv hɪz sˈɛkt.|1140
+train-clean-360/5126/34483/5126_34483_000025_000001.wav|aɪ wˈiːnd hɜː lˈæst kˈɑːɹnɪvəl."|561
+train-clean-360/3274/163518/3274_163518_000047_000000.wav|jˈɛs, ðɛɹwˌʌz nˈoʊ hˈɛlp fɔːɹ ɪt, sˈɛd ðə mˈæstɚ θˈiːf; hiː ʃˌʊd ɡˌoʊ wˈɛðɚ hiː wʊd ɔːɹ nˈoʊ; ænd ɪf hiː dɪdnˌɑːt ɡˌoʊ baɪ fˈɛɹ mˈiːnz, hiː wʊd sˈuːn mˌeɪk hˌɪm ɡˌoʊ baɪ fˈaʊl.|85
+train-clean-360/3094/136458/3094_136458_000011_000012.wav|ˈɔːl ðə spˈɪɹɪt ʌv kˈɑːntɹɛɹi, ðæts ˈɔːl.|94
+train-clean-360/3274/163518/3274_163518_000052_000000.wav|jˈɛs, ðə skwˈaɪɚ sˈɔː ɪt ɹˈʌnɪŋ tˈuː.|85
+train-clean-360/8494/244443/8494_244443_000037_000002.wav|aɪ hæv hæd ɐ lˈɛɾɚ fɹʌm hˌɪm hˈɪɹ, ænd, ɪf ɪɾ ɪz jʊɹ plˈɛʒɚ ænd ðæt ʌv dʒˈɛnɚɹəl bˈoʊɹɪɡˌɑːɹd, aɪʃˌɐl biː ɡlˈæd tə dʒˈɔɪn hɪz kəmˈænd."|137
+train-clean-360/6458/232057/6458_232057_000151_000001.wav|"juː ɑːɹ ɐ dɪtˈɜːmɪnd jˈʌŋ mˈæn," hiː sˈɛd, "ænd ˈoʊnli hˈæf sˈɪvəlˌaɪzd.|1019
+train-clean-360/6446/57416/6446_57416_000031_000000.wav|ðə nˈɛkst nˈaɪt dˈiːdæləs mˌeɪd sˌʌm tʃˈeɪndʒᵻz ɪnðə wˈɪŋz.|1097
+train-clean-360/119/129513/119_129513_000041_000000.wav|ɔnðə mˈɑːɹoʊ ˈæftɚ ðɪs kɑːnvɚsˈeɪʃən ˈɛvɹi mˈɛmbɚɹ ʌvðɪ ɐsˌoʊsɪˈeɪʃən ɹᵻsˈiːvd ɐ sˈiːld sˈɜːkjʊlɚ kˈaʊtʃt ɪnðə fˈɑːloʊɪŋ tˈɜːmz:|1141
+train-clean-360/2775/160958/2775_160958_000108_000001.wav|bˌʌt bjˈuːɾi, hˈæpɪli mˈæɹid tə hɜː pɹˈɪns, wɛnt sˈiːkɹᵻtli tə ðə stˈætʃuːz ˈɛvɹi dˈeɪ ænd wˈɛpt ˈoʊvɚ ðˌɛm.|572
+train-clean-360/5583/41259/5583_41259_000005_000000.wav|ɪt wʌz sˌoʊ dˈɑːɹk wɛn aɪ ˈɛntɚd ðə kˈoʊtʃ ðæt aɪ kʊd nˌɑːt dɪstˈɪŋɡwɪʃ ðə nˈʌmbɚɹ ʌv maɪ fˈɛloʊ tɹˈævɛlɚz; aɪ kʊd ˈoʊnli pɚsˈiːv ðæt ðeɪ wɜː mˈɛni.|1092
+train-clean-360/3114/170977/3114_170977_000080_000000.wav|ænd ɹˈiːzənɪŋ ɪz pɪkjˈuːlɪɹli hɪz ˈɪnstɹəmənt?|253
+train-clean-360/2787/157400/2787_157400_000041_000000.wav|"aɪ hˈoʊp ðɛɹ ɪz nˈoʊ ɹˈiːzən," hiː sˈɛd ɡɹˈeɪvli.|770
+train-clean-360/1638/84447/1638_84447_000010_000000.wav|"ɡˈoʊst ʌvðə fjˈuːtʃɚ!" hiː ɛksklˈeɪmd, "aɪ fˈɪɹ juː mˈoːɹ ðɐn ˌɛni spˈɛktɚɹ aɪ hæv sˈiːn.|696
+train-clean-360/2053/138901/2053_138901_000024_000003.wav|ðˈɪs, haʊˈɛvɚ, hiː dɪdnˌɑːt dˈuː ˌɔːltəɡˈɛðɚɹ ɪn bˈɛlfiːldz hˈɪɹɪŋ.|1039
+train-clean-360/205/159056/205_159056_000024_000001.wav|nˈʌθɪŋ kʊd stˈɑːp hˌɪm.|456
+train-clean-360/7874/110243/7874_110243_000116_000004.wav|aɪ dˈoʊnt θˈɪŋk ðæt aɪɐm ɐ kˈaʊɚd, wˈɑːtsən, bˌʌt ðæt sˈaʊnd sˈiːmd tə fɹˈiːz maɪ vˈɛɹi blˈʌd.|502
+train-clean-360/7910/80534/7910_80534_000073_000000.wav|ɪf juː wˈɛnt,hiː kəntˈɪnjuːd, hˈʌskili, aɪ ʃˌʊd biː ɐfɹˈeɪd maɪsˈɛlf.|407
+train-clean-360/5246/5084/5246_5084_000016_000001.wav|bˌʌt ðɛɹ ɪz nˌɑːt wˈʌn ʌv ðˌɛm tə mˈɛnd ɐnˈʌðɚ.hæv juː ɹˈɛd mˈɑːɹkæm?" sˈɛd mˈɪs vˈɜːnən.|376
+train-clean-360/126/122467/126_122467_000078_000000.wav|"bˌʌt, dʒˈɛntəlmən, ɪn ˈɔːl ðˈɪs," sˈɛd dˈɑːɹɾæɡnən, "wiː duːnˌɑːt θˈɪŋk ʌvðə kwˈiːn.|915
+train-clean-360/3733/140718/3733_140718_000017_000000.wav|aɪ hæv stɹˈeɪndʒ tɛmptˈeɪʃənz tə ɡɛt ɐwˈeɪ ɪn hɜːɹ ˈæbsəns, fɔːɹ ˈɔːl ðiːz fˈaɪn ɐpˈɪɹənsᵻz.|192
+train-clean-360/7000/83708/7000_83708_000031_000003.wav|nˈoʊ pɚfˈoːɹməns ʌv "dˈʌbəljˌuː.|400
+train-clean-360/6054/41610/6054_41610_000067_000002.wav|wiː dˈɪdnt kˈʌm hˈɪɹ tə kwˈɔːɹəl, bˌʌt aɪ ɐpˈiːl tə juː, æz mˈɛmbɚz ʌvðə dʒˈuːnjɚ klˈæs, tə θˈɪŋk bᵻfˌoːɹ juː dˈuː sˈʌmθɪŋ ðæt ɪz bˈaʊnd tə kˈɔːz ˌʌs ˈɔːl ɐnˈɔɪəns ænd pɚhˈæps ʌnhˈæpɪnəs."|802
+train-clean-360/4734/220951/4734_220951_000011_000003.wav|moːɹˈoʊvɚ, ðə pˈɪktʃɚ kænˈɑːt biː lˈaɪk ðə pˈeɪntɚ; ˈʌðɚwˌaɪz, ðə pˈeɪntɪŋ wʊdhɐv kɹiːˈeɪɾᵻd ɪtsˈɛlf.|277
+train-clean-360/3032/19361/3032_19361_000091_000001.wav|wˌʌt kˈɛplɚ mˌaɪthɐv ɐtʃˈiːvd hæd hiː bˌɪn ɹᵻlˈiːvd ʌv ðoʊz ɡˈæstli stɹˈʌɡəlz fɔːɹ sʌbsˈɪstəns wˈʌn kænˈɑːt tˈɛl, bˌʌt ðɪs mˈʌtʃ ɪz klˈɪɹ, ðæt hæd tˈaɪkoʊ bˌɪn sˈʌbdʒɛktᵻd tə ðə sˈeɪm mɪsfˈɔːɹtʃʊn, ɪnstˈɛd ʌv bˌiːɪŋ bˈɔːɹn ɹˈɪtʃ ænd bˌiːɪŋ ɐsˈɪstᵻd baɪ dʒˈɛnɚɹəs ænd ɛnlˈaɪʔn̩d pˈeɪtɹənz, hiː kˌʊdɐv ɐkˈɑːmplɪʃt vˈɛɹi lˈɪɾəl.|142
+train-clean-360/8573/286306/8573_286306_000057_000003.wav|fˈaɪɾɪŋ wɪð ɛkstɹˈiːm ˈɑːbstɪnəsi ðə kˌɑːɹθɐdʒˈɪniən sˈɛntɚ wʌz fˈoːɹst ɡɹˈædʒuːəli bˈæk ʌntˈɪl ðeɪ wɜːɹ ɐɡˈɛn ɪn ɐ lˈaɪn wɪððɪ ˈæfɹɪkənz ˌɔn ðɛɹ flˈæŋks.|390
+train-clean-360/4278/13269/4278_13269_000023_000000.wav|ðɛɹ hæd spɹˈʌŋ ˌʌp ɪn ðˌɛm æt ðə sˈeɪm tˈaɪm ɐ lˈɔŋɪŋ ðæt ɐmˈaʊntᵻd tʊ ɐ pˈæʃən, tə ɡɛt nˈɪɹɚ ðə ɡɹˈeɪt fˈɪzɪkəl pˈɑːvɚɾi ænd spˈɪɹɪtʃˌuːəl dˌɛstɪtˈuːʃən ʌvðə mˈaɪɾi sˈɪɾi ðæt θɹˈɑːbd ɚɹˈaʊnd ðˌɛm.|957
+train-clean-360/2570/157243/2570_157243_000071_000002.wav|ðɪ ᵻlˈɛktɹɪk lˈaɪts, ɪt sˈɛd, wɜː mˈædʒɪk tˈoːɹtʃᵻz lˈaɪɾᵻd fɔːɹ ɪts sˈeɪk, ænd ɪt wʌz sˌoʊ tʃˈɑːɹmd wɪððə fˈʊtlaɪts ðætðə tʃˈɪldɹən kʊd hˈɑːɹdli pɚswˈeɪd ɪt tə sˈɪt stˈɪl.|921
+train-clean-360/8699/291107/8699_291107_000286_000001.wav|aɪ nˈoʊ wˈʌt juː |430
+train-clean-360/188/135249/188_135249_000032_000000.wav|"ˈoʊ, aɪm sˌoʊ ɡlˈæd!|44
+train-clean-360/2577/157236/2577_157236_000180_000000.wav|jˈɛs, θˈæŋk juː,sˈɛd ɹˈɑːbɚt.|1101
+train-clean-360/4064/12118/4064_12118_000030_000000.wav|"nˈoʊ, nˈoʊ, sˈɛnɚ, ɐ lˈɪɾəl tˈɜːn ʌvðə ɹˈɪst, sˌoʊ slˈaɪt juː wʊd nˌɑːt sˈiː, wʊd kˈɔːz dˈɛθ.|463
+train-clean-360/8699/291107/8699_291107_000217_000000.wav|hiː fˈɑːloʊd ðə ɹˈoʊd bˈæk tə wʌt hiː hæd lˈɛft bᵻhˈaɪnd.|430
+train-clean-360/1383/130533/1383_130533_000011_000000.wav|aɪ θˈɪŋk ɪɾ ɪz nˌɑːt tˈuː mʌtʃ tə sˈeɪ |33
+train-clean-360/2481/163597/2481_163597_000006_000005.wav|pɹˈɛzəntli hiː kˈeɪm ˌʌp wɪððə bˈiːst, ænd ðeɪ bɪɡˈæn ɐ fˈaɪt.|465
+train-clean-360/5635/44582/5635_44582_000025_000001.wav|twˈɛlv sˈɛntʃɚɹiz ˈæftɚwɚdz hɪz fˈɑːloʊɚz mˈɑːɹtʃt tə ðə hˈoʊli lˈænd tə dᵻstɹˈɔɪ ˈɔːl hˌuː dˈɪfɚd wɪð ðˌɛm ɪnðə wˈɜːʃɪp ʌvðə ɡˈɑːd ʌv lˈʌv.|963
+train-clean-360/8347/258283/8347_258283_000005_000016.wav|ænd mˈɛn ˈɔːlsoʊ ɹᵻlˈeɪt ðə tˈeɪl ʌv |419
+train-clean-360/612/121766/612_121766_000039_000004.wav|bˌʌt ɪɾ ɪz ɐ vˈɛɹi dɹˈɛdfəl θˈɪŋ tə θɹˈoʊ dˈɪfɪkˌʌltiz ɪnðə wˈeɪ ʌv ɹᵻpˈɛntəns ænd tˈɜːnɪŋ fɹʌm ˈiːvəl wˈɜːks."|1093
+train-clean-360/2775/160958/2775_160958_000004_000000.wav|wˈʌns əpˌɑːn ɐ tˈaɪm ðɛɹwˌʌz ɐ ɹˈɪtʃ mˈɜːtʃənt, hˌuː hæd θɹˈiː dˈɔːɾɚz. ðeɪ lˈɪvd ɪn ɐ vˈɛɹi fˈaɪn hˈaʊs ɪn ɐ bjˈuːɾifəl sˈɪɾi, ænd hæd mˈɛni sˈɜːvənts ɪn ɡɹˈænd lˈɪvɚɹiz tə wˈeɪt əpˌɑːn ðˌɛm.|572
+train-clean-360/7313/91072/7313_91072_000034_000003.wav|sˈeɪnt lˈuːi, ˈɔːlbəni, ˌɪndiənˈæpəlˌɪs, nˈæʃvɪl, ænd ˈʌðɚ sˈɪɾiz hˈɛld məmˈoːɹɪəl mˈiːɾɪŋz.|64
+train-clean-360/2256/137597/2256_137597_000011_000005.wav|ðæt wɪl wiː nˈɑːt, sˈɛd ðeɪ, fɚɹən wiː dˈuː bˈæɾəl, wiː tˈuː wɪl fˈaɪt wɪð wˈʌn nˈaɪt ɐtwˈʌns, ænd ðˈɛɹfoːɹ ɪf jiː wɪl fˈaɪt sˈoʊ, wiː wɪl biː ɹˈɛdi æt wʌt ˈaʊɚ jiː wɪl ɐsˈaɪn.|352
+train-clean-360/4800/38660/4800_38660_000016_000000.wav|"maɪ lˈɛɾɚ dᵻspˈætʃt," mˈɪstɚɹ ˈɛndʒɛlmən kəntˈɪnjuːd, "aɪ bˈɛɡd bˈoʊθ ðə dˈɑːktɚz tə spˈiːk wɪð mˌiː bᵻfˌoːɹ ðeɪ wɛnt ɐwˈeɪ, ɪn maɪ pɹˈaɪvət ɹˈuːm.|74
+train-clean-360/1027/125147/1027_125147_000118_000001.wav|ˈɑːnɚ bɹˈaɪt,sˈɛd flˈɛdʒbi.|602
+train-clean-360/8050/110238/8050_110238_000101_000001.wav|hˈoʊmz lˈʊkt ˈiːɡɚli ɹˈaʊnd fɔːɹ ɐnˈʌðɚ, bˌʌt nˈoʊ ˈɛmpti wˈʌn wʌz ɪn sˈaɪt.|524
+train-clean-360/8194/89390/8194_89390_000024_000000.wav|ðə fˈɜːst wˈɜːdz wɜːɹ ɪn ˈæɹɐbˌɪk, ðˈɛn ðə slˈoʊ, sˈɔft vˈɔɪs lˈæpst ˌɪntʊ fɹˈɛntʃ, pjˈʊɹ æz ðə vˈɪkɑːmts ˈoʊn.|1034
+train-clean-360/2751/142362/2751_142362_000031_000004.wav|hiːd ɡɑːt nˈʌθɪŋ ˈɛls tə θˈɪŋk ˈɔn."|791
+train-clean-360/216/122451/216_122451_000089_000000.wav|"ðˈɛn," kəntˈɪnjuːd hiː, "ðɛɹ ɪz ɐ hˈɔːɹs fɔːɹ maɪ lˈæki, ænd maɪ vɐlˈiːs.|514
+train-clean-360/7867/110742/7867_110742_000004_000004.wav|baɪ mˈɛni ɐ wˈɛt dʒˈækɪt dˈuː aɪ ɹᵻmˈɛmbɚ hˌɪm.|433
+train-clean-360/1265/135635/1265_135635_000054_000001.wav|ðə kˈʌntɹi fɚɹə wˈuːndᵻd spˈɪɹɪt, ðeɪ sˈeɪ.|948
+train-clean-360/2053/138888/2053_138888_000001_000000.wav|tʃˈæptɚ fˈɪfti tˈuː.|1039
+train-clean-360/2638/10172/2638_10172_000004_000002.wav|ɪn plˈeɪnɚ tˈɜːmz, ðə stɹˈeɪndʒɚ fɹʌm ɹˈoʊzmɚɹi lˈeɪn wʌz nˈoʊ ˈʌðɚ ðɐŋkˈæptɪn ɹˈæɡ.|871
+train-clean-360/922/132299/922_132299_000051_000003.wav|fˈoːɹ sˈɛkəndz ... θɹˈiː ... tˈuː....|1003
+train-clean-360/8848/293957/8848_293957_000025_000001.wav|"ʃˌʊd juː mˈiːt ðə bˈɔɪ sˈeɪ nˈʌθɪŋ tə hˌɪm."|873
+train-clean-360/5802/76044/5802_76044_000003_000000.wav|"ðə hˈiːlɪŋ tˈʌtʃ ʌv hˈɪstɚɹi."|1116
+train-clean-360/8699/291107/8699_291107_000085_000002.wav|hiː kʊd nˌɑːt fˈeɪl təbi ɪmpɹˈɛst ɐfɹˈɛʃ baɪ ðə fˈoːɹsfəl ɛkstˈɪɹiɚ, sɪɡnˈɪfɪkənt ʌvðɪ ˈɪnɚɹ ˈæɾɪtˌuːd wˌɪtʃ hæd wˈʌn fɔːɹ hˈɛnɹi mˈæksaɪnəf ɐ nˈeɪm ˈɑːnɚd ɐmˌʌŋ nˈeɪʃənz.|430
+train-clean-360/166/352/166_352_000024_000000.wav|"juː wɪl ɹᵻpˈeɪ mˌiː ɛntˈaɪɚli ɪf juː duːnˌɑːt dɪskəmpˈoʊz joːɹsˈɛlf, bˌʌt ɡɛt wˈɛl æz fˈæst æz juː kˈæn; ænd sˈɪns juː ɐpˈɪɹ ɪn sˈʌtʃ ɡˈʊd spˈɪɹɪts, aɪ mˈeɪ spˈiːk tə juː ˌɔn wˈʌn sˈʌbdʒɛkt, mˈeɪ aɪ nˈɑːt?"|45
+train-clean-360/4945/29090/4945_29090_000021_000004.wav|sˈeɪf. ðə tˈɛn"|159
+train-clean-360/7000/83708/7000_83708_000032_000008.wav|ɪn kˈoːɹs ʌv tˈaɪm ðɪs hæd dwˈɪndəld tə hˈæf ɐ dˈʌzən stɹˈæɡlɚz.|400
+train-clean-360/17/362/17_362_000020_000000.wav|"ðɪs wʌz ðˈɛn ðə ɹᵻwˈɔːɹd ʌv maɪ bənˈɛvələns!|866
+train-clean-360/576/129623/576_129623_000025_000008.wav|aɪ mˈɪs ðə pˈʊɹ fˈɛloʊ maɪsˈɛlf, maɪ dˈɪɹ.|738
+train-clean-360/2769/169619/2769_169619_000001_000000.wav|stˈiːvən ɡɹˈɛʃæm wʌz ɪn hɪz ˈɜːli sˈɪkstiz, bˌʌt hiː kˌʊdɐv stˈɪl wˈoːɹn hɪz wˈɜːld wˈɔːɹ wˈʌn jˈuːnɪfˌɔːɹm wɪðˌaʊt ˈɛnɪθˌɪŋ ɡˈɪvɪŋ æt ðə sˈiːmz, ænd bˈʌkəld ðɪ ˈoʊld sˈæm bɹˈaʊn æt ðə sˈeɪm hˈoʊl.|768
+train-clean-360/7515/220979/7515_220979_000015_000002.wav|ðˈʌs ðeɪ sˈeɪ ðˈætwˌʌn ʌvðə kəmˈændmənts ʌvðə pˈɛntɐtjˌuːtʃ ɪz ðˌɐɾɪt ɪz ʌnlˈɔːfəl tə pɑːɹtˈeɪk ʌv mˈiːt ænd bˈʌɾɚ təɡˌɛðɚ bɪkˈʌz ɪɾ ɪz tˈɛɹf, ænd tˈɛɹf ɪn hˈiːbɹuː mˈiːnz ʌŋklˈiːn, æz kˈoʊʃɚ mˈiːnz klˈiːn.|19
+train-clean-360/7704/106969/7704_106969_000046_000000.wav|ˈoʊ, juː mˈʌsənt!kɹˈaɪd nˈænsi.|707
+train-clean-360/5290/26685/5290_26685_000052_000000.wav|"aɪ sˈɔː juː ðɪs mˈɔːɹnɪŋ, mˈæm, æz juː wɛnt ˈaʊt.|409
+train-clean-360/7766/109658/7766_109658_000044_000001.wav|nˈaʊ, juː sˈiː ðæt ˈoʊld bˈeɪb ɪnðə wˈʊd ˌoʊvɚ ðˈɛɹ? wˈɛl, hiːz ðə bˈɔɪ ðæt dɹˈuː ðə pɹˈaɪz.|31
+train-clean-360/6763/74797/6763_74797_000007_000000.wav|"ˈoʊ, ðə lˈaɪt ɪz ɡˈʊd ɪnˈʌf," ʃiː ˈænsɚd, tˈeɪkɪŋ nˈoʊ nˈoʊɾɪs ʌvðə kˈɑːmplɪmənt.|971
+train-clean-360/500/125123/500_125123_000028_000005.wav|ɐ wˈeɪst, ɐ wˈeɪst, ɐ wˈeɪst, maɪ twˈɛmloʊ!ænd sˌoʊ dɹˈɑːps ɐslˈiːp, ænd hɐz ɡælvˈænɪk stˈɑːɹts ˈɔːl ˈoʊvɚ hˌɪm.|82
+train-clean-360/984/137154/984_137154_000005_000001.wav|ˈɔːlmoʊst ˈɛvɹi kəntˈɛmpɚɹˌɛɹi pɹəpˈoʊzəl tə bɹˈɪŋ fɹˈiːdəm ˌɪntʊ ðə tʃˈɜːtʃ ɪz sˈɪmpli ɐ pɹəpˈoʊzəl tə bɹˈɪŋ tˈɪɹəni ˌɪntʊ ðə wˈɜːld.|1082
+train-clean-360/7704/106974/7704_106974_000067_000000.wav|jˈɛs, ˌɪndˈiːd aɪ hˈæv, maɪ bˈɔɪ.|707
+train-clean-360/8142/3966/8142_3966_000015_000001.wav|hiː wʌz nˈaʊ sˈɪksti θɹˈiː jˈɪɹz ʌv ˈeɪdʒ.|1052
+train-clean-360/6139/58868/6139_58868_000064_000000.wav|ðə dˈʌst flˈuː, dˈɑːɡz bˈɑːɹkt, ænd tʃˈɪkɪnz ɹˈæn skwˈɔːkɪŋ əkɹˌɑːs ðə ɹˈoʊd ˌaʊɾəv ðə wˈeɪ.|910
+train-clean-360/7766/109658/7766_109658_000022_000004.wav|"sˈiː hˌaʊ ðə fˈoʊlɪɪdʒ dɹˈɪŋks ðə sˈʌnlaɪt fɹʌmðə hˈɑːloʊz ænd dˈɛlz."|31
+train-clean-360/1827/143625/1827_143625_000034_000007.wav|tˈeɪk ðˌɛm bˈæk ænd plˈeɪs ðˌɛm wɛɹˈɛvɚ ðˈaʊ wˈɪlt!|1081
+train-clean-360/6544/71420/6544_71420_000049_000003.wav|ɪt wʌzɐ vˈɛɹi fˈuːlɪʃ θˈɪŋ tə dˈuː."|240
+train-clean-360/4039/184266/4039_184266_000039_000000.wav|ðə dʒˈʊɹɹi hæd ˈiːtʃ fˈɔːɹmd ɐ dˈɪfɹənt vjˈuː lˈɔŋ bᵻfˌoːɹ ðɪ ɪndˈaɪtmənt wʌz ɹˈɛd, ænd ðeɪ ˈɔːl spˈoʊk ɐtwˈʌns, sˌoʊ ðæt nˈʌn ʌv ðˌɛm nˈuː wˈʌn wˈɜːd ðætðɪ ˈʌðɚz hæd sˈɛd.|899
+train-clean-360/3551/7884/3551_7884_000019_000000.wav|dʒˌuːlɪˈɛt wʌz wˈʌn ʌv ðoʊz hˌuː ɛskˈeɪpt kɑːndɛmnˈeɪʃən.|947
