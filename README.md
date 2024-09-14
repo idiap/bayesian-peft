@@ -20,3 +20,5 @@ It comprises three components:
 3. tts: codes and scripts for speech synthesis experiments based on the official implementation of [StyleTTS 2](https://github.com/yl4579/StyleTTS2).
 
 Please refer to the README.md in each directory for instructions.
+
+[Audio samples](https://recherchetts.github.io/bayesian-peft/) are available.
